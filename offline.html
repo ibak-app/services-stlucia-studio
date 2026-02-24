@@ -16,13 +16,9 @@
 
   <!-- Plausible -->
   <script defer data-domain="services.stlucia.studio" src="https://plausible.io/js/script.tagged-events.js"></script>
+  <script>window.plausible=window.plausible||function(){(window.plausible.q=window.plausible.q||[]).push(arguments)}</script>
 
-  <!-- GA4 -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0GXK2QMVPZ"></script>
-  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-0GXK2QMVPZ');</script>
 
-  <!-- Facebook Pixel -->
-  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','1403025764621663');fbq('track','PageView');</script>
 </head>
 <body>
 
@@ -33,7 +29,7 @@
       <a href="https://talent.stlucia.studio">Talent</a>
       <a href="https://hire.stlucia.studio">Hire</a>
       <a href="https://homes.stlucia.studio">Homes</a>
-      <a href="https://services.stlucia.studio" class="active" aria-current="true">Services</a>
+      <a href="https://services.stlucia.studio" class="active" aria-current="page">Services</a>
     </div>
   </div>
 
@@ -74,6 +70,7 @@
       window.location.reload();
     });
   </script>
+  <script src="/assets/js/analytics.js"></script>
   <script src="/assets/js/super-nav.js"></script>
 </body>
 </html>
