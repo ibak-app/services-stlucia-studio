@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>You're Offline — Saint Lucia Services Directory</title>
+  <meta name="description" content="You're offline. Check your connection and try again.">
+  <meta name="robots" content="noindex, nofollow">
+
+  <!-- PWA -->
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#0D7377">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+  <!-- Plausible -->
+  <script defer data-domain="services.stlucia.studio" src="https://plausible.io/js/script.tagged-events.js"></script>
+
+  <!-- GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0GXK2QMVPZ"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-0GXK2QMVPZ');</script>
+
+  <!-- Facebook Pixel -->
+  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','1403025764621663');fbq('track','PageView');</script>
+</head>
+<body>
+
+  <!-- Super Nav -->
+  <div class="super-nav" role="navigation" aria-label="Ecosystem navigation">
+    <div class="super-nav-inner">
+      <a href="https://stlucia.studio">Guide</a>
+      <a href="https://talent.stlucia.studio">Talent</a>
+      <a href="https://hire.stlucia.studio">Hire</a>
+      <a href="https://homes.stlucia.studio">Homes</a>
+      <a href="https://services.stlucia.studio" class="active" aria-current="true">Services</a>
+    </div>
+  </div>
+
+  <!-- Main Nav -->
+  <header class="main-nav" role="banner">
+    <div class="main-nav-inner">
+      <a href="/" class="nav-logo" aria-label="Saint Lucia Services Directory home">
+        <div class="logo-icon" aria-hidden="true">🇱🇨</div>
+        <span>SLU Services</span>
+      </a>
+    </div>
+  </header>
+
+  <!-- Page Content -->
+  <main class="page-wrapper" id="main-content">
+    <div class="error-page">
+      <div class="error-page-inner">
+        <div class="error-icon" aria-hidden="true">📵</div>
+        <h1>You're Offline</h1>
+        <p>It looks like you're not connected to the internet. Check your connection and try again.</p>
+        <div style="display:flex;flex-direction:column;gap:10px;align-items:center;">
+          <button class="btn-primary" onclick="window.location.reload()" aria-label="Retry loading the page">
+            Try Again
+          </button>
+          <a href="/" class="btn-outline">Go Home</a>
+        </div>
+        <p style="font-size:0.8rem;color:var(--text-muted);margin-top:24px;">
+          Previously visited pages may still be available if you installed this app.
+        </p>
+      </div>
+    </div>
+  </main>
+
+  <script src="/assets/js/app.js"></script>
+  <script>
+    // Attempt auto-reload when connection is restored
+    window.addEventListener('online', () => {
+      window.location.reload();
+    });
+  </script>
+  <script src="/assets/js/super-nav.js"></script>
+</body>
+</html>

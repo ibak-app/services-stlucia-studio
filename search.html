@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search Services — Saint Lucia Services Directory</title>
+  <meta name="description" content="Search for any service provider in Saint Lucia. Find plumbers, electricians, caterers, photographers, tutors, and more. Connect via WhatsApp.">
+  <meta name="robots" content="noindex, follow">
+  <link rel="canonical" href="https://services.stlucia.studio/search">
+
+  <!-- PWA -->
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#0D7377">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+  <!-- Plausible -->
+  <script defer data-domain="services.stlucia.studio" src="https://plausible.io/js/script.tagged-events.js"></script>
+
+  <!-- GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0GXK2QMVPZ"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-0GXK2QMVPZ');</script>
+
+  <!-- Facebook Pixel -->
+  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','1403025764621663');fbq('track','PageView');</script>
+</head>
+<body>
+
+  <!-- Super Nav -->
+  <div class="super-nav" role="navigation" aria-label="Ecosystem navigation">
+    <div class="super-nav-inner">
+      <a href="https://stlucia.studio">Guide</a>
+      <a href="https://talent.stlucia.studio">Talent</a>
+      <a href="https://hire.stlucia.studio">Hire</a>
+      <a href="https://homes.stlucia.studio">Homes</a>
+      <a href="https://services.stlucia.studio" class="active" aria-current="true">Services</a>
+    </div>
+  </div>
+
+  <!-- Main Nav -->
+  <header class="main-nav" role="banner">
+    <div class="main-nav-inner">
+      <a href="/" class="nav-logo" aria-label="Saint Lucia Services Directory home">
+        <div class="logo-icon" aria-hidden="true">🇱🇨</div>
+        <span>SLU Services</span>
+      </a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a href="/browse" class="nav-link">Browse</a>
+        <a href="/search" class="nav-link active" aria-current="page">Search</a>
+        <a href="/about" class="nav-link">About</a>
+      </nav>
+      <a href="/about#get-listed" class="nav-suggest-btn" aria-label="Get your service listed">
+        <span aria-hidden="true">+</span> Get Listed
+      </a>
+      <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Mobile Menu -->
+  <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile navigation">
+    <a href="/browse">Browse Categories</a>
+    <a href="/search" class="active">Search Services</a>
+    <a href="/about">About the Directory</a>
+    <a href="/about#get-listed">Get Your Business Listed</a>
+  </nav>
+
+  <!-- Page Content -->
+  <main class="page-wrapper" id="main-content">
+    <div class="container search-page">
+
+      <!-- Breadcrumb -->
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="sep" aria-hidden="true">›</span>
+        <span aria-current="page">Search</span>
+      </nav>
+
+      <h1 style="font-size:1.5rem;margin-bottom:20px;">Search Services</h1>
+
+      <!-- Search Input -->
+      <div role="search" aria-label="Search service providers">
+        <div class="search-input-wrapper">
+          <span class="search-icon" aria-hidden="true">🔍</span>
+          <label for="search-input" class="sr-only">Search for a service or provider</label>
+          <input type="search"
+                 id="search-input"
+                 class="search-page-input"
+                 placeholder="Try: plumber, wedding, taxi, cleaning..."
+                 autocomplete="off"
+                 aria-label="Search for a service or provider">
+        </div>
+      </div>
+
+      <!-- Results header -->
+      <p class="search-results-header" id="search-results-header" aria-live="polite" aria-atomic="true">
+        <!-- Updated by JS -->
+      </p>
+
+      <!-- Popular searches -->
+      <div id="popular-searches" style="margin-bottom:20px;">
+        <p style="font-size:0.8rem;color:var(--text-muted);margin-bottom:8px;">Popular searches:</p>
+        <div class="suggestions">
+          <a href="/search?q=plumber" class="suggestion-pill">Plumber</a>
+          <a href="/search?q=electrician" class="suggestion-pill">Electrician</a>
+          <a href="/search?q=cleaning" class="suggestion-pill">Cleaning</a>
+          <a href="/search?q=taxi" class="suggestion-pill">Taxi</a>
+          <a href="/search?q=cake" class="suggestion-pill">Cake</a>
+          <a href="/search?q=photographer" class="suggestion-pill">Photographer</a>
+          <a href="/search?q=hair" class="suggestion-pill">Hair</a>
+          <a href="/search?q=tutor" class="suggestion-pill">Tutor</a>
+          <a href="/search?q=ac" class="suggestion-pill">AC Repair</a>
+          <a href="/search?q=nails" class="suggestion-pill">Nails</a>
+        </div>
+      </div>
+
+      <!-- Results Grid -->
+      <div class="service-grid" id="search-results" aria-label="Search results" aria-live="polite">
+        <!-- Rendered by JS -->
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer" role="contentinfo">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="footer-logo">
+            <div class="footer-logo-icon" aria-hidden="true">🇱🇨</div>
+            <span class="footer-logo-name">SLU Services</span>
+          </div>
+          <p>Saint Lucia's largest WhatsApp-first services directory.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Browse</h4>
+          <ul>
+            <li><a href="/browse?category=home-services">Home Services</a></li>
+            <li><a href="/browse?category=auto-transport">Auto &amp; Transport</a></li>
+            <li><a href="/browse?category=beauty-wellness">Beauty &amp; Wellness</a></li>
+            <li><a href="/browse?category=food-catering">Food &amp; Catering</a></li>
+            <li><a href="/browse">View All</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Information</h4>
+          <ul>
+            <li><a href="/about">About</a></li>
+            <li><a href="/about#get-listed">Get Listed</a></li>
+            <li><a href="/report">Report Error</a></li>
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/terms">Terms of Use</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Ecosystem</h4>
+          <ul>
+            <li><a href="https://stlucia.studio" rel="noopener">Business Guide</a></li>
+            <li><a href="https://talent.stlucia.studio" rel="noopener">Find Talent</a></li>
+            <li><a href="https://hire.stlucia.studio" rel="noopener">Post Jobs</a></li>
+            <li><a href="https://homes.stlucia.studio" rel="noopener">Real Estate</a></li>
+          </ul>
+        </div>
+      </div>
+      <hr class="footer-divider">
+      <div class="footer-bottom">
+        <p>&copy; 2026 SLU Services Directory. Part of the <a href="https://stlucia.studio">stlucia.studio</a> ecosystem.</p>
+        <p>Not responsible for quality of services listed.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/assets/js/app.js"></script>
+  <script>
+    // Hide popular searches once user types
+    document.addEventListener('DOMContentLoaded', () => {
+      const input = document.getElementById('search-input');
+      const popularSearches = document.getElementById('popular-searches');
+      if (input && popularSearches) {
+        input.addEventListener('input', () => {
+          if (input.value.trim().length > 0) {
+            popularSearches.style.display = 'none';
+          } else {
+            popularSearches.style.display = 'block';
+          }
+        });
+        // Hide if query param is set
+        if (new URLSearchParams(window.location.search).get('q')) {
+          popularSearches.style.display = 'none';
+        }
+      }
+    });
+  </script>
+  <script src="/assets/js/super-nav.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0D7377"/>
+  <text x="256" y="320" font-size="260" text-anchor="middle" font-family="serif">🇱🇨</text>
+  <rect x="60" y="360" width="392" height="72" rx="12" fill="#25D366"/>
+  <text x="256" y="412" font-size="48" text-anchor="middle" font-family="-apple-system, sans-serif" fill="#fff" font-weight="700">Services</text>
+</svg>

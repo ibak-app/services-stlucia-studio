@@ -1,0 +1,514 @@
+[
+  {
+    "name": "Home Services",
+    "slug": "home-services",
+    "icon": "🏠",
+    "listing_count": 41,
+    "description": "Plumbers, electricians, carpenters, and general contractors for your home.",
+    "parent": null
+  },
+  {
+    "name": "Plumbing",
+    "slug": "plumbing",
+    "icon": "🔧",
+    "listing_count": 6,
+    "description": "Residential and commercial plumbing, pipe repairs, installations.",
+    "parent": "home-services"
+  },
+  {
+    "name": "Electrical",
+    "slug": "electrical",
+    "icon": "⚡",
+    "listing_count": 9,
+    "description": "Electrical installations, repairs, panel upgrades, and wiring.",
+    "parent": "home-services"
+  },
+  {
+    "name": "Carpentry",
+    "slug": "carpentry",
+    "icon": "🪵",
+    "listing_count": 0,
+    "description": "Custom furniture, cabinets, doors, windows, and wood repairs.",
+    "parent": "home-services"
+  },
+  {
+    "name": "Painting",
+    "slug": "painting",
+    "icon": "🎨",
+    "listing_count": 0,
+    "description": "Interior and exterior painting, surface preparation, decorating.",
+    "parent": "home-services"
+  },
+  {
+    "name": "AC & Cooling",
+    "slug": "ac-cooling",
+    "icon": "❄️",
+    "listing_count": 6,
+    "description": "Air conditioning installation, servicing, and repairs.",
+    "parent": "home-services"
+  },
+  {
+    "name": "Cleaning Services",
+    "slug": "cleaning",
+    "icon": "🧹",
+    "listing_count": 5,
+    "description": "Residential and commercial cleaning, deep cleans, post-construction.",
+    "parent": "home-services"
+  },
+  {
+    "name": "Landscaping",
+    "slug": "landscaping",
+    "icon": "🌿",
+    "listing_count": 4,
+    "description": "Garden design, lawn care, tree trimming, and outdoor maintenance.",
+    "parent": "home-services"
+  },
+  {
+    "name": "Security & CCTV",
+    "slug": "security",
+    "icon": "📷",
+    "listing_count": 1,
+    "description": "CCTV installation, alarm systems, access control.",
+    "parent": "home-services"
+  },
+  {
+    "name": "Auto & Transport",
+    "slug": "auto-transport",
+    "icon": "🚗",
+    "listing_count": 45,
+    "description": "Car repairs, rentals, taxi, delivery, and auto accessories.",
+    "parent": null
+  },
+  {
+    "name": "Car Repairs",
+    "slug": "car-repairs",
+    "icon": "🔩",
+    "listing_count": 2,
+    "description": "Mechanics, engine repairs, body work, and diagnostics.",
+    "parent": "auto-transport"
+  },
+  {
+    "name": "Car Rental",
+    "slug": "car-rental",
+    "icon": "🚙",
+    "listing_count": 10,
+    "description": "Daily and weekly car hire across Saint Lucia.",
+    "parent": "auto-transport"
+  },
+  {
+    "name": "Taxi & Transfer",
+    "slug": "taxi-transfer",
+    "icon": "🚕",
+    "listing_count": 20,
+    "description": "Airport transfers, island tours, and local taxi services.",
+    "parent": "auto-transport"
+  },
+  {
+    "name": "Delivery",
+    "slug": "delivery",
+    "icon": "📦",
+    "listing_count": 13,
+    "description": "Courier, food delivery, errand running, and freight services.",
+    "parent": "auto-transport"
+  },
+  {
+    "name": "Food & Catering",
+    "slug": "food-catering",
+    "icon": "🍽️",
+    "listing_count": 7,
+    "description": "Catering, meal prep, bakers, chefs, and food vendors.",
+    "parent": null
+  },
+  {
+    "name": "Catering",
+    "slug": "catering",
+    "icon": "👨‍🍳",
+    "listing_count": 1,
+    "description": "Event catering, corporate lunches, party food.",
+    "parent": "food-catering"
+  },
+  {
+    "name": "Baked Goods",
+    "slug": "baked-goods",
+    "icon": "🍰",
+    "listing_count": 2,
+    "description": "Custom cakes, pastries, breads, and baked items.",
+    "parent": "food-catering"
+  },
+  {
+    "name": "Meal Prep",
+    "slug": "meal-prep",
+    "icon": "🥗",
+    "listing_count": 0,
+    "description": "Weekly meal preparation, healthy meal plans, home cooked food.",
+    "parent": "food-catering"
+  },
+  {
+    "name": "Beauty & Wellness",
+    "slug": "beauty-wellness",
+    "icon": "💅",
+    "listing_count": 10,
+    "description": "Hair, nails, makeup, massage, and wellness services.",
+    "parent": null
+  },
+  {
+    "name": "Hair & Braiding",
+    "slug": "hair-braiding",
+    "icon": "💇",
+    "listing_count": 8,
+    "description": "Hairdressing, braiding, relaxers, weaves, and locs.",
+    "parent": "beauty-wellness"
+  },
+  {
+    "name": "Nails",
+    "slug": "nails",
+    "icon": "💅",
+    "listing_count": 0,
+    "description": "Manicure, pedicure, gel, acrylics, and nail art.",
+    "parent": "beauty-wellness"
+  },
+  {
+    "name": "Makeup",
+    "slug": "makeup",
+    "icon": "💄",
+    "listing_count": 0,
+    "description": "Wedding, event, and everyday makeup artistry.",
+    "parent": "beauty-wellness"
+  },
+  {
+    "name": "Massage & Spa",
+    "slug": "massage-spa",
+    "icon": "💆",
+    "listing_count": 2,
+    "description": "Therapeutic massage, body treatments, and spa services.",
+    "parent": "beauty-wellness"
+  },
+  {
+    "name": "Events & Entertainment",
+    "slug": "events-entertainment",
+    "icon": "🎉",
+    "listing_count": 9,
+    "description": "Event planners, DJs, photographers, and entertainment.",
+    "parent": null
+  },
+  {
+    "name": "Event Planning",
+    "slug": "event-planning",
+    "icon": "📋",
+    "listing_count": 7,
+    "description": "Weddings, birthdays, corporate events, and party planning.",
+    "parent": "events-entertainment"
+  },
+  {
+    "name": "Photography & Video",
+    "slug": "photography-video",
+    "icon": "📸",
+    "listing_count": 1,
+    "description": "Wedding, event, portrait, and commercial photography and videography.",
+    "parent": "events-entertainment"
+  },
+  {
+    "name": "DJ & Music",
+    "slug": "dj-music",
+    "icon": "🎧",
+    "listing_count": 0,
+    "description": "DJs, live bands, sound system hire, and music for events.",
+    "parent": "events-entertainment"
+  },
+  {
+    "name": "Decor & Floral",
+    "slug": "decor-floral",
+    "icon": "💐",
+    "listing_count": 1,
+    "description": "Event decor, balloon arrangements, floral design, and rentals.",
+    "parent": "events-entertainment"
+  },
+  {
+    "name": "Tech & Digital",
+    "slug": "tech-digital",
+    "icon": "💻",
+    "listing_count": 13,
+    "description": "IT support, web design, social media, and digital services.",
+    "parent": null
+  },
+  {
+    "name": "IT Support",
+    "slug": "it-support",
+    "icon": "🖥️",
+    "listing_count": 3,
+    "description": "Computer repairs, network setup, virus removal, and tech support.",
+    "parent": "tech-digital"
+  },
+  {
+    "name": "Web & App Design",
+    "slug": "web-app-design",
+    "icon": "🌐",
+    "listing_count": 4,
+    "description": "Website design, mobile apps, and digital product development.",
+    "parent": "tech-digital"
+  },
+  {
+    "name": "Social Media",
+    "slug": "social-media",
+    "icon": "📱",
+    "listing_count": 0,
+    "description": "Social media management, content creation, and digital marketing.",
+    "parent": "tech-digital"
+  },
+  {
+    "name": "Printing & Design",
+    "slug": "printing-design",
+    "icon": "🖨️",
+    "listing_count": 6,
+    "description": "Graphic design, printing, signage, and branding.",
+    "parent": "tech-digital"
+  },
+  {
+    "name": "Construction & Property",
+    "slug": "construction-property",
+    "icon": "🏗️",
+    "listing_count": 10,
+    "description": "Contractors, builders, architects, and property services.",
+    "parent": null
+  },
+  {
+    "name": "General Contracting",
+    "slug": "general-contracting",
+    "icon": "🔨",
+    "listing_count": 8,
+    "description": "Building construction, renovations, extensions.",
+    "parent": "construction-property"
+  },
+  {
+    "name": "Architecture & Design",
+    "slug": "architecture-design",
+    "icon": "📐",
+    "listing_count": 0,
+    "description": "Architectural design, drafting, and project management.",
+    "parent": "construction-property"
+  },
+  {
+    "name": "Real Estate",
+    "slug": "real-estate",
+    "icon": "🏡",
+    "listing_count": 2,
+    "description": "Property agents, rentals, sales, and valuations.",
+    "parent": "construction-property"
+  },
+  {
+    "name": "Education & Tutoring",
+    "slug": "education-tutoring",
+    "icon": "📚",
+    "listing_count": 0,
+    "description": "Private tutors, lessons, coaching, and educational services.",
+    "parent": null
+  },
+  {
+    "name": "Tutoring",
+    "slug": "tutoring",
+    "icon": "✏️",
+    "listing_count": 0,
+    "description": "Academic tutoring for all subjects and age groups.",
+    "parent": "education-tutoring"
+  },
+  {
+    "name": "Music & Arts Lessons",
+    "slug": "music-arts-lessons",
+    "icon": "🎵",
+    "listing_count": 0,
+    "description": "Music, dance, drama, and arts instruction.",
+    "parent": "education-tutoring"
+  },
+  {
+    "name": "Health & Fitness",
+    "slug": "health-fitness",
+    "icon": "🏋️",
+    "listing_count": 2,
+    "description": "Personal trainers, nutritionists, and fitness services.",
+    "parent": null
+  },
+  {
+    "name": "Personal Training",
+    "slug": "personal-training",
+    "icon": "🏃",
+    "listing_count": 2,
+    "description": "Personal fitness coaching, bootcamps, and workout plans.",
+    "parent": "health-fitness"
+  },
+  {
+    "name": "Pet Services",
+    "slug": "pet-services",
+    "icon": "🐾",
+    "listing_count": 0,
+    "description": "Vets, groomers, dog walkers, and pet care.",
+    "parent": null
+  },
+  {
+    "name": "Tours & Activities",
+    "slug": "tours-activities",
+    "icon": "🏝️",
+    "listing_count": 23,
+    "description": "Island tours, boat trips, diving, hiking, and adventure activities.",
+    "parent": null
+  },
+  {
+    "name": "Shopping & Retail",
+    "slug": "shopping-retail",
+    "icon": "🛍️",
+    "listing_count": 3,
+    "description": "Shops, stores, souvenirs, and retail businesses.",
+    "parent": null
+  },
+  {
+    "name": "Professional Services",
+    "slug": "professional-services",
+    "icon": "💼",
+    "listing_count": 10,
+    "description": "Legal, accounting, insurance, and business consulting.",
+    "parent": null
+  },
+  {
+    "name": "Essentials",
+    "slug": "essentials",
+    "icon": "🏪",
+    "listing_count": 4,
+    "description": "Banking, telecom, health, utilities, and everyday essentials.",
+    "parent": null
+  },
+  {
+    "name": "Boat Tours & Charters",
+    "slug": "boat-tours",
+    "icon": "⛵",
+    "listing_count": 11,
+    "description": "Catamaran cruises, private charters, sunset sails, and coastal tours.",
+    "parent": "tours-activities"
+  },
+  {
+    "name": "Diving & Snorkeling",
+    "slug": "diving-snorkeling",
+    "icon": "🤿",
+    "listing_count": 2,
+    "description": "Scuba diving, snorkeling trips, PADI courses, and reef tours.",
+    "parent": "tours-activities"
+  },
+  {
+    "name": "Hiking & Nature",
+    "slug": "hiking-nature",
+    "icon": "🥾",
+    "listing_count": 4,
+    "description": "Gros Piton hikes, rainforest walks, nature trails, and guided expeditions.",
+    "parent": "tours-activities"
+  },
+  {
+    "name": "Adventure & Zip Line",
+    "slug": "adventure-tours",
+    "icon": "🎢",
+    "listing_count": 1,
+    "description": "Zip lining, ATV rides, aerial trams, and adrenaline activities.",
+    "parent": "tours-activities"
+  },
+  {
+    "name": "Water Sports",
+    "slug": "water-sports",
+    "icon": "🏄",
+    "listing_count": 2,
+    "description": "Jet skiing, kayaking, paddle boarding, kite surfing.",
+    "parent": "tours-activities"
+  },
+  {
+    "name": "Fishing Charters",
+    "slug": "fishing-charters",
+    "icon": "🎣",
+    "listing_count": 1,
+    "description": "Deep sea fishing, sport fishing, and coastal fishing trips.",
+    "parent": "tours-activities"
+  },
+  {
+    "name": "Island Tours",
+    "slug": "island-tours",
+    "icon": "🗺️",
+    "listing_count": 0,
+    "description": "Full-day and half-day guided island tours.",
+    "parent": "tours-activities"
+  },
+  {
+    "name": "Horseback Riding",
+    "slug": "horseback-riding",
+    "icon": "🐴",
+    "listing_count": 2,
+    "description": "Beach riding, trail riding, and horseback tours.",
+    "parent": "tours-activities"
+  },
+  {
+    "name": "Pest Control",
+    "slug": "pest-control",
+    "icon": "🐜",
+    "listing_count": 10,
+    "description": "Termite treatment, pest extermination, and fumigation services.",
+    "parent": "home-services"
+  },
+  {
+    "name": "Grocery & Supermarket",
+    "slug": "grocery",
+    "icon": "🛒",
+    "listing_count": 0,
+    "description": "Supermarkets, grocery stores, and fresh produce.",
+    "parent": "food-catering"
+  },
+  {
+    "name": "Restaurants & Takeout",
+    "slug": "restaurants",
+    "icon": "🍔",
+    "listing_count": 4,
+    "description": "Restaurants, fast food, takeout, and dining.",
+    "parent": "food-catering"
+  },
+  {
+    "name": "Shopping & Gifts",
+    "slug": "shopping",
+    "icon": "🛍️",
+    "listing_count": 3,
+    "description": "Gift shops, clothing stores, home furnishings, and retail.",
+    "parent": "shopping-retail"
+  },
+  {
+    "name": "Legal Services",
+    "slug": "legal-services",
+    "icon": "⚖️",
+    "listing_count": 7,
+    "description": "Attorneys, notaries, immigration law, and legal advice.",
+    "parent": "professional-services"
+  },
+  {
+    "name": "Accounting & Tax",
+    "slug": "accounting",
+    "icon": "📊",
+    "listing_count": 2,
+    "description": "Bookkeeping, tax preparation, auditing, and financial advisory.",
+    "parent": "professional-services"
+  },
+  {
+    "name": "Insurance",
+    "slug": "insurance",
+    "icon": "🛡️",
+    "listing_count": 1,
+    "description": "Property, vehicle, health, and life insurance.",
+    "parent": "professional-services"
+  },
+  {
+    "name": "Telecom & Internet",
+    "slug": "telecom",
+    "icon": "📡",
+    "listing_count": 1,
+    "description": "Mobile, internet, cable, and telecommunications providers.",
+    "parent": "essentials"
+  },
+  {
+    "name": "Health & Medical",
+    "slug": "health-medical",
+    "icon": "🏥",
+    "listing_count": 3,
+    "description": "Clinics, pharmacies, medical services, and health practitioners.",
+    "parent": "essentials"
+  }
+]

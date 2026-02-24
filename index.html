@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Saint Lucia Services Directory — Find Services Made for You</title>
+  <meta name="description" content="Find trusted service providers across Saint Lucia tailored to your needs. Tourist, resident, business owner, expat — browse services and connect via WhatsApp.">
+  <meta name="keywords" content="Saint Lucia services, WhatsApp directory, plumber Saint Lucia, electrician Saint Lucia, services for tourists, services for expats">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://services.stlucia.studio/">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Saint Lucia Services Directory — Find Services Made for You">
+  <meta property="og:description" content="Browse 490+ service providers in Saint Lucia. Select your situation and get a tailored directory with WhatsApp contacts.">
+  <meta property="og:url" content="https://services.stlucia.studio/">
+  <meta property="og:site_name" content="SLU Services Directory">
+  <meta property="og:image" content="https://services.stlucia.studio/assets/images/og-image.jpg">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Saint Lucia Services Directory">
+  <meta name="twitter:description" content="Find trusted service providers across Saint Lucia and connect via WhatsApp instantly.">
+
+  <!-- PWA -->
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#0D7377">
+  <link rel="apple-touch-icon" href="/assets/icons/icon-192.png">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+  <!-- Schema.org -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Saint Lucia Services Directory",
+    "url": "https://services.stlucia.studio",
+    "description": "A curated directory of service providers in Saint Lucia, organized by persona and contactable via WhatsApp.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://services.stlucia.studio/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  <!-- Plausible -->
+  <script defer data-domain="services.stlucia.studio" src="https://plausible.io/js/script.tagged-events.js"></script>
+
+  <!-- GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0GXK2QMVPZ"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-0GXK2QMVPZ');</script>
+
+  <!-- Facebook Pixel -->
+  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','1403025764621663');fbq('track','PageView');</script>
+</head>
+<body>
+
+  <!-- Super Nav -->
+  <div class="super-nav" role="navigation" aria-label="Ecosystem navigation">
+    <div class="super-nav-inner">
+      <a href="https://stlucia.studio">Guide</a>
+      <a href="https://talent.stlucia.studio">Talent</a>
+      <a href="https://hire.stlucia.studio">Hire</a>
+      <a href="https://homes.stlucia.studio">Homes</a>
+      <a href="https://services.stlucia.studio" class="active" aria-current="page">Services</a>
+    </div>
+  </div>
+
+  <!-- Main Nav -->
+  <header class="main-nav" role="banner">
+    <div class="main-nav-inner">
+      <a href="/" class="nav-logo" aria-label="Saint Lucia Services Directory home">
+        <div class="logo-icon" aria-hidden="true">🇱🇨</div>
+        <span>SLU Services</span>
+      </a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a href="/browse" class="nav-link">Browse All</a>
+        <a href="/search" class="nav-link">Search</a>
+        <a href="/about" class="nav-link">About</a>
+      </nav>
+      <a href="/about#get-listed" class="nav-suggest-btn" aria-label="Get your service listed">
+        <span aria-hidden="true">+</span> Get Listed
+      </a>
+      <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Mobile Menu -->
+  <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile navigation">
+    <a href="/browse">Browse All Services</a>
+    <a href="/search">Search</a>
+    <a href="/about">About the Directory</a>
+    <a href="/about#get-listed">Get Your Business Listed</a>
+  </nav>
+
+  <!-- Page Content -->
+  <main class="page-wrapper" id="main-content">
+
+    <!-- Hero -->
+    <section class="persona-hero" aria-labelledby="hero-title">
+      <div class="container">
+        <h1 id="hero-title">Every Service You Need<br>in Saint Lucia</h1>
+        <p>Tell us who you are and we'll show you the services that matter most. Connect with providers directly via WhatsApp.</p>
+      </div>
+    </section>
+
+    <!-- Stats -->
+    <div class="stats-bar" aria-label="Directory statistics">
+      <span id="persona-stats">Loading...</span>
+    </div>
+
+    <!-- Persona Selector Grid -->
+    <section class="persona-section container" aria-labelledby="persona-heading">
+      <div class="persona-section-header">
+        <h2 id="persona-heading">I am a...</h2>
+        <p>Select your situation for a tailored services directory</p>
+      </div>
+      <div class="persona-grid" id="persona-grid" role="list" aria-label="Choose your role">
+        <!-- Rendered by JS from personas.json -->
+        <div class="skeleton" style="height:160px;border-radius:12px;" aria-hidden="true"></div>
+        <div class="skeleton" style="height:160px;border-radius:12px;" aria-hidden="true"></div>
+        <div class="skeleton" style="height:160px;border-radius:12px;" aria-hidden="true"></div>
+        <div class="skeleton" style="height:160px;border-radius:12px;" aria-hidden="true"></div>
+      </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="how-it-works" aria-labelledby="how-heading">
+      <div class="container">
+        <h2 id="how-heading">How It Works</h2>
+        <div class="steps-grid" role="list">
+          <div class="step-card" role="listitem">
+            <div class="step-number" aria-hidden="true">1</div>
+            <div class="step-body">
+              <h3>Choose Your Role</h3>
+              <p>Tourist, resident, business owner, expat — select who you are for a tailored directory.</p>
+            </div>
+          </div>
+          <div class="step-card" role="listitem">
+            <div class="step-number" aria-hidden="true">2</div>
+            <div class="step-body">
+              <h3>Browse &amp; Filter</h3>
+              <p>See all relevant categories at a glance. Filter by district. Expand any category to see providers.</p>
+            </div>
+          </div>
+          <div class="step-card" role="listitem">
+            <div class="step-number" aria-hidden="true">3</div>
+            <div class="step-body">
+              <h3>Tap WhatsApp</h3>
+              <p>One tap sends a message directly to the provider. No account needed, no middleman.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SEO Section -->
+    <section class="seo-section container" aria-label="About the directory">
+      <h2>Saint Lucia's Persona-Based Services Directory</h2>
+      <p>
+        The Saint Lucia Services Directory is the island's largest curated directory of local service providers — organized around who you are and what you need. Whether you're a tourist looking for airport transfers and tours, a resident needing a plumber or electrician, an expat setting up your new home, or a business owner finding suppliers — we've grouped the right services for your situation.
+      </p>
+      <p>
+        Every listing includes contact details, service areas, and pricing where available. We use WhatsApp as the primary contact method because it's how Saint Lucians communicate. No phone tag, no waiting on hold — just a direct message.
+      </p>
+      <p>
+        Can't find your situation above? <a href="/browse" style="color:var(--teal);font-weight:600;">Browse all services</a> or <a href="/search" style="color:var(--teal);font-weight:600;">search by name</a>.
+      </p>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer" role="contentinfo">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="footer-logo">
+            <div class="footer-logo-icon" aria-hidden="true">🇱🇨</div>
+            <span class="footer-logo-name">SLU Services</span>
+          </div>
+          <p>Saint Lucia's largest WhatsApp-first services directory. Connecting islanders and visitors with trusted local providers.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Directory</h4>
+          <ul>
+            <li><a href="/browse">Browse All</a></li>
+            <li><a href="/search">Search</a></li>
+            <li><a href="/for/tourist.html">For Tourists</a></li>
+            <li><a href="/for/resident.html">For Residents</a></li>
+            <li><a href="/for/local-business.html">For Businesses</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Information</h4>
+          <ul>
+            <li><a href="/about">About</a></li>
+            <li><a href="/about#get-listed">Get Listed</a></li>
+            <li><a href="/report">Report Error</a></li>
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/terms">Terms of Use</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Ecosystem</h4>
+          <ul>
+            <li><a href="https://stlucia.studio" rel="noopener">Business Guide</a></li>
+            <li><a href="https://talent.stlucia.studio" rel="noopener">Find Talent</a></li>
+            <li><a href="https://hire.stlucia.studio" rel="noopener">Post Jobs</a></li>
+            <li><a href="https://homes.stlucia.studio" rel="noopener">Real Estate</a></li>
+          </ul>
+        </div>
+      </div>
+      <hr class="footer-divider">
+      <div class="footer-bottom">
+        <p>&copy; 2026 SLU Services Directory. Part of the <a href="https://stlucia.studio">stlucia.studio</a> ecosystem.</p>
+        <p>Not responsible for quality of services listed. Use at your own discretion.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/assets/js/app.js"></script>
+  <script src="/assets/js/super-nav.js"></script>
+</body>
+</html>

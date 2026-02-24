@@ -1,0 +1,5396 @@
+[
+  {
+    "id": "svc-e0047c2c",
+    "name": "Lord & Associates Services Ltd",
+    "slug": "lord-associates-services-ltd",
+    "whatsapp_number": "+17585190522",
+    "category": {
+      "name": "AC & Cooling",
+      "slug": "ac-cooling",
+      "icon": "❄️"
+    },
+    "description": "Sell, install and service heating systems and air conditioning. NARA certified technicians. Commercial HVAC.",
+    "short_description": "Sell, install and service heating systems and air conditioning. NARA certified technicians. Commercial HVAC.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17585190522",
+    "website": "www.lordassociate.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-03427a96",
+    "name": "Muff Refrigeration & Air Conditioning Co Ltd",
+    "slug": "muff-refrigeration-air-conditioning-co-ltd",
+    "whatsapp_number": "+17584522874",
+    "category": {
+      "name": "AC & Cooling",
+      "slug": "ac-cooling",
+      "icon": "❄️"
+    },
+    "description": "AC solutions, spare parts including compressors. Brands: Lenox, GE, Parker Sporlan, Daikin, Carrier.",
+    "short_description": "AC solutions, spare parts including compressors. Brands: Lenox, GE, Parker Sporlan, Daikin, Carrier.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584522874",
+    "website": "muff-refrigeration-and-air.business.site",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c393e471",
+    "name": "Optimum Cooling",
+    "slug": "optimum-cooling",
+    "whatsapp_number": "+17582876558",
+    "category": {
+      "name": "AC & Cooling",
+      "slug": "ac-cooling",
+      "icon": "❄️"
+    },
+    "description": "AC installation (split, ducted, VRF systems), HVAC repairs, commercial refrigeration installation/repair/maintenance, preventive maintenance programs. 24-hour emergency service.",
+    "short_description": "AC installation (split, ducted, VRF systems), HVAC repairs, commercial refrigeration...",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17582876558",
+    "website": "optimumcoolingslu.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/optimumcooling.slu/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-a87827a6",
+    "name": "Paul's Refrigeration & Air Conditioning Services Ltd",
+    "slug": "pauls-refrigeration-air-conditioning-services-ltd",
+    "whatsapp_number": "+17584549439",
+    "category": {
+      "name": "AC & Cooling",
+      "slug": "ac-cooling",
+      "icon": "❄️"
+    },
+    "description": "EPA Certified refrigeration and A/C services. Two locations.",
+    "short_description": "EPA Certified refrigeration and A/C services. Two locations.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Vieux Fort"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584549439",
+    "website": "www.paulsserviceslu.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c1e4c2d8",
+    "name": "Power Cooling & Construction (PCC) Services Ltd",
+    "slug": "power-cooling-construction-pcc-services-ltd",
+    "whatsapp_number": "+17584505405",
+    "category": {
+      "name": "AC & Cooling",
+      "slug": "ac-cooling",
+      "icon": "❄️"
+    },
+    "description": "Air conditioning contractors, equipment, and repairs",
+    "short_description": "Air conditioning contractors, equipment, and repairs",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584505405",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-7cb51c06",
+    "name": "SGD Engineering Inc",
+    "slug": "sgd-engineering-inc",
+    "whatsapp_number": "+17584525185",
+    "category": {
+      "name": "AC & Cooling",
+      "slug": "ac-cooling",
+      "icon": "❄️"
+    },
+    "description": "Supplying and maintaining industry grade HVAC-R products",
+    "short_description": "Supplying and maintaining industry grade HVAC-R products",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584525185",
+    "website": "www.sgdengineering.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-08f39efb",
+    "name": "I V Accounting & Tax Services",
+    "slug": "i-v-accounting-tax-services",
+    "whatsapp_number": "+17584523740",
+    "category": {
+      "name": "Accounting & Tax",
+      "slug": "accounting",
+      "icon": "📊"
+    },
+    "description": "Accounting and tax services. Two locations.",
+    "short_description": "Accounting and tax services. Two locations.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584523740",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d1275098",
+    "name": "Yarde & Associates (Accounting)",
+    "slug": "yarde-associates-accounting",
+    "whatsapp_number": "+17584580467",
+    "category": {
+      "name": "Accounting & Tax",
+      "slug": "accounting",
+      "icon": "📊"
+    },
+    "description": "Accounting and financial services",
+    "short_description": "Accounting and financial services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584580467",
+    "website": "yardeandassociates.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-71eb48ba",
+    "name": "Island ATV",
+    "slug": "island-atv",
+    "whatsapp_number": "+17582844400",
+    "category": {
+      "name": "Adventure & Zip Line",
+      "slug": "adventure-tours",
+      "icon": "🎢"
+    },
+    "description": "ATV tours through southern St. Lucia mountain trails, plantation grounds, Devil's Bridge, black sand beaches. IrieLucian ATV Tour, ATV Picnic, Bike/Hike/Rappel combo. 2.5 hours duration, 16+ years old. Safety gear and refreshments included",
+    "short_description": "ATV tours through southern St. Lucia mountain trails, plantation grounds, Devil's Bridge, black sand beaches....",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": "IrieLucian ATV Tour: US$140/person, ATV Picnic: US$260/person, Bike/Hike/Rappel: US$180/person",
+    "hours": null,
+    "phone": "+17582844400",
+    "website": "island-atv.com",
+    "facebook": null,
+    "instagram": "Instagram: @islandatvstlucia",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1f099a8c",
+    "name": "Sweetmood 758",
+    "slug": "sweetmood-758",
+    "whatsapp_number": "+17582853398",
+    "category": {
+      "name": "Baked Goods",
+      "slug": "baked-goods",
+      "icon": "🍰"
+    },
+    "description": "Custom made cakes, desserts, and catering services. Takes orders via WhatsApp. 30% non-refundable deposit required for orders.. Two WhatsApp numbers listed: 285-3398 and 285-1500. Orders via WhatsApp confirmed on business listing.",
+    "short_description": "Custom made cakes, desserts, and catering services. Takes orders via WhatsApp. 30% non-refundable deposit required...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "30% non-refundable deposit required; custom pricing",
+    "hours": null,
+    "phone": "+17582853398",
+    "website": null,
+    "facebook": null,
+    "instagram": "Instagram: @sweetmood_758",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f0072297",
+    "name": "Sweetmood 758 (alternate)",
+    "slug": "sweetmood-758-alternate",
+    "whatsapp_number": "+17582851500",
+    "category": {
+      "name": "Baked Goods",
+      "slug": "baked-goods",
+      "icon": "🍰"
+    },
+    "description": "Custom made cakes, desserts, and catering services. Alternate WhatsApp contact.. Secondary WhatsApp number for same business.",
+    "short_description": "Custom made cakes, desserts, and catering services. Alternate WhatsApp contact.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "30% non-refundable deposit required",
+    "hours": null,
+    "phone": "+17582851500",
+    "website": null,
+    "facebook": null,
+    "instagram": "Instagram: @sweetmood_758",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-de40bbce",
+    "name": "Bank of Saint Lucia (BOSL) - Digital Branch",
+    "slug": "bank-of-saint-lucia-bosl-digital-branch",
+    "whatsapp_number": "+17587252675",
+    "category": {
+      "name": "Banking",
+      "slug": "banking",
+      "icon": "🏦"
+    },
+    "description": "Digital banking services, account inquiries, general banking support via WhatsApp",
+    "short_description": "Digital banking services, account inquiries, general banking support via WhatsApp",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Gros Islet",
+      "Soufriere",
+      "Vieux Fort",
+      "Choiseul"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587252675",
+    "website": "www.bankofsaintlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-44b7ede3",
+    "name": "Exodus Boat Charters",
+    "slug": "exodus-boat-charters",
+    "whatsapp_number": "+17584853966",
+    "category": {
+      "name": "Boat Tours & Charters",
+      "slug": "boat-tours",
+      "icon": "⛵"
+    },
+    "description": "Private boat cruises, yacht sailing charters, catamaran charters, deep sea fishing, combination charters, all-inclusive group charters. Multiple vessels including 35ft Cabo Express",
+    "short_description": "Private boat cruises, yacht sailing charters, catamaran charters, deep sea fishing, combination charters,...",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584853966",
+    "website": "exodusstlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-4f0fd590",
+    "name": "Hackshaw's Boat Charters",
+    "slug": "hackshaws-boat-charters",
+    "whatsapp_number": "+17587217379",
+    "category": {
+      "name": "Boat Tours & Charters",
+      "slug": "boat-tours",
+      "icon": "⛵"
+    },
+    "description": "Boat tours, speed boat tours, sports fishing, bottom fishing, whale watching, day cruises, sunset cruises, inter-island charters, private custom coastal cruises. Family-operated for 68+ years. One of the longest-established boat charter companies in Saint Lucia.",
+    "short_description": "Boat tours, speed boat tours, sports fishing, bottom fishing, whale watching, day cruises, sunset cruises,...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "Via booking request",
+    "hours": null,
+    "phone": "+17587217379",
+    "website": "hackshaws.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-15805d6a",
+    "name": "Lucian Explora",
+    "slug": "lucian-explora",
+    "whatsapp_number": "+17587255210",
+    "category": {
+      "name": "Boat Tours & Charters",
+      "slug": "boat-tours",
+      "icon": "⛵"
+    },
+    "description": "Private luxury catamaran cruises, Soufriere tours, private airport transfers, water taxi airport transfer, Piton hike, jet skiing, private east coast tour, land and sea tour, street party lift (private roundtrip), villa/hotel bookings. Mon-Sun 9am-5pm. Authentic local experiences. Also offers villa/property rentals.",
+    "short_description": "Private luxury catamaran cruises, Soufriere tours, private airport transfers, water taxi airport transfer, Piton...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Gros Islet",
+      "Rodney Bay",
+      "Soufriere",
+      "Vieux Fort",
+      "Canaries",
+      "Anse la Raye"
+    ],
+    "price_info": "Private Luxury Catamaran: from $160; Soufriere Tour: from $137; Private Airport Transfer: from $110; Water Taxi Transfer: from $150",
+    "hours": null,
+    "phone": "+17587255210",
+    "website": "lucianexplora.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-01f6bf7a",
+    "name": "Mystic Man Tours",
+    "slug": "mystic-man-tours",
+    "whatsapp_number": "+17584844800",
+    "category": {
+      "name": "Boat Tours & Charters",
+      "slug": "boat-tours",
+      "icon": "⛵"
+    },
+    "description": "Deep sea fishing, sailing, catamaran charters, whale watching, sunset cruise, snorkeling, cruise ship eco adventure, vacation on a yacht, ATV excursions, luxury private charter to Grenada, fishing & sailing retreats, electric vehicle rentals. Fleet of 8 vessels. 25 years in operation",
+    "short_description": "Deep sea fishing, sailing, catamaran charters, whale watching, sunset cruise, snorkeling, cruise ship eco adventure,...",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584844800",
+    "website": "mysticmantours.com",
+    "facebook": null,
+    "instagram": "Instagram: @mystic_man_tours",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-179a83b6",
+    "name": "Ocean Angel Boat Tours",
+    "slug": "ocean-angel-boat-tours",
+    "whatsapp_number": "+17587269364",
+    "category": {
+      "name": "Boat Tours & Charters",
+      "slug": "boat-tours",
+      "icon": "⛵"
+    },
+    "description": "Boat tours, airport transfers, water taxi services",
+    "short_description": "Boat tours, airport transfers, water taxi services",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587269364",
+    "website": "www.oceanangelboattours.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-331aac6d",
+    "name": "Papa Boat Tours",
+    "slug": "papa-boat-tours",
+    "whatsapp_number": "+17587154412",
+    "category": {
+      "name": "Boat Tours & Charters",
+      "slug": "boat-tours",
+      "icon": "⛵"
+    },
+    "description": "Boat tours, Pitons cruise, coastal excursions",
+    "short_description": "Boat tours, Pitons cruise, coastal excursions",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587154412",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-e3561422",
+    "name": "SJS Chartered Accountants",
+    "slug": "sjs-chartered-accountants",
+    "whatsapp_number": "+17587163106",
+    "category": {
+      "name": "Boat Tours & Charters",
+      "slug": "boat-tours",
+      "icon": "⛵"
+    },
+    "description": "Chartered accountancy services",
+    "short_description": "Chartered accountancy services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587163106",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d8101764",
+    "name": "Saint Lucia Taxi Tours (Executive Service)",
+    "slug": "saint-lucia-taxi-tours-executive-service",
+    "whatsapp_number": "+17584607822",
+    "category": {
+      "name": "Boat Tours & Charters",
+      "slug": "boat-tours",
+      "icon": "⛵"
+    },
+    "description": "Airport transfers, island tours, wedding transportation, car rental, Gros Piton Tour, Piton Snorkeling, Tet Paul Scenic Trail, Rainforest Zip-Line, Bean to Bar Chocolate Tour, Private Speed Boat Tour, Sunset Tour, Gros Islet Friday Night Street Party, vehicle rental (Honda Vezel, Vitara Jeep). Executive service. Also offers SY Villa accommodation in Belle Vue, Choiseul (2-bedroom). TripAdvisor recommended drivers Kendy and Damion.",
+    "short_description": "Airport transfers, island tours, wedding transportation, car rental, Gros Piton Tour, Piton Snorkeling, Tet Paul...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Featured tours: $100 for 4-hour experiences",
+    "hours": null,
+    "phone": "+17584607822",
+    "website": "saintluciataxitours.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-88963ebb",
+    "name": "Sea Spray Cruises",
+    "slug": "sea-spray-cruises",
+    "whatsapp_number": "+17584881123",
+    "category": {
+      "name": "Boat Tours & Charters",
+      "slug": "boat-tours",
+      "icon": "⛵"
+    },
+    "description": "Cruises by sea, land and sea combined adventures, cruise ship excursions, island hopping excursions, private charters, airport ferry service, custom tour arrangements",
+    "short_description": "Cruises by sea, land and sea combined adventures, cruise ship excursions, island hopping excursions, private...",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584881123",
+    "website": "seaspraycruises.com",
+    "facebook": null,
+    "instagram": "Instagram: @stluciatours",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-331788b6",
+    "name": "Trivial Pursuit Tours",
+    "slug": "trivial-pursuit-tours",
+    "whatsapp_number": "+17585202202",
+    "category": {
+      "name": "Boat Tours & Charters",
+      "slug": "boat-tours",
+      "icon": "⛵"
+    },
+    "description": "Catamaran tours (46ft catamaran), Soufriere/Pitons cruise, snorkeling, swimming, recreation. 4.5 hour adventure",
+    "short_description": "Catamaran tours (46ft catamaran), Soufriere/Pitons cruise, snorkeling, swimming, recreation. 4.5 hour adventure",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17585202202",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-409d2a96",
+    "name": "UHY Chartered Accountants",
+    "slug": "uhy-chartered-accountants",
+    "whatsapp_number": "+17584532223",
+    "category": {
+      "name": "Boat Tours & Charters",
+      "slug": "boat-tours",
+      "icon": "⛵"
+    },
+    "description": "Chartered accountancy services, audit, tax",
+    "short_description": "Chartered accountancy services, audit, tax",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584532223",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5fc74bf6",
+    "name": "ALL St. Lucia Car Rentals (AL Rentals)",
+    "slug": "all-st-lucia-car-rentals-al-rentals",
+    "whatsapp_number": "+17584851444",
+    "category": {
+      "name": "Car Rental",
+      "slug": "car-rental",
+      "icon": "🚙"
+    },
+    "description": "Car rental (budget to luxury), airport transfers, free hotel delivery. Fleet: compact cars, Suzuki Vitara, Toyota Rush, Mitsubishi Pajero, Audi Q5, Suzuki Jimny, Nissan Frontier, 7-seater SUVs. Over 30 years experience. 2008 NLVA Service Award. Multiple WhatsApp numbers available.",
+    "short_description": "Car rental (budget to luxury), airport transfers, free hotel delivery. Fleet: compact cars, Suzuki Vitara, Toyota...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Compact from $60/day; Suzuki Vitara from $85/day; Toyota Rush from $95/day; Pajero from $125/day; Audi Q5 from $225/day. Airport transfers from $75 (1-3 pax)",
+    "hours": null,
+    "phone": "+17584851444",
+    "website": "al-rentals.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-744acb63",
+    "name": "Costless Rent-A-Car",
+    "slug": "costless-rent-a-car",
+    "whatsapp_number": "+17582852183",
+    "category": {
+      "name": "Car Rental",
+      "slug": "car-rental",
+      "icon": "🚙"
+    },
+    "description": "Car rental. Fleet: Toyota Fortuner, Toyota Rush, Toyota Aqua, Toyota Alphard, Honda Vezel, Honda Fit, Daihatsu Terios, Suzuki SX4. Modern fleet of well-maintained vehicles. Hassle-free pickup and drop-off.",
+    "short_description": "Car rental. Fleet: Toyota Fortuner, Toyota Rush, Toyota Aqua, Toyota Alphard, Honda Vezel, Honda Fit, Daihatsu...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Rates on request via website",
+    "hours": null,
+    "phone": "+17582852183",
+    "website": "www.costless-rentacar.com",
+    "facebook": "Facebook",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-b7b77dc9",
+    "name": "Discover Soufriere Taxi Service",
+    "slug": "discover-soufriere-taxi-service",
+    "whatsapp_number": "+17584897077",
+    "category": {
+      "name": "Car Rental",
+      "slug": "car-rental",
+      "icon": "🚙"
+    },
+    "description": "Airport transfers, hotel transportation, tours, custom island trips, private guide/driver, car rental, full-day island tours, multi-stop transfers. Clean, air-conditioned taxis. 24/7 availability. Drivers are local guides. PayPal payment integration. On-time guarantee.",
+    "short_description": "Airport transfers, hotel transportation, tours, custom island trips, private guide/driver, car rental, full-day...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Taxi fare estimator on website. Rates at approx $1.50/km with preset tiers",
+    "hours": null,
+    "phone": "+17584897077",
+    "website": "www.discoversoufriere.com/saint-lucia-taxi-service",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-615d343b",
+    "name": "FRAM Tours & Taxi Services",
+    "slug": "fram-tours-taxi-services",
+    "whatsapp_number": "+17587239095",
+    "category": {
+      "name": "Car Rental",
+      "slug": "car-rental",
+      "icon": "🚙"
+    },
+    "description": "Tours (mud bath, rum tasting, Fort Rodney hike, Piton hike, Tet Paul Nature Trail, beach tours), airport transfers, car rental. Booked by 10,000+ travelers including cruise ship and resort guests. Personalized 5-star island experiences. Also operates FRAM Island Car Rental (framcars.com).",
+    "short_description": "Tours (mud bath, rum tasting, Fort Rodney hike, Piton hike, Tet Paul Nature Trail, beach tours), airport transfers,...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Not listed on website",
+    "hours": null,
+    "phone": "+17587239095",
+    "website": "www.framtoursstlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-b713714b",
+    "name": "Golden Ticket SLU",
+    "slug": "golden-ticket-slu",
+    "whatsapp_number": "+17582866062",
+    "category": {
+      "name": "Car Rental",
+      "slug": "car-rental",
+      "icon": "🚙"
+    },
+    "description": "Airport transfers, fast track service, island excursions and tours, car rental, taxi services, Gros Piton hike, zipline, Hotel Chocolat tour, ATV adventure. Open 7 days, 9am-5pm. Driver Swanson highly recommended by TripAdvisor reviewers.",
+    "short_description": "Airport transfers, fast track service, island excursions and tours, car rental, taxi services, Gros Piton hike,...",
+    "district": "Soufriere",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Fast Track: $55 USD/adult, $35 USD/child. Summer deals up to 30% off",
+    "hours": null,
+    "phone": "+17582866062",
+    "website": "goldenticketslu.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f8fd0d34",
+    "name": "Lucian Rentals",
+    "slug": "lucian-rentals",
+    "whatsapp_number": "+17587221200",
+    "category": {
+      "name": "Car Rental",
+      "slug": "car-rental",
+      "icon": "🚙"
+    },
+    "description": "Vehicle rentals, short-term property/villa rentals, chauffeur-driven luxury car service. Island's premier destination for vehicle and villa rentals. Booking confirmation within 24 hours. Flexible booking.",
+    "short_description": "Vehicle rentals, short-term property/villa rentals, chauffeur-driven luxury car service",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Rates on request. Also rents scooters",
+    "hours": null,
+    "phone": "+17587221200",
+    "website": "lucianrentals.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-34cd92b2",
+    "name": "No Limit Taxi and Tours",
+    "slug": "no-limit-taxi-and-tours",
+    "whatsapp_number": "+17587170303",
+    "category": {
+      "name": "Car Rental",
+      "slug": "car-rental",
+      "icon": "🚙"
+    },
+    "description": "Airport transfers, business transfers, sightseeing tours (volcano, mud baths), shopping trips, dinner outings, ATV adventures, zipline adventures, chocolate tours, land and sea tours, water taxi, wedding coordination, rainforest exploration, bird watching, car rental. Operating since 2011. Top-rated on TripAdvisor. Fleet: sedans, luxury SUVs, mini vans, SUVs. Welcome drinks and cool towels offered.",
+    "short_description": "Airport transfers, business transfers, sightseeing tours (volcano, mud baths), shopping trips, dinner outings, ATV...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Standard tours from $110 (3-4 hrs at $100, 6-8 hrs at $150). Chocolate tours from $100",
+    "hours": null,
+    "phone": "+17587170303",
+    "website": "www.nolimittaxiandtours.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-a0b5ed15",
+    "name": "Saint Lucia Airport Shuttle",
+    "slug": "saint-lucia-airport-shuttle",
+    "whatsapp_number": "+17584861561",
+    "category": {
+      "name": "Car Rental",
+      "slug": "car-rental",
+      "icon": "🚙"
+    },
+    "description": "Airport transfers, executive transfers, helicopter transfers, car rental, island tours and excursions. Award-winning service with 5,000+ customer reviews. Response time within 5 minutes. Up to 1 hour free waiting for airport pickups.",
+    "short_description": "Airport transfers, executive transfers, helicopter transfers, car rental, island tours and excursions",
+    "district": "Gros Islet",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Fixed transparent pricing, taxes and tolls included. No hidden costs.",
+    "hours": null,
+    "phone": "+17584861561",
+    "website": "www.saintluciaairportshuttle.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5954a33b",
+    "name": "St Lucia Taxi and Tours (Soufriere)",
+    "slug": "st-lucia-taxi-and-tours-soufriere",
+    "whatsapp_number": "+17587151881",
+    "category": {
+      "name": "Car Rental",
+      "slug": "car-rental",
+      "icon": "🚙"
+    },
+    "description": "Taxi services, private tours, airport transfers, ATV rainforest adventures, Gros Piton hiking, car rental, cruise ship excursions. Response time within 12-24 hours.",
+    "short_description": "Taxi services, private tours, airport transfers, ATV rainforest adventures, Gros Piton hiking, car rental, cruise...",
+    "district": "Soufriere",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Not listed. Emphasizes honesty, safety, promptness",
+    "hours": null,
+    "phone": "+17587151881",
+    "website": "www.taxiandtoursstlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1bb185e7",
+    "name": "Sunrise Car Rentals",
+    "slug": "sunrise-car-rentals",
+    "whatsapp_number": "+17584897799",
+    "category": {
+      "name": "Car Rental",
+      "slug": "car-rental",
+      "icon": "🚙"
+    },
+    "description": "Daily, weekly, monthly, and yearly car hire. Airport transfer and shuttle services. Rated 4.5/5. Motto: 'Where you need us, when you need us.' Delivers to pickup locations.",
+    "short_description": "Daily, weekly, monthly, and yearly car hire. Airport transfer and shuttle services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Gros Islet",
+      "Rodney Bay",
+      "Vieux Fort"
+    ],
+    "price_info": "Rates on request",
+    "hours": null,
+    "phone": "+17584897799",
+    "website": "sunrisecarrents.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-e29eef59",
+    "name": "Anesto's Auto Parts",
+    "slug": "anestos-auto-parts",
+    "whatsapp_number": "+17587164459",
+    "category": {
+      "name": "Car Repairs",
+      "slug": "car-repairs",
+      "icon": "🔩"
+    },
+    "description": "Largest auto parts supplier in the south of St. Lucia. Wide range of car parts, accessories, and body parts for all makes and models.",
+    "short_description": "Largest auto parts supplier in the south of St. Lucia. Wide range of car parts, accessories, and body parts for all...",
+    "district": "Vieux Fort",
+    "areas_served": [
+      "Vieux Fort"
+    ],
+    "price_info": "Auto parts pricing varies",
+    "hours": null,
+    "phone": "+17587164459",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-adba6e51",
+    "name": "TyreZone Ltd",
+    "slug": "tyrezone-ltd",
+    "whatsapp_number": "+17584521313",
+    "category": {
+      "name": "Car Repairs",
+      "slug": "car-repairs",
+      "icon": "🔩"
+    },
+    "description": "Top brands of passenger, commercial and industrial tyres. Wide range of vehicle accessories and batteries.",
+    "short_description": "Top brands of passenger, commercial and industrial tyres. Wide range of vehicle accessories and batteries.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "Tyre and accessory pricing varies by brand/size",
+    "hours": null,
+    "phone": "+17584521313",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-a0894a0e",
+    "name": "Lushe Restaurant and Bar",
+    "slug": "lushe-restaurant-and-bar",
+    "whatsapp_number": "+17584546227",
+    "category": {
+      "name": "Catering",
+      "slug": "catering",
+      "icon": "👨‍🍳"
+    },
+    "description": "Family-owned restaurant offering authentic Lucian food with innovative twist. Dine-in, takeaway, delivery, party packages, wedding catering, and event bookings. Menu includes grilled meats, pizzas, burgers, pasta, sandwiches, cocktails.. WhatsApp confirmed on official website. Reservations and delivery orders accepted via WhatsApp. Hours: Mon-Sat 10am-10pm, Sun 12pm-10pm.",
+    "short_description": "Family-owned restaurant offering authentic Lucian food with innovative twist. Dine-in, takeaway, delivery, party...",
+    "district": "Vieux Fort",
+    "areas_served": [
+      "Vieux Fort",
+      "Laborie"
+    ],
+    "price_info": "Grilled pork $26, grilled lamb $30; full menu on website",
+    "hours": null,
+    "phone": "+17584546227",
+    "website": "www.lushestlucia.com",
+    "facebook": "Facebook: lusherestaurantandbar | Instagram: lusherestaurantandbar",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-afce99b8",
+    "name": "Delux Dry Cleaners",
+    "slug": "delux-dry-cleaners",
+    "whatsapp_number": "+17584509681",
+    "category": {
+      "name": "Cleaning Services",
+      "slug": "cleaning",
+      "icon": "🧹"
+    },
+    "description": "Dry cleaning services",
+    "short_description": "Dry cleaning services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584509681",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-fe1b0a4b",
+    "name": "L & L Quality Cleaning Services Inc",
+    "slug": "l-l-quality-cleaning-services-inc",
+    "whatsapp_number": "+17587233629",
+    "category": {
+      "name": "Cleaning Services",
+      "slug": "cleaning",
+      "icon": "🧹"
+    },
+    "description": "Professional cleaning, landscaping, and janitorial services. Carpet/upholstery cleaning, window cleaning, tile/hard floor maintenance, vacuum cleaning and deodorizing, hardwood finishing, landscaping, post-construction cleanup.",
+    "short_description": "Professional cleaning, landscaping, and janitorial services. Carpet/upholstery cleaning, window cleaning, tile/hard...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587233629",
+    "website": "www.landlqualitycleaning.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-75fb430f",
+    "name": "Nice & Clean",
+    "slug": "nice-clean",
+    "whatsapp_number": "+17584580600",
+    "category": {
+      "name": "Cleaning Services",
+      "slug": "cleaning",
+      "icon": "🧹"
+    },
+    "description": "Dry cleaning services",
+    "short_description": "Dry cleaning services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584580600",
+    "website": "www.stlucialinen.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-9b5d105b",
+    "name": "Sparkle Laundry",
+    "slug": "sparkle-laundry",
+    "whatsapp_number": "+17584500757",
+    "category": {
+      "name": "Cleaning Services",
+      "slug": "cleaning",
+      "icon": "🧹"
+    },
+    "description": "Laundry and cleaning services",
+    "short_description": "Laundry and cleaning services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584500757",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1b3ebde6",
+    "name": "St Lucia Linen Services Ltd",
+    "slug": "st-lucia-linen-services-ltd",
+    "whatsapp_number": "+17584502924",
+    "category": {
+      "name": "Cleaning Services",
+      "slug": "cleaning",
+      "icon": "🧹"
+    },
+    "description": "Linen services, laundry, dry cleaning",
+    "short_description": "Linen services, laundry, dry cleaning",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584502924",
+    "website": "www.stlucialinen.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-517ac203",
+    "name": "Flowers Express Inc",
+    "slug": "flowers-express-inc",
+    "whatsapp_number": "+17584527019",
+    "category": {
+      "name": "Decor & Floral",
+      "slug": "decor-floral",
+      "icon": "💐"
+    },
+    "description": "Family-owned flower boutique since 1999. Same-day flower and plant delivery. Bouquets, arrangements, roses, tropical flowers. Worldwide flower sending available.",
+    "short_description": "Family-owned flower boutique since 1999. Same-day flower and plant delivery. Bouquets, arrangements, roses, tropical...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "Bouquets and arrangements (prices on website)",
+    "hours": null,
+    "phone": "+17584527019",
+    "website": "www.flowersexpressinc.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/flowersexpressinc/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-ccc83fc3",
+    "name": "Cibigi / CiBS Delivery",
+    "slug": "cibigi-cibs-delivery",
+    "whatsapp_number": "+17585188065",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "Delivery platform offering pickup, delivery, courier, and shipping services in Saint Lucia. Handles food deliveries, purchases from Cibigi shopping app, external purchases, and general courier services.. WhatsApp confirmed on website. Call or WhatsApp 758-518-8065 for delivery requests.",
+    "short_description": "Delivery platform offering pickup, delivery, courier, and shipping services in Saint Lucia. Handles food deliveries,...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Call-out fee: EC$18.90 plus custom delivery cost based on request",
+    "hours": null,
+    "phone": "+17585188065",
+    "website": "commerce.cibigi.online/st-lucia-lc",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-314dbe30",
+    "name": "Global Express Saint Lucia (Castries)",
+    "slug": "global-express-saint-lucia-castries",
+    "whatsapp_number": "+17587210029",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "Online ordering, shopping, packing, shipping and delivery service. Offers pre-packaged grocery bundles and personalized shopping. Air and sea freight solutions. Delivers to doorstep in Saint Lucia.. Castries WhatsApp: (758) 721-0029, Castries phone: (758) 452-5751. Also has Marisule location.",
+    "short_description": "Online ordering, shopping, packing, shipping and delivery service. Offers pre-packaged grocery bundles and...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "Bundle pricing on website; custom orders available",
+    "hours": null,
+    "phone": "+17587210029",
+    "website": "www.globalexpressstlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-fb2f48ca",
+    "name": "Global Express Saint Lucia (Marisule)",
+    "slug": "global-express-saint-lucia-marisule",
+    "whatsapp_number": "+17587244221",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "Online ordering, shopping, packing, shipping and delivery. Marisule branch office. Same services as Castries location.. Marisule WhatsApp: (758) 724-4221, Marisule phone: (758) 450-1186.",
+    "short_description": "Online ordering, shopping, packing, shipping and delivery. Marisule branch office. Same services as Castries location.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "Bundle pricing on website",
+    "hours": null,
+    "phone": "+17587244221",
+    "website": "www.globalexpressstlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-43ac50fe",
+    "name": "Superior Shipping Services Ltd",
+    "slug": "superior-shipping-services-ltd",
+    "whatsapp_number": "+17582858624",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "Customs brokerage, transshipping, regional cargo services, tanker agent, motor vehicle transport, heavy equipment shipping, freezone warehouse",
+    "short_description": "Customs brokerage, transshipping, regional cargo services, tanker agent, motor vehicle transport, heavy equipment...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Vieux Fort"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17582858624",
+    "website": "superiorshipping.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-13a4bb91",
+    "name": "West Tech Shipping — Castries (St. Louis St)",
+    "slug": "west-tech-shipping-castries-st-louis-st",
+    "whatsapp_number": "+17587292093",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "Shop from any US online store and ship to St. Lucia. Customs clearance and doorstep delivery.",
+    "short_description": "Shop from any US online store and ship to St. Lucia. Customs clearance and doorstep delivery.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "Varies by weight — air freight and sea shipping options",
+    "hours": null,
+    "phone": "+17587292093",
+    "website": "westtechshipping.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/westtechshipping/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f1bc3e67",
+    "name": "West Tech Shipping — Delivery Hotline",
+    "slug": "west-tech-shipping-delivery-hotline",
+    "whatsapp_number": "+17587246340",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "Delivery hotline for West Tech Shipping — request doorstep delivery of your packages island-wide via WhatsApp.",
+    "short_description": "Delivery hotline for West Tech Shipping — request doorstep delivery of your packages island-wide via WhatsApp.",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Delivery fee varies by location",
+    "hours": null,
+    "phone": "+17587246340",
+    "website": "westtechshipping.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/westtechshipping/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-933e066e",
+    "name": "West Tech Shipping — La Tourney / Vieux Fort",
+    "slug": "west-tech-shipping-la-tourney-vieux-fort",
+    "whatsapp_number": "+17587249381",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "Shop from any US online store and ship to St. Lucia. Customs clearance and doorstep delivery.",
+    "short_description": "Shop from any US online store and ship to St. Lucia. Customs clearance and doorstep delivery.",
+    "district": "Vieux Fort",
+    "areas_served": [
+      "Vieux Fort"
+    ],
+    "price_info": "Varies by weight — air freight and sea shipping options",
+    "hours": null,
+    "phone": "+17587249381",
+    "website": "westtechshipping.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/westtechshipping/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-05649c1a",
+    "name": "West Tech Shipping — Rodney Bay",
+    "slug": "west-tech-shipping-rodney-bay",
+    "whatsapp_number": "+17587246528",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "Shop from any US online store and ship to St. Lucia. 2-day air freight or weekly sea shipments. Customs clearance and doorstep delivery. WhatsApp ordering for shop-and-ship service.",
+    "short_description": "Shop from any US online store and ship to St. Lucia. 2-day air freight or weekly sea shipments. Customs clearance...",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Rodney Bay"
+    ],
+    "price_info": "Varies by weight — air freight and sea shipping options",
+    "hours": null,
+    "phone": "+17587246528",
+    "website": "westtechshipping.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/westtechshipping/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1353364d",
+    "name": "West Tech Shipping — Soufriere",
+    "slug": "west-tech-shipping-soufriere",
+    "whatsapp_number": "+17587246948",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "Shop from any US online store and ship to St. Lucia. Customs clearance and doorstep delivery.",
+    "short_description": "Shop from any US online store and ship to St. Lucia. Customs clearance and doorstep delivery.",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": "Varies by weight — air freight and sea shipping options",
+    "hours": null,
+    "phone": "+17587246948",
+    "website": "westtechshipping.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/westtechshipping/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5040ab89",
+    "name": "West Tech Shipping — Vieux Fort (New Dock Rd)",
+    "slug": "west-tech-shipping-vieux-fort-new-dock-rd",
+    "whatsapp_number": "+17585196200",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "Shop from any US online store and ship to St. Lucia. Customs clearance and doorstep delivery.",
+    "short_description": "Shop from any US online store and ship to St. Lucia. Customs clearance and doorstep delivery.",
+    "district": "Vieux Fort",
+    "areas_served": [
+      "Vieux Fort"
+    ],
+    "price_info": "Varies by weight — air freight and sea shipping options",
+    "hours": null,
+    "phone": "+17585196200",
+    "website": "westtechshipping.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/westtechshipping/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-140fe7e4",
+    "name": "eZone St. Lucia — Castries",
+    "slug": "ezone-st-lucia-castries",
+    "whatsapp_number": "+17584847493",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "International shipping & personal US address for online shopping. Shop US/UK stores, package receiving and forwarding to St. Lucia.",
+    "short_description": "International shipping & personal US address for online shopping. Shop US/UK stores, package receiving and...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Laborie"
+    ],
+    "price_info": "Shipping rates vary by weight/size",
+    "hours": null,
+    "phone": "+17584847493",
+    "website": "getezone.com/locations/st-lucia",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5fe58ce7",
+    "name": "eZone St. Lucia — Rodney Bay",
+    "slug": "ezone-st-lucia-rodney-bay",
+    "whatsapp_number": "+17584848135",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "International shipping & personal US address for online shopping. Shop US/UK stores and have items shipped to St. Lucia. Customs clearance, package tracking, eZ Shopper assistance.",
+    "short_description": "International shipping & personal US address for online shopping. Shop US/UK stores and have items shipped to St....",
+    "district": "Gros Islet",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Shipping rates vary by weight/size",
+    "hours": null,
+    "phone": "+17584848135",
+    "website": "getezone.com/locations/st-lucia",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-217c9fe6",
+    "name": "eZone St. Lucia — Vieux Fort",
+    "slug": "ezone-st-lucia-vieux-fort",
+    "whatsapp_number": "+17582854529",
+    "category": {
+      "name": "Delivery",
+      "slug": "delivery",
+      "icon": "📦"
+    },
+    "description": "International shipping & personal US address for online shopping. Shop US/UK stores, package receiving and forwarding to St. Lucia.",
+    "short_description": "International shipping & personal US address for online shopping. Shop US/UK stores, package receiving and...",
+    "district": "Vieux Fort",
+    "areas_served": [
+      "Vieux Fort"
+    ],
+    "price_info": "Shipping rates vary by weight/size",
+    "hours": null,
+    "phone": "+17582854529",
+    "website": "getezone.com/locations/st-lucia",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d164536f",
+    "name": "Dive Fair Helen",
+    "slug": "dive-fair-helen",
+    "whatsapp_number": "+17587217614",
+    "category": {
+      "name": "Diving & Snorkeling",
+      "slug": "diving-snorkeling",
+      "icon": "🤿"
+    },
+    "description": "PADI certified scuba diving, snorkeling, kayaking, equipment rental, night dives, boat trips. Two boats available.",
+    "short_description": "PADI certified scuba diving, snorkeling, kayaking, equipment rental, night dives, boat trips. Two boats available.",
+    "district": "Marigot Bay",
+    "areas_served": [
+      "Marigot Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587217614",
+    "website": "www.divefairhelen.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-9eb6a94b",
+    "name": "Dive Saint Lucia / Scuba Steve's Diving",
+    "slug": "dive-saint-lucia-scuba-steves-diving",
+    "whatsapp_number": "+17584890411",
+    "category": {
+      "name": "Diving & Snorkeling",
+      "slug": "diving-snorkeling",
+      "icon": "🤿"
+    },
+    "description": "PADI 5-Star Dive Center. Scuba diving courses, guided dives, snorkeling tours. Located at Rodney Bay",
+    "short_description": "PADI 5-Star Dive Center. Scuba diving courses, guided dives, snorkeling tours. Located at Rodney Bay",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584890411",
+    "website": "divesaintlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-fb4853d9",
+    "name": "Fond Doux Eco Resort (Heritage Tours)",
+    "slug": "fond-doux-eco-resort-heritage-tours",
+    "whatsapp_number": "+17587168801",
+    "category": {
+      "name": "Eco & Wildlife",
+      "slug": "eco-tours",
+      "icon": "🦜"
+    },
+    "description": "Cocoa plantation tours, chocolate-making demonstrations (tree-to-bar), cooking lessons, rum tasting, cocktail mixology classes, nature hikes, birdwatching. 250-year-old working cocoa estate, 19th-century colonial heritage",
+    "short_description": "Cocoa plantation tours, chocolate-making demonstrations (tree-to-bar), cooking lessons, rum tasting, cocktail...",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587168801",
+    "website": "fonddouxresort.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5f824ba8",
+    "name": "All Electrical & Maintenance Services",
+    "slug": "all-electrical-maintenance-services",
+    "whatsapp_number": "+17584584200",
+    "category": {
+      "name": "Electrical",
+      "slug": "electrical",
+      "icon": "⚡"
+    },
+    "description": "Electrical and maintenance services",
+    "short_description": "Electrical and maintenance services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584584200",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-91a0e2c5",
+    "name": "Caribbean LED Lighting (St Lucia) Inc",
+    "slug": "caribbean-led-lighting-st-lucia-inc",
+    "whatsapp_number": "+17584529022",
+    "category": {
+      "name": "Electrical",
+      "slug": "electrical",
+      "icon": "⚡"
+    },
+    "description": "LED lighting sales and electrical services",
+    "short_description": "LED lighting sales and electrical services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584529022",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-cb013260",
+    "name": "King's Electrical",
+    "slug": "kings-electrical",
+    "whatsapp_number": "+17587256437",
+    "category": {
+      "name": "Electrical",
+      "slug": "electrical",
+      "icon": "⚡"
+    },
+    "description": "Electrical services",
+    "short_description": "Electrical services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587256437",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-77388578",
+    "name": "LUCELEC (St. Lucia Electricity Services Limited)",
+    "slug": "lucelec-st-lucia-electricity-services-limited",
+    "whatsapp_number": "+17582856796",
+    "category": {
+      "name": "Electrical",
+      "slug": "electrical",
+      "icon": "⚡"
+    },
+    "description": "Electricity supply, new connections, customer service, fault reporting, billing inquiries. All services except bill payments available via WhatsApp.",
+    "short_description": "Electricity supply, new connections, customer service, fault reporting, billing inquiries. All services except bill...",
+    "district": "Gros Islet",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17582856796",
+    "website": "www.lucelec.com",
+    "facebook": "https://www.facebook.com/ABOREBA",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f8028b90",
+    "name": "Live Wire Electrical",
+    "slug": "live-wire-electrical",
+    "whatsapp_number": "+17584504636",
+    "category": {
+      "name": "Electrical",
+      "slug": "electrical",
+      "icon": "⚡"
+    },
+    "description": "Electrical contracting, certified and trained staff. Founded 2014.",
+    "short_description": "Electrical contracting, certified and trained staff. Founded 2014.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584504636",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f6c4bbea",
+    "name": "Michel's Electrical & Building Contractors Ltd",
+    "slug": "michels-electrical-building-contractors-ltd",
+    "whatsapp_number": "+17584527866",
+    "category": {
+      "name": "Electrical",
+      "slug": "electrical",
+      "icon": "⚡"
+    },
+    "description": "Electrical and building contractor, 7+ years experience. WhatsApp contact available.",
+    "short_description": "Electrical and building contractor, 7+ years experience. WhatsApp contact available.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584527866",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-fbd99226",
+    "name": "Shae's Electrical Services (SELEC)",
+    "slug": "shaes-electrical-services-selec",
+    "whatsapp_number": "+17584891162",
+    "category": {
+      "name": "Electrical",
+      "slug": "electrical",
+      "icon": "⚡"
+    },
+    "description": "Electrical installations (residential, commercial, industrial), CCTV installation, rewiring, electronic repairs, fault finding, UPS and battery management, earthing and equipotential bonding. WhatsApp confirmed at wa.me/17584891162.",
+    "short_description": "Electrical installations (residential, commercial, industrial), CCTV installation, rewiring, electronic repairs,...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584891162",
+    "website": "www.selecservices.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/selec758/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-ca9b280d",
+    "name": "Wired Up",
+    "slug": "wired-up",
+    "whatsapp_number": "+17587159473",
+    "category": {
+      "name": "Electrical",
+      "slug": "electrical",
+      "icon": "⚡"
+    },
+    "description": "Electrical services",
+    "short_description": "Electrical services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587159473",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c84498f5",
+    "name": "Wireworks",
+    "slug": "wireworks",
+    "whatsapp_number": "+17584859520",
+    "category": {
+      "name": "Electrical",
+      "slug": "electrical",
+      "icon": "⚡"
+    },
+    "description": "Electrical services",
+    "short_description": "Electrical services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584859520",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-e48dc241",
+    "name": "Awesome Caribbean Weddings",
+    "slug": "awesome-caribbean-weddings",
+    "whatsapp_number": "+17584500300",
+    "category": {
+      "name": "Event Planning",
+      "slug": "event-planning",
+      "icon": "📋"
+    },
+    "description": "Full-service wedding planning since 1999. Named Independent Wedding & Events Planner of the Year at Saint Lucia Tourism Awards 2023. Most experienced wedding planning company on the island.",
+    "short_description": "Full-service wedding planning since 1999. Named Independent Wedding & Events Planner of the Year at Saint Lucia...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584500300",
+    "website": "awesomecaribbeanweddings.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-cb7c8c9c",
+    "name": "Barefoot Weddings",
+    "slug": "barefoot-weddings",
+    "whatsapp_number": "+17584500507",
+    "category": {
+      "name": "Event Planning",
+      "slug": "event-planning",
+      "icon": "📋"
+    },
+    "description": "Wedding planning services by Barefoot Holidays",
+    "short_description": "Wedding planning services by Barefoot Holidays",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584500507",
+    "website": "weddings.barefootholidays.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-263e6a34",
+    "name": "Bill Mortley Photography",
+    "slug": "bill-mortley-photography",
+    "whatsapp_number": "+17587180192",
+    "category": {
+      "name": "Event Planning",
+      "slug": "event-planning",
+      "icon": "📋"
+    },
+    "description": "Wedding photography, portrait photography, event photography. Over 12 years experience.",
+    "short_description": "Wedding photography, portrait photography, event photography. Over 12 years experience.",
+    "district": "Anse la Raye",
+    "areas_served": [
+      "Anse la Raye"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587180192",
+    "website": "billmortleyphotography.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-00024848",
+    "name": "Events Saint Lucia (ECSL)",
+    "slug": "events-saint-lucia-ecsl",
+    "whatsapp_number": "+17584586076",
+    "category": {
+      "name": "Event Planning",
+      "slug": "event-planning",
+      "icon": "📋"
+    },
+    "description": "National events coordination, festival production, national celebrations. Government-mandated events company created in 2017.",
+    "short_description": "National events coordination, festival production, national celebrations. Government-mandated events company created...",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584586076",
+    "website": "www.eventssaintlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-925fa87b",
+    "name": "Imperial Productions 758",
+    "slug": "imperial-productions-758",
+    "whatsapp_number": "+17587136705",
+    "category": {
+      "name": "Event Planning",
+      "slug": "event-planning",
+      "icon": "📋"
+    },
+    "description": "Wedding photography, elopements, vow renewals, engagements, proposals, anniversaries, destination weddings, videography",
+    "short_description": "Wedding photography, elopements, vow renewals, engagements, proposals, anniversaries, destination weddings, videography",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587136705",
+    "website": "www.imperialproductions758.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-e2016558",
+    "name": "Le Concierge Group",
+    "slug": "le-concierge-group",
+    "whatsapp_number": "+17584884088",
+    "category": {
+      "name": "Event Planning",
+      "slug": "event-planning",
+      "icon": "📋"
+    },
+    "description": "Luxury concierge service, full event support, villa sourcing, behind-the-scenes event management, luxury experiences",
+    "short_description": "Luxury concierge service, full event support, villa sourcing, behind-the-scenes event management, luxury experiences",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584884088",
+    "website": "leconciergegroup.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-0d9dc637",
+    "name": "Soul O Bliss Entertainment",
+    "slug": "soul-o-bliss-entertainment",
+    "whatsapp_number": "+17585199279",
+    "category": {
+      "name": "Event Planning",
+      "slug": "event-planning",
+      "icon": "📋"
+    },
+    "description": "Wedding DJ, 360 Photobooth, Selfie Photobooth, Up-lighting, Speaker system rental, projector and screen, PA system, live streaming, party DJ, resort wedding packages. Available via Zoom, Skype, WhatsApp, call, text, email.",
+    "short_description": "Wedding DJ, 360 Photobooth, Selfie Photobooth, Up-lighting, Speaker system rental, projector and screen, PA system,...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17585199279",
+    "website": "www.soulobliss.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/dj_romanus/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-df6015a4",
+    "name": "Deep Sea Anglers",
+    "slug": "deep-sea-anglers",
+    "whatsapp_number": "+17587192272",
+    "category": {
+      "name": "Fishing Charters",
+      "slug": "fishing-charters",
+      "icon": "🎣"
+    },
+    "description": "Deep sea fishing and inshore fishing tours year-round. Bertram 31 classic vessel. All ages and experience levels welcome",
+    "short_description": "Deep sea fishing and inshore fishing tours year-round. Bertram 31 classic vessel. All ages and experience levels welcome",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587192272",
+    "website": "deepseaanglersstlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-ff25b970",
+    "name": "Lucian Food Tours",
+    "slug": "lucian-food-tours",
+    "whatsapp_number": "+17582852112",
+    "category": {
+      "name": "Food & Rum Tours",
+      "slug": "food-tours",
+      "icon": "🍹"
+    },
+    "description": "#1 activity in Rodney Bay on TripAdvisor. Walking food & culture tour. Visit 5 spots trying different food samples and local beverages. All food and beverages included",
+    "short_description": "#1 activity in Rodney Bay on TripAdvisor. Walking food & culture tour. Visit 5 spots trying different food samples...",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Rodney Bay"
+    ],
+    "price_info": "US$64 per person for Rodney Bay Tour",
+    "hours": null,
+    "phone": "+17582852112",
+    "website": "www.lucianfoodtours.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-cbac1ce6",
+    "name": "Blueprint Construction Ltd",
+    "slug": "blueprint-construction-ltd",
+    "whatsapp_number": "+17584502583",
+    "category": {
+      "name": "General Contracting",
+      "slug": "general-contracting",
+      "icon": "🔨"
+    },
+    "description": "Construction services",
+    "short_description": "Construction services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584502583",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-264cd3ae",
+    "name": "CIE Ltd - Construction & Industrial Equipment",
+    "slug": "cie-ltd-construction-industrial-equipment",
+    "whatsapp_number": "+17584501087",
+    "category": {
+      "name": "General Contracting",
+      "slug": "general-contracting",
+      "icon": "🔨"
+    },
+    "description": "Equipment rental and leasing for construction",
+    "short_description": "Equipment rental and leasing for construction",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584501087",
+    "website": "cie-rgltd.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-8bde89be",
+    "name": "Complete Marine Services Ltd",
+    "slug": "complete-marine-services-ltd",
+    "whatsapp_number": "+17584583188",
+    "category": {
+      "name": "General Contracting",
+      "slug": "general-contracting",
+      "icon": "🔨"
+    },
+    "description": "Marine contractors and general contractors",
+    "short_description": "Marine contractors and general contractors",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Marigot Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584583188",
+    "website": "cms-sl.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-72f5ce61",
+    "name": "Concrete & Aggregates Ltd",
+    "slug": "concrete-aggregates-ltd",
+    "whatsapp_number": "+17584502776",
+    "category": {
+      "name": "General Contracting",
+      "slug": "general-contracting",
+      "icon": "🔨"
+    },
+    "description": "Ready-mix concrete and quarry materials",
+    "short_description": "Ready-mix concrete and quarry materials",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584502776",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-7f371e3c",
+    "name": "Coral Reef Real Estate / Stargazer Construction",
+    "slug": "coral-reef-real-estate-stargazer-construction",
+    "whatsapp_number": "+17587172909",
+    "category": {
+      "name": "General Contracting",
+      "slug": "general-contracting",
+      "icon": "🔨"
+    },
+    "description": "Property sales, villa rentals, land, commercial property, long-term rentals, design & build services (via Stargazer Construction). Custom residential construction specializing in multi-million-dollar luxury homes.",
+    "short_description": "Property sales, villa rentals, land, commercial property, long-term rentals, design & build services (via Stargazer...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587172909",
+    "website": "coralreefstlucia.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/coralreefrealty758",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-6ac50a55",
+    "name": "Rayneau Construction & Industrial Products",
+    "slug": "rayneau-construction-industrial-products",
+    "whatsapp_number": "+17584507247",
+    "category": {
+      "name": "General Contracting",
+      "slug": "general-contracting",
+      "icon": "🔨"
+    },
+    "description": "Building materials retail, construction supplies",
+    "short_description": "Building materials retail, construction supplies",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584507247",
+    "website": "raycip.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-e2ff915b",
+    "name": "Renee's Construction Co Ltd",
+    "slug": "renees-construction-co-ltd",
+    "whatsapp_number": "+17584521681",
+    "category": {
+      "name": "General Contracting",
+      "slug": "general-contracting",
+      "icon": "🔨"
+    },
+    "description": "Full-service building construction. Commercial and residential projects. Over 25 years experience. Construction design and management.",
+    "short_description": "Full-service building construction. Commercial and residential projects. Over 25 years experience. Construction...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584521681",
+    "website": "reneesconstruction.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-a02efa4c",
+    "name": "St. Lucia Hardware",
+    "slug": "st-lucia-hardware",
+    "whatsapp_number": "+17583844983",
+    "category": {
+      "name": "General Contracting",
+      "slug": "general-contracting",
+      "icon": "🔨"
+    },
+    "description": "Hardware store and home security alarm systems. Building supplies, tools, and hardware accessories.",
+    "short_description": "Hardware store and home security alarm systems. Building supplies, tools, and hardware accessories.",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Hardware pricing varies",
+    "hours": null,
+    "phone": "+17583844983",
+    "website": "stluciahardware.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-04adb95a",
+    "name": "Beauty Max Inc",
+    "slug": "beauty-max-inc",
+    "whatsapp_number": "+17584582242",
+    "category": {
+      "name": "Hair & Braiding",
+      "slug": "hair-braiding",
+      "icon": "💇"
+    },
+    "description": "Beauty salon, hair products, cosmetics. Multiple locations across Castries and Rodney Bay.",
+    "short_description": "Beauty salon, hair products, cosmetics. Multiple locations across Castries and Rodney Bay.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Rodney Bay",
+      "Laborie"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584582242",
+    "website": "www.facebook.com/Beautymaxinc",
+    "facebook": "https://www.facebook.com/Beautymaxinc",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5d0430f5",
+    "name": "Cecilia's Institute of Cosmetology",
+    "slug": "cecilias-institute-of-cosmetology",
+    "whatsapp_number": "+17584516148",
+    "category": {
+      "name": "Hair & Braiding",
+      "slug": "hair-braiding",
+      "icon": "💇"
+    },
+    "description": "Cosmetology school and beauty services",
+    "short_description": "Cosmetology school and beauty services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584516148",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-7684430b",
+    "name": "Cool Cutzz Barber Shop",
+    "slug": "cool-cutzz-barber-shop",
+    "whatsapp_number": "+17587200194",
+    "category": {
+      "name": "Hair & Braiding",
+      "slug": "hair-braiding",
+      "icon": "💇"
+    },
+    "description": "Barber and hair cutting services",
+    "short_description": "Barber and hair cutting services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587200194",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-67889272",
+    "name": "Divine Hair Therapy (May May)",
+    "slug": "divine-hair-therapy-may-may",
+    "whatsapp_number": "+17585209706",
+    "category": {
+      "name": "Hair & Braiding",
+      "slug": "hair-braiding",
+      "icon": "💇"
+    },
+    "description": "Hair salon and therapy services",
+    "short_description": "Hair salon and therapy services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17585209706",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1500f4a9",
+    "name": "Grooming Plus Barber Salon",
+    "slug": "grooming-plus-barber-salon",
+    "whatsapp_number": "+17584580825",
+    "category": {
+      "name": "Hair & Braiding",
+      "slug": "hair-braiding",
+      "icon": "💇"
+    },
+    "description": "Barber salon services. 5.0 rating.",
+    "short_description": "Barber salon services. 5.0 rating.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584580825",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5efe8d1f",
+    "name": "She Naturals",
+    "slug": "she-naturals",
+    "whatsapp_number": "+17587164532",
+    "category": {
+      "name": "Hair & Braiding",
+      "slug": "hair-braiding",
+      "icon": "💇"
+    },
+    "description": "Natural hair, scalp care and styling salon. Also sells natural hair care products and accessories.",
+    "short_description": "Natural hair, scalp care and styling salon. Also sells natural hair care products and accessories.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "Salon and product pricing varies",
+    "hours": null,
+    "phone": "+17587164532",
+    "website": null,
+    "facebook": null,
+    "instagram": "https://www.instagram.com/shenaturals/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d59e49bb",
+    "name": "Sophisticuts Barber Salon",
+    "slug": "sophisticuts-barber-salon",
+    "whatsapp_number": "+17587161976",
+    "category": {
+      "name": "Hair & Braiding",
+      "slug": "hair-braiding",
+      "icon": "💇"
+    },
+    "description": "Barber and hair styling services",
+    "short_description": "Barber and hair styling services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587161976",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-096db03b",
+    "name": "Steve's Barber Shop & Hair Braiding Salon",
+    "slug": "steves-barber-shop-hair-braiding-salon",
+    "whatsapp_number": "+17584524310",
+    "category": {
+      "name": "Hair & Braiding",
+      "slug": "hair-braiding",
+      "icon": "💇"
+    },
+    "description": "Barber shop and hair braiding",
+    "short_description": "Barber shop and hair braiding",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584524310",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-fa9c12c4",
+    "name": "Kent Glace & Associates (Dental)",
+    "slug": "kent-glace-associates-dental",
+    "whatsapp_number": "+17582853253",
+    "category": {
+      "name": "Health & Medical",
+      "slug": "health-medical",
+      "icon": "🏥"
+    },
+    "description": "Dental surgeon since 1977. Implants, cosmetic dentistry, general dental care. Locations in Rodney Bay and Castries.",
+    "short_description": "Dental surgeon since 1977. Implants, cosmetic dentistry, general dental care. Locations in Rodney Bay and Castries.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Gros Islet",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17582853253",
+    "website": "www.kgadental.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-69ce093f",
+    "name": "M&C Drugstore (Gablewoods Mall)",
+    "slug": "mc-drugstore-gablewoods-mall",
+    "whatsapp_number": "+17587195609",
+    "category": {
+      "name": "Health & Medical",
+      "slug": "health-medical",
+      "icon": "🏥"
+    },
+    "description": "Pharmacy, pharmaceuticals, OTC medicines, toiletries, cosmetics. Established 1952, leading drugstore in Saint Lucia.",
+    "short_description": "Pharmacy, pharmaceuticals, OTC medicines, toiletries, cosmetics. Established 1952, leading drugstore in Saint Lucia.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Rodney Bay",
+      "Vieux Fort"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587195609",
+    "website": "mandcdrugstore.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-bda36661",
+    "name": "Vision Express Medical & Pharmacy",
+    "slug": "vision-express-medical-pharmacy",
+    "whatsapp_number": "+17582852843",
+    "category": {
+      "name": "Health & Medical",
+      "slug": "health-medical",
+      "icon": "🏥"
+    },
+    "description": "Eye care, pharmacy, diabetes clinic, optometry, full eye examinations, ophthalmology, glaucoma, cataracts, retinal surgery",
+    "short_description": "Eye care, pharmacy, diabetes clinic, optometry, full eye examinations, ophthalmology, glaucoma, cataracts, retinal...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Soufriere",
+      "Vieux Fort"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17582852843",
+    "website": "www.visionexpressstlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-93f458bc",
+    "name": "Denver - Petit Piton Guide",
+    "slug": "denver-petit-piton-guide",
+    "whatsapp_number": "+17587179906",
+    "category": {
+      "name": "Hiking & Nature",
+      "slug": "hiking-nature",
+      "icon": "🥾"
+    },
+    "description": "Petit Piton Trail specialist. Experienced guide who has done the hike hundreds of times. Approximately 3-4 hour hike",
+    "short_description": "Petit Piton Trail specialist. Experienced guide who has done the hike hundreds of times. Approximately 3-4 hour hike",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587179906",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-8d9f5cff",
+    "name": "Mervin the Mountain Goat - Piton Hikes",
+    "slug": "mervin-the-mountain-goat-piton-hikes",
+    "whatsapp_number": "+17583847844",
+    "category": {
+      "name": "Hiking & Nature",
+      "slug": "hiking-nature",
+      "icon": "🥾"
+    },
+    "description": "Gros Piton, Petit Piton, Mt Gimie, Edmund Forest Reserve hiking. Holds record for fastest Gros Piton ascent (58 min up and down). Decades of experience",
+    "short_description": "Gros Piton, Petit Piton, Mt Gimie, Edmund Forest Reserve hiking. Holds record for fastest Gros Piton ascent (58 min...",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17583847844",
+    "website": "pitonhikes.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-b05de75e",
+    "name": "Paradise Excursions",
+    "slug": "paradise-excursions",
+    "whatsapp_number": "+17587232930",
+    "category": {
+      "name": "Hiking & Nature",
+      "slug": "hiking-nature",
+      "icon": "🥾"
+    },
+    "description": "Adventure and beach tours, nature trail hikes, Soufriere excursions",
+    "short_description": "Adventure and beach tours, nature trail hikes, Soufriere excursions",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587232930",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-2e4d0ad0",
+    "name": "Wayne - Piton Hiking Guide",
+    "slug": "wayne-piton-hiking-guide",
+    "whatsapp_number": "+17587145454",
+    "category": {
+      "name": "Hiking & Nature",
+      "slug": "hiking-nature",
+      "icon": "🥾"
+    },
+    "description": "Gros Piton hike specialist. Has climbed the Pitons over 800 times. Highly experienced and recommended guide",
+    "short_description": "Gros Piton hike specialist. Has climbed the Pitons over 800 times. Highly experienced and recommended guide",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587145454",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c74ee6d6",
+    "name": "Dore's Riding Stables",
+    "slug": "dores-riding-stables",
+    "whatsapp_number": "+17582862213",
+    "category": {
+      "name": "Horseback Riding",
+      "slug": "horseback-riding",
+      "icon": "🐴"
+    },
+    "description": "Horseback riding tours on the beach and trails for visitors and locals. Horse and buggy rides, private tours",
+    "short_description": "Horseback riding tours on the beach and trails for visitors and locals. Horse and buggy rides, private tours",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Cap Estate"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17582862213",
+    "website": "www.doresridingstables.com",
+    "facebook": "Facebook: Dore's Riding stable, Instagram: @Doresridingstable",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1b869a3e",
+    "name": "Sandy Hoofs St Lucia",
+    "slug": "sandy-hoofs-st-lucia",
+    "whatsapp_number": "+17587305975",
+    "category": {
+      "name": "Horseback Riding",
+      "slug": "horseback-riding",
+      "icon": "🐴"
+    },
+    "description": "Horse riding on the beach and trails. Higher-end equestrian experiences. Monday-Saturday 9am-6pm",
+    "short_description": "Horse riding on the beach and trails. Higher-end equestrian experiences. Monday-Saturday 9am-6pm",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": "$$$ (higher-end)",
+    "hours": null,
+    "phone": "+17587305975",
+    "website": "www.sandyhoofsstlucia.com",
+    "facebook": "Facebook: sandyhoofsstlucia, Instagram: @sandyhoofsstlucia",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-3d89dde9",
+    "name": "Computer World (St Lucia) Ltd",
+    "slug": "computer-world-st-lucia-ltd",
+    "whatsapp_number": "+17584584552",
+    "category": {
+      "name": "IT Support",
+      "slug": "it-support",
+      "icon": "🖥️"
+    },
+    "description": "Printing services, computer supplies, technology retail. Two locations.",
+    "short_description": "Printing services, computer supplies, technology retail. Two locations.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Vieux Fort"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584584552",
+    "website": "computerworldslu.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-4ed85083",
+    "name": "Fone Fingz",
+    "slug": "fone-fingz",
+    "whatsapp_number": "+17587182828",
+    "category": {
+      "name": "IT Support",
+      "slug": "it-support",
+      "icon": "🖥️"
+    },
+    "description": "Mobile phone store selling affordable phones, accessories, smart boxes, and phone repair services. Brands include various smartphone models and accessories.",
+    "short_description": "Mobile phone store selling affordable phones, accessories, smart boxes, and phone repair services. Brands include...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Laborie"
+    ],
+    "price_info": "Affordable phones and accessories (prices on website)",
+    "hours": null,
+    "phone": "+17587182828",
+    "website": "fonefingz.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/fonefingzslu/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-05a3f5f4",
+    "name": "The Mobile Tech",
+    "slug": "the-mobile-tech",
+    "whatsapp_number": "+17584888324",
+    "category": {
+      "name": "IT Support",
+      "slug": "it-support",
+      "icon": "🖥️"
+    },
+    "description": "Phone repair services — repairs in as little as 30 minutes. Mobile technician can come to you. Device sales and tech support.",
+    "short_description": "Phone repair services — repairs in as little as 30 minutes. Mobile technician can come to you. Device sales and tech...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "Repair pricing varies by device and issue",
+    "hours": null,
+    "phone": "+17584888324",
+    "website": "themobiletechslu.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5974e924",
+    "name": "Sagicor Life Eastern Caribbean (Insurance)",
+    "slug": "sagicor-life-eastern-caribbean-insurance",
+    "whatsapp_number": "+12464677243",
+    "category": {
+      "name": "Insurance",
+      "slug": "insurance",
+      "icon": "🛡️"
+    },
+    "description": "Life insurance, health insurance, car insurance, home insurance, travel insurance, accident insurance, pensions, investment services, mortgages. 24/7 WhatsApp channel.",
+    "short_description": "Life insurance, health insurance, car insurance, home insurance, travel insurance, accident insurance, pensions,...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+12464677243",
+    "website": "www.sagicor.com/en-LC",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-979fa006",
+    "name": "Beautiful Landscapes & Associates",
+    "slug": "beautiful-landscapes-associates",
+    "whatsapp_number": "+17584878299",
+    "category": {
+      "name": "Landscaping",
+      "slug": "landscaping",
+      "icon": "🌿"
+    },
+    "description": "Landscaping contractors with over 30 years of experience",
+    "short_description": "Landscaping contractors with over 30 years of experience",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584878299",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-fc0ac4af",
+    "name": "DL Equipment & Aggregates Ltd",
+    "slug": "dl-equipment-aggregates-ltd",
+    "whatsapp_number": "+17584505997",
+    "category": {
+      "name": "Landscaping",
+      "slug": "landscaping",
+      "icon": "🌿"
+    },
+    "description": "Aggregates, building materials supply, landscaping equipment",
+    "short_description": "Aggregates, building materials supply, landscaping equipment",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Babonneau"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584505997",
+    "website": "www.dlequipmentaggregatesltd.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-0b399791",
+    "name": "Turf Pro Landscaping",
+    "slug": "turf-pro-landscaping",
+    "whatsapp_number": "+17587190842",
+    "category": {
+      "name": "Landscaping",
+      "slug": "landscaping",
+      "icon": "🌿"
+    },
+    "description": "Leader in commercial lawn maintenance, surface and sub-surface drainage services",
+    "short_description": "Leader in commercial lawn maintenance, surface and sub-surface drainage services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587190842",
+    "website": "www.turfprolandscapingstl.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-8ca75d3e",
+    "name": "VJB Holdings Limited",
+    "slug": "vjb-holdings-limited",
+    "whatsapp_number": "+17587138857",
+    "category": {
+      "name": "Landscaping",
+      "slug": "landscaping",
+      "icon": "🌿"
+    },
+    "description": "Landscaping, lawn maintenance, tree trimming, irrigation installation, garden maintenance, construction services",
+    "short_description": "Landscaping, lawn maintenance, tree trimming, irrigation installation, garden maintenance, construction services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587138857",
+    "website": "vjbholdingslimited.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-382b83ae",
+    "name": "Amicus Legal",
+    "slug": "amicus-legal",
+    "whatsapp_number": "+17584537777",
+    "category": {
+      "name": "Legal Services",
+      "slug": "legal-services",
+      "icon": "⚖️"
+    },
+    "description": "Full-service law firm with attorneys who are leaders in their respective fields.",
+    "short_description": "Full-service law firm with attorneys who are leaders in their respective fields.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584537777",
+    "website": "www.amicus.legal",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f4c20ae3",
+    "name": "Athena Law",
+    "slug": "athena-law",
+    "whatsapp_number": "+17584525111",
+    "category": {
+      "name": "Legal Services",
+      "slug": "legal-services",
+      "icon": "⚖️"
+    },
+    "description": "Real estate law, legacy planning and probate, corporate law, commercial law and investment, title and deed, mortgage law. Leader in property acquisitions and sales.",
+    "short_description": "Real estate law, legacy planning and probate, corporate law, commercial law and investment, title and deed, mortgage...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584525111",
+    "website": "www.athenalawslu.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f46c4980",
+    "name": "Deterville & Associates (Law)",
+    "slug": "deterville-associates-law",
+    "whatsapp_number": "+17584521152",
+    "category": {
+      "name": "Legal Services",
+      "slug": "legal-services",
+      "icon": "⚖️"
+    },
+    "description": "General practice law, CBI authorized agent, real estate, corporate law.",
+    "short_description": "General practice law, CBI authorized agent, real estate, corporate law.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584521152",
+    "website": "detervilleassociates.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-943dee62",
+    "name": "Fosters Law",
+    "slug": "fosters-law",
+    "whatsapp_number": "+17584531100",
+    "category": {
+      "name": "Legal Services",
+      "slug": "legal-services",
+      "icon": "⚖️"
+    },
+    "description": "Full-service law firm established 1988. General practice, company law, civil law, notary public, estate cases, trade disputes, insurance law.",
+    "short_description": "Full-service law firm established 1988. General practice, company law, civil law, notary public, estate cases, trade...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584531100",
+    "website": "www.fosters.law",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-43f7a18d",
+    "name": "Greene Nelson & Associates (Law)",
+    "slug": "greene-nelson-associates-law",
+    "whatsapp_number": "+17584516640",
+    "category": {
+      "name": "Legal Services",
+      "slug": "legal-services",
+      "icon": "⚖️"
+    },
+    "description": "Law firm providing legal services",
+    "short_description": "Law firm providing legal services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584516640",
+    "website": "www.greennelsonlaw.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-86ccd213",
+    "name": "Richelieu & Co (Law)",
+    "slug": "richelieu-co-law",
+    "whatsapp_number": "+17584524515",
+    "category": {
+      "name": "Legal Services",
+      "slug": "legal-services",
+      "icon": "⚖️"
+    },
+    "description": "Law firm providing legal services",
+    "short_description": "Law firm providing legal services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584524515",
+    "website": "www.richelieulaw.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-937899bb",
+    "name": "TM ANTOINE Partners",
+    "slug": "tm-antoine-partners",
+    "whatsapp_number": "+17584532000",
+    "category": {
+      "name": "Legal Services",
+      "slug": "legal-services",
+      "icon": "⚖️"
+    },
+    "description": "Law firm providing legal services",
+    "short_description": "Law firm providing legal services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Gros Islet",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584532000",
+    "website": "www.tmantoinelaw.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c465eb90",
+    "name": "Cool Water Day Spa",
+    "slug": "cool-water-day-spa",
+    "whatsapp_number": "+17584520886",
+    "category": {
+      "name": "Massage & Spa",
+      "slug": "massage-spa",
+      "icon": "💆"
+    },
+    "description": "Day spa services, massage, wellness treatments",
+    "short_description": "Day spa services, massage, wellness treatments",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584520886",
+    "website": "www.coolwaterdayspa.net",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-0b843dfe",
+    "name": "St. Lucia Feng Shui Day Spa",
+    "slug": "st-lucia-feng-shui-day-spa",
+    "whatsapp_number": "+17584528893",
+    "category": {
+      "name": "Massage & Spa",
+      "slug": "massage-spa",
+      "icon": "💆"
+    },
+    "description": "Day spa services, massage, wellness treatments",
+    "short_description": "Day spa services, massage, wellness treatments",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584528893",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-74950d33",
+    "name": "The Star (St. Lucia Newspaper)",
+    "slug": "the-star-st-lucia-newspaper",
+    "whatsapp_number": "+17587202896",
+    "category": {
+      "name": "Media & News",
+      "slug": "media",
+      "icon": "📰"
+    },
+    "description": "News submission and tips via WhatsApp. Call or text with latest news stories.",
+    "short_description": "News submission and tips via WhatsApp. Call or text with latest news stories.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587202896",
+    "website": "stluciastar.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-46d9cb7f",
+    "name": "BFiT758 (CrossFit & Functional Training)",
+    "slug": "bfit758-crossfit-functional-training",
+    "whatsapp_number": "+17582855439",
+    "category": {
+      "name": "Personal Training",
+      "slug": "personal-training",
+      "icon": "🏃"
+    },
+    "description": "CrossFit and functional training, coached group sessions, open gym, high-intensity workouts, home workout training, swim strength conditioning",
+    "short_description": "CrossFit and functional training, coached group sessions, open gym, high-intensity workouts, home workout training,...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "Monthly Unlimited: $199/month, Monthly Drop-In: $150/month (6 classes), Single Session: $30, Home Workout: $85/month",
+    "hours": null,
+    "phone": "+17582855439",
+    "website": "bfit758.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d73a0021",
+    "name": "Beyond Limits Fitness Centre",
+    "slug": "beyond-limits-fitness-centre",
+    "whatsapp_number": "+12468361600",
+    "category": {
+      "name": "Personal Training",
+      "slug": "personal-training",
+      "icon": "🏃"
+    },
+    "description": "Fitness centre with gym facilities, group and personal training. Three locations.",
+    "short_description": "Fitness centre with gym facilities, group and personal training. Three locations.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+12468361600",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1bddef3f",
+    "name": "ADJ Pest Services",
+    "slug": "adj-pest-services",
+    "whatsapp_number": "+17587221341",
+    "category": {
+      "name": "Pest Control",
+      "slug": "pest-control",
+      "icon": "🐜"
+    },
+    "description": "Pest control services",
+    "short_description": "Pest control services",
+    "district": "Castries",
+    "areas_served": [
+      "Babonneau"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587221341",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-410aedf9",
+    "name": "Care Services 2008 Ltd (Rentokil Distributor)",
+    "slug": "care-services-2008-ltd-rentokil-distributor",
+    "whatsapp_number": "+17584508288",
+    "category": {
+      "name": "Pest Control",
+      "slug": "pest-control",
+      "icon": "🐜"
+    },
+    "description": "Pest control services, distributors of Rentokil Products",
+    "short_description": "Pest control services, distributors of Rentokil Products",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584508288",
+    "website": "www.careservicesstlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-dbda80cd",
+    "name": "Eco-Smart Pest Management",
+    "slug": "eco-smart-pest-management",
+    "whatsapp_number": "+17584503305",
+    "category": {
+      "name": "Pest Control",
+      "slug": "pest-control",
+      "icon": "🐜"
+    },
+    "description": "Reliable pest control services, island-wide coverage",
+    "short_description": "Reliable pest control services, island-wide coverage",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584503305",
+    "website": "www.ecosmartpm.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-79c81251",
+    "name": "Exclusive Pest Control Inc",
+    "slug": "exclusive-pest-control-inc",
+    "whatsapp_number": "+17582847378",
+    "category": {
+      "name": "Pest Control",
+      "slug": "pest-control",
+      "icon": "🐜"
+    },
+    "description": "Residential and commercial pest control and extermination services",
+    "short_description": "Residential and commercial pest control and extermination services",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17582847378",
+    "website": null,
+    "facebook": null,
+    "instagram": "https://www.instagram.com/exclusivepestcontl/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1f6edf67",
+    "name": "FDL Pest Control Solutions",
+    "slug": "fdl-pest-control-solutions",
+    "whatsapp_number": "+17584531056",
+    "category": {
+      "name": "Pest Control",
+      "slug": "pest-control",
+      "icon": "🐜"
+    },
+    "description": "General and rodent pest management, perimeter and nuisance pest management, inspections, contractual maintenance programs. Founded 2004, 20 years experience.",
+    "short_description": "General and rodent pest management, perimeter and nuisance pest management, inspections, contractual maintenance...",
+    "district": "Gros Islet",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584531056",
+    "website": "fdlpestcontrol.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-fa60881b",
+    "name": "K & S Pest Solutions Ltd",
+    "slug": "k-s-pest-solutions-ltd",
+    "whatsapp_number": "+17587297828",
+    "category": {
+      "name": "Pest Control",
+      "slug": "pest-control",
+      "icon": "🐜"
+    },
+    "description": "Pest control solutions",
+    "short_description": "Pest control solutions",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587297828",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-88a0abae",
+    "name": "Laurel's Pest Control Co Ltd",
+    "slug": "laurels-pest-control-co-ltd",
+    "whatsapp_number": "+17584589451",
+    "category": {
+      "name": "Pest Control",
+      "slug": "pest-control",
+      "icon": "🐜"
+    },
+    "description": "Pest control services",
+    "short_description": "Pest control services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Babonneau"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584589451",
+    "website": "www.laurelspestcontrolslu.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-57935708",
+    "name": "Orkin Pest Control St. Lucia",
+    "slug": "orkin-pest-control-st-lucia",
+    "whatsapp_number": "+17584523261",
+    "category": {
+      "name": "Pest Control",
+      "slug": "pest-control",
+      "icon": "🐜"
+    },
+    "description": "Professional pest control and extermination services",
+    "short_description": "Professional pest control and extermination services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584523261",
+    "website": "www.orkin.lc",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d935e075",
+    "name": "Pest Exterminators Ltd",
+    "slug": "pest-exterminators-ltd",
+    "whatsapp_number": "+17584546881",
+    "category": {
+      "name": "Pest Control",
+      "slug": "pest-control",
+      "icon": "🐜"
+    },
+    "description": "Pest extermination services",
+    "short_description": "Pest extermination services",
+    "district": "Vieux Fort",
+    "areas_served": [
+      "Vieux Fort"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584546881",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d8d11e47",
+    "name": "Safe Solutions Pest Control",
+    "slug": "safe-solutions-pest-control",
+    "whatsapp_number": "+17587302812",
+    "category": {
+      "name": "Pest Control",
+      "slug": "pest-control",
+      "icon": "🐜"
+    },
+    "description": "Pest control services",
+    "short_description": "Pest control services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587302812",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-bc34bb36",
+    "name": "Dog Food SLU",
+    "slug": "dog-food-slu",
+    "whatsapp_number": "+17584884020",
+    "category": {
+      "name": "Pet Services",
+      "slug": "pet-services",
+      "icon": "🐾"
+    },
+    "description": "Pet food and supplies store. Dog food brands (Bandit, Birbo, Monello, Eagle Mountain, Valu-Pak), puppy food, cat food, dog treats, pet accessories, health and hygiene products. Free island-wide delivery.",
+    "short_description": "Pet food and supplies store. Dog food brands (Bandit, Birbo, Monello, Eagle Mountain, Valu-Pak), puppy food, cat...",
+    "district": "Gros Islet",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Prices on website, free delivery available",
+    "hours": null,
+    "phone": "+17584884020",
+    "website": "dogfoodslu.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/dogfoodslu/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-e0b68ecb",
+    "name": "Trevor Peters Associates (Accounting)",
+    "slug": "trevor-peters-associates-accounting",
+    "whatsapp_number": "+17584527372",
+    "category": {
+      "name": "Pet Services",
+      "slug": "pet-services",
+      "icon": "🐾"
+    },
+    "description": "Essential accounting services for small businesses. Over 40 years experience in finance accounting and audit. St Lucia regulatory and tax environment expertise.",
+    "short_description": "Essential accounting services for small businesses. Over 40 years experience in finance accounting and audit. St...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584527372",
+    "website": "tpaccountancy.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-0cfba92c",
+    "name": "Kirk Elliott - St Lucia Photo Tours",
+    "slug": "kirk-elliott-st-lucia-photo-tours",
+    "whatsapp_number": "+17585185800",
+    "category": {
+      "name": "Photography & Video",
+      "slug": "photography-video",
+      "icon": "📸"
+    },
+    "description": "#1 Outdoor Activity in Castries for 5+ years. Group photo tours and private custom-designed photography experiences. Quick on WhatsApp to answer questions",
+    "short_description": "#1 Outdoor Activity in Castries for 5+ years. Group photo tours and private custom-designed photography experiences....",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17585185800",
+    "website": "stluciaphototours.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-44b0734f",
+    "name": "MC Doom Enterprises Ltd",
+    "slug": "mc-doom-enterprises-ltd",
+    "whatsapp_number": "+17584501519",
+    "category": {
+      "name": "Plumbing",
+      "slug": "plumbing",
+      "icon": "🔧"
+    },
+    "description": "Swimming pool contractor, plumbing services",
+    "short_description": "Swimming pool contractor, plumbing services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584501519",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-459e7d06",
+    "name": "Manpower Tool Rentals Ltd",
+    "slug": "manpower-tool-rentals-ltd",
+    "whatsapp_number": "+17584850214",
+    "category": {
+      "name": "Plumbing",
+      "slug": "plumbing",
+      "icon": "🔧"
+    },
+    "description": "Tool rentals with plumbing services offered",
+    "short_description": "Tool rentals with plumbing services offered",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584850214",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-8499caa1",
+    "name": "RECS Plumbing Services",
+    "slug": "recs-plumbing-services",
+    "whatsapp_number": "+17584504544",
+    "category": {
+      "name": "Plumbing",
+      "slug": "plumbing",
+      "icon": "🔧"
+    },
+    "description": "Plumbing services, residential and commercial",
+    "short_description": "Plumbing services, residential and commercial",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584504544",
+    "website": "www.recsslu.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-915e2b8f",
+    "name": "Rocker's Disposals Ltd",
+    "slug": "rockers-disposals-ltd",
+    "whatsapp_number": "+17584524746",
+    "category": {
+      "name": "Plumbing",
+      "slug": "plumbing",
+      "icon": "🔧"
+    },
+    "description": "Septic tank systems and disposal services",
+    "short_description": "Septic tank systems and disposal services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584524746",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1acabe39",
+    "name": "Sam's Plumbing & Building",
+    "slug": "sams-plumbing-building",
+    "whatsapp_number": "+17584894468",
+    "category": {
+      "name": "Plumbing",
+      "slug": "plumbing",
+      "icon": "🔧"
+    },
+    "description": "Plumbing and building services",
+    "short_description": "Plumbing and building services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584894468",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-03500dde",
+    "name": "Sams Plumbing Services",
+    "slug": "sams-plumbing-services",
+    "whatsapp_number": "+17584847741",
+    "category": {
+      "name": "Plumbing",
+      "slug": "plumbing",
+      "icon": "🔧"
+    },
+    "description": "Plumbing services",
+    "short_description": "Plumbing services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584847741",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-6d29a71f",
+    "name": "B & B Quick Printers Ltd",
+    "slug": "b-b-quick-printers-ltd",
+    "whatsapp_number": "+17584502663",
+    "category": {
+      "name": "Printing & Design",
+      "slug": "printing-design",
+      "icon": "🖨️"
+    },
+    "description": "Offset and digital printing, letterheads, photocopying, invoice books, business cards",
+    "short_description": "Offset and digital printing, letterheads, photocopying, invoice books, business cards",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584502663",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-56677ba1",
+    "name": "Creative Printing",
+    "slug": "creative-printing",
+    "whatsapp_number": "+17584501111",
+    "category": {
+      "name": "Printing & Design",
+      "slug": "printing-design",
+      "icon": "🖨️"
+    },
+    "description": "Printing services. Multiple locations.",
+    "short_description": "Printing services. Multiple locations.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Anse la Raye"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584501111",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-95ef1135",
+    "name": "Exelsign Ltd",
+    "slug": "exelsign-ltd",
+    "whatsapp_number": "+17584536378",
+    "category": {
+      "name": "Printing & Design",
+      "slug": "printing-design",
+      "icon": "🖨️"
+    },
+    "description": "Printing and signage services",
+    "short_description": "Printing and signage services",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584536378",
+    "website": "shopexelsign.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-168e7cff",
+    "name": "Mayers Printing",
+    "slug": "mayers-printing",
+    "whatsapp_number": "+17584516181",
+    "category": {
+      "name": "Printing & Design",
+      "slug": "printing-design",
+      "icon": "🖨️"
+    },
+    "description": "Complete printing service from artwork and color separations to finished print. Established 1994.",
+    "short_description": "Complete printing service from artwork and color separations to finished print. Established 1994.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584516181",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-717f686f",
+    "name": "Stamp Rite",
+    "slug": "stamp-rite",
+    "whatsapp_number": "+17585727850",
+    "category": {
+      "name": "Printing & Design",
+      "slug": "printing-design",
+      "icon": "🖨️"
+    },
+    "description": "Printing and stamp services. Two locations.",
+    "short_description": "Printing and stamp services. Two locations.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Gros Islet",
+      "Rodney Bay",
+      "Laborie"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17585727850",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-19a4fe8d",
+    "name": "Star Publishing Co",
+    "slug": "star-publishing-co",
+    "whatsapp_number": "+17584507827",
+    "category": {
+      "name": "Printing & Design",
+      "slug": "printing-design",
+      "icon": "🖨️"
+    },
+    "description": "Printing including design, color separations, full color printing, lamination, perfect binding. Established 1987.",
+    "short_description": "Printing including design, color separations, full color printing, lamination, perfect binding. Established 1987.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584507827",
+    "website": "stluciastar.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-418bf07b",
+    "name": "Golden Hour Group (Real Estate)",
+    "slug": "golden-hour-group-real-estate",
+    "whatsapp_number": "+19197102191",
+    "category": {
+      "name": "Real Estate",
+      "slug": "real-estate",
+      "icon": "🏡"
+    },
+    "description": "Exclusive agency services, residential, commercial, and land property sales and investment in Saint Lucia",
+    "short_description": "Exclusive agency services, residential, commercial, and land property sales and investment in Saint Lucia",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+19197102191",
+    "website": "ghgrealestate.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1bb8dc72",
+    "name": "Micha Landers / Realty St. Lucia",
+    "slug": "micha-landers-realty-st-lucia",
+    "whatsapp_number": "+17587301772",
+    "category": {
+      "name": "Real Estate",
+      "slug": "real-estate",
+      "icon": "🏡"
+    },
+    "description": "Premier luxury real estate agent. Multi-million-dollar property sales, high-end homes and investments. Trusted by celebrities and business leaders.",
+    "short_description": "Premier luxury real estate agent. Multi-million-dollar property sales, high-end homes and investments. Trusted by...",
+    "district": "Dennery",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587301772",
+    "website": "michalanders.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-44a739cb",
+    "name": "Empire Barber Lounge",
+    "slug": "empire-barber-lounge",
+    "whatsapp_number": "+17587233839",
+    "category": {
+      "name": "Restaurants & Takeout",
+      "slug": "restaurants",
+      "icon": "🍔"
+    },
+    "description": "Barber lounge services",
+    "short_description": "Barber lounge services",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587233839",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-8bda1239",
+    "name": "KFC St. Lucia",
+    "slug": "kfc-st-lucia",
+    "whatsapp_number": "+17584840400",
+    "category": {
+      "name": "Restaurants & Takeout",
+      "slug": "restaurants",
+      "icon": "🍔"
+    },
+    "description": "Fast food chicken restaurant with delivery. 4 locations across Saint Lucia: Rodney Bay, Choc (Caribbean Cinemas), Castries, and Cul de Sac. Offers online ordering via kfcslu.com and KFC St Lucia App.. WhatsApp number confirmed on official Instagram post. Also available on CaribeEats delivery platform.",
+    "short_description": "Fast food chicken restaurant with delivery. 4 locations across Saint Lucia: Rodney Bay, Choc (Caribbean Cinemas),...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Fast food pricing; menu on website",
+    "hours": null,
+    "phone": "+17584840400",
+    "website": "www.kfcslu.com",
+    "facebook": "Instagram: @kfcst.lucia | Twitter: @kfcslu | Facebook: KFC St Lucia",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-a538c6da",
+    "name": "Spice of India",
+    "slug": "spice-of-india",
+    "whatsapp_number": "+17587291582",
+    "category": {
+      "name": "Restaurants & Takeout",
+      "slug": "restaurants",
+      "icon": "🍔"
+    },
+    "description": "Authentic Indian restaurant offering dine-in, take-out and delivery. Uses WhatsApp to send daily menu to customers. Located in Baywalk Mall, Rodney Bay.. WhatsApp confirmed on official website contact page. Sends daily menu via WhatsApp. Hours: Mon dinner only 6-10pm, Tue-Sun lunch 12-4pm + dinner 6-10pm.",
+    "short_description": "Authentic Indian restaurant offering dine-in, take-out and delivery. Uses WhatsApp to send daily menu to customers....",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Rodney Bay"
+    ],
+    "price_info": "Full Indian menu; prices on website",
+    "hours": null,
+    "phone": "+17587291582",
+    "website": "spiceofindiastlucia.com",
+    "facebook": "Facebook page available",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-8e41517e",
+    "name": "The Villa @ Marigot Bay",
+    "slug": "the-villa-marigot-bay",
+    "whatsapp_number": "+17582864321",
+    "category": {
+      "name": "Restaurants & Takeout",
+      "slug": "restaurants",
+      "icon": "🍔"
+    },
+    "description": "Restaurant offering pizza delivery via WhatsApp. Free delivery for minimum 2 pizzas. Monday-Saturday 5pm-8pm.. WhatsApp pizza delivery confirmed on website. Limited hours: Mon-Sat 5pm-8pm.",
+    "short_description": "Restaurant offering pizza delivery via WhatsApp. Free delivery for minimum 2 pizzas. Monday-Saturday 5pm-8pm.",
+    "district": "Marigot Bay",
+    "areas_served": [
+      "Marigot Bay"
+    ],
+    "price_info": "Free delivery on minimum 2 pizzas",
+    "hours": null,
+    "phone": "+17582864321",
+    "website": "www.restaurant-thevillamarigotbay.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-674214ff",
+    "name": "SecureGates Inc.",
+    "slug": "securegates-inc",
+    "whatsapp_number": "+17587213434",
+    "category": {
+      "name": "Security & CCTV",
+      "slug": "security",
+      "icon": "📷"
+    },
+    "description": "CCTV systems, alarm monitoring (24/7), alarm systems, access control, security cameras, fire alarms, smart home automation, networking solutions",
+    "short_description": "CCTV systems, alarm monitoring (24/7), alarm systems, access control, security cameras, fire alarms, smart home...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587213434",
+    "website": "securegatesinc.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1de94376",
+    "name": "Caribic Design (ceramics & upcycled clothing)",
+    "slug": "caribic-design-ceramics-upcycled-clothing",
+    "whatsapp_number": "+17587151070",
+    "category": {
+      "name": "Shopping & Gifts",
+      "slug": "shopping",
+      "icon": "🛍️"
+    },
+    "description": "Hand-made and hand-painted original ceramic souvenirs using imported white and local red clays. Upcycled clothing under 'Live Mindfully' brand. Signature fruit/fish-shaped items.",
+    "short_description": "Hand-made and hand-painted original ceramic souvenirs using imported white and local red clays. Upcycled clothing...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "Handmade ceramic and clothing pricing varies",
+    "hours": null,
+    "phone": "+17587151070",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5c8251eb",
+    "name": "Fashion Heaven 758",
+    "slug": "fashion-heaven-758",
+    "whatsapp_number": "+17587270704",
+    "category": {
+      "name": "Shopping & Gifts",
+      "slug": "shopping",
+      "icon": "🛍️"
+    },
+    "description": "Online clothing store based in St. Lucia. Fashion, clothing, and accessories. Order pickup available in Vieux Fort and Castries. Prices in ECD.",
+    "short_description": "Online clothing store based in St. Lucia. Fashion, clothing, and accessories. Order pickup available in Vieux Fort...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Vieux Fort"
+    ],
+    "price_info": "Prices in ECD (listed on Instagram)",
+    "hours": null,
+    "phone": "+17587270704",
+    "website": null,
+    "facebook": null,
+    "instagram": "https://www.instagram.com/fashionheaven758/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-9a481496",
+    "name": "Rissy Kouture - House of Caribbean Fashion",
+    "slug": "rissy-kouture-house-of-caribbean-fashion",
+    "whatsapp_number": "+17587152628",
+    "category": {
+      "name": "Shopping & Gifts",
+      "slug": "shopping",
+      "icon": "🛍️"
+    },
+    "description": "Caribbean fashion boutique. Designer clothing and fashion accessories with Caribbean flair.",
+    "short_description": "Caribbean fashion boutique. Designer clothing and fashion accessories with Caribbean flair.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": "Fashion pricing varies",
+    "hours": null,
+    "phone": "+17587152628",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-58f8dfb3",
+    "name": "Cosol St. Lucia Tours",
+    "slug": "cosol-st-lucia-tours",
+    "whatsapp_number": "+17587246697",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Private tours, airport transfers, snorkeling experiences, Soufriere town visits, island excursions. Best value and excellent service",
+    "short_description": "Private tours, airport transfers, snorkeling experiences, Soufriere town visits, island excursions. Best value and...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Babonneau"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587246697",
+    "website": "www.cosol-tours.com",
+    "facebook": "Facebook: @cosolstluciatours, Instagram: @cosoltours",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-bb0e8e3f",
+    "name": "Courtesy Taxi & Tour Co-operative Society Ltd",
+    "slug": "courtesy-taxi-tour-co-operative-society-ltd",
+    "whatsapp_number": "+17587157072",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Scenic drives, Pigeon Island tours, cultural tours, airport transfers, taxi services",
+    "short_description": "Scenic drives, Pigeon Island tours, cultural tours, airport transfers, taxi services",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587157072",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-6bef662f",
+    "name": "FunToSee Island (Ferry Transfer)",
+    "slug": "funtosee-island-ferry-transfer",
+    "whatsapp_number": "+17587299589",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Ferry-based airport transfers, water taxi, complimentary beverages (wine, beer, champagne, mimosas, soft drinks, snacks), ground transportation included, fast track airport concierge. Highest rated airport transfer in Saint Lucia. Trip duration 90 min to 2 hours. Complimentary drinks and snacks. Delayed flight insurance available.",
+    "short_description": "Ferry-based airport transfers, water taxi, complimentary beverages (wine, beer, champagne, mimosas, soft drinks,...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Rodney Bay",
+      "Soufriere",
+      "Marigot Bay"
+    ],
+    "price_info": "Fast Track: $50 USD/person. Re-booking fee: $12.50/person",
+    "hours": null,
+    "phone": "+17587299589",
+    "website": "funtoseeisland.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-4491e385",
+    "name": "Harris St Lucia Excursions (Cheap Charlies Tours)",
+    "slug": "harris-st-lucia-excursions-cheap-charlies-tours",
+    "whatsapp_number": "+17587143866",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Guided tours, semi-private/private tours, airport transfers, island excursions, cruise ship passenger tours, hotel transfers, taxi services",
+    "short_description": "Guided tours, semi-private/private tours, airport transfers, island excursions, cruise ship passenger tours, hotel...",
+    "district": "Dennery",
+    "areas_served": [
+      "Dennery"
+    ],
+    "price_info": "Private Tour: US$150, Semi-private Land & Sea: US$100, Beach Tour: US$20, Island Excursion (group): US$60, Airport Transfer: US$60, Standard Island Tour: US$70",
+    "hours": null,
+    "phone": "+17587143866",
+    "website": "www.harrisexcursions.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-3c00f37e",
+    "name": "Hewanorra Express (Water Ferry)",
+    "slug": "hewanorra-express-water-ferry",
+    "whatsapp_number": "+17587211185",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Water ferry airport transfers from Hewanorra Airport, private charters, trips to Martinique. Water-based alternative to road transfers. Stress-free airport-to-hotel water ferry.",
+    "short_description": "Water ferry airport transfers from Hewanorra Airport, private charters, trips to Martinique",
+    "district": "Vieux Fort",
+    "areas_served": [
+      "Vieux Fort"
+    ],
+    "price_info": "Via online booking",
+    "hours": null,
+    "phone": "+17587211185",
+    "website": "hewanorraexpress.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-25fec2ee",
+    "name": "Island Taxi & Tours (islandtaxi.co)",
+    "slug": "island-taxi-tours-islandtaxico",
+    "whatsapp_number": "+17582849900",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Private airport transfers, VIP fast-track, VIP departure lounge, water transfers, helicopter transfers, private island tours, Piton hiking, horseback riding, snorkeling, zip-lining, ATV/off-road tours, custom tours. Operating since 2014. Online booking system. Same-day service. Complimentary welcome amenities (water, snacks, Piton beer).",
+    "short_description": "Private airport transfers, VIP fast-track, VIP departure lounge, water transfers, helicopter transfers, private...",
+    "district": "Vieux Fort",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Affordable and transparent. No hidden fees. Specific rates on booking request",
+    "hours": null,
+    "phone": "+17582849900",
+    "website": "www.islandtaxi.co",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-9d3cc7bc",
+    "name": "Island Taxi St Lucia",
+    "slug": "island-taxi-st-lucia",
+    "whatsapp_number": "+17587286741",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Airport transfers, hotel pickups, island tours, cruise ship excursions, water taxi services, private driver hire, VIP fast track, chocolate-making tours, half-day tours, land-and-sea tours. Family-owned since 2013. 24/7 service. Real-time flight monitoring. Free cancellation with 24h notice. Also offers car rental.",
+    "short_description": "Airport transfers, hotel pickups, island tours, cruise ship excursions, water taxi services, private driver hire,...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Castries: $85 USD (1-3 pax) / $30pp (4+); Gros Islet: $95 USD (1-3 pax); Soufriere: $70 USD (1-3 pax); Marigot Bay: $85 USD (1-3 pax)",
+    "hours": null,
+    "phone": "+17587286741",
+    "website": "www.islandtaxistlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-89c5cdbc",
+    "name": "Jerome's Taxi Service",
+    "slug": "jeromes-taxi-service",
+    "whatsapp_number": "+17582859979",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "24-hour taxi, private airport transfers, land and sea tours, point-to-point services, adventurous tours. WhatsApp link: https://wa.me/17582859979",
+    "short_description": "24-hour taxi, private airport transfers, land and sea tours, point-to-point services, adventurous tours",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Low rates (not specified)",
+    "hours": null,
+    "phone": "+17582859979",
+    "website": "jerometaxiservice.wordpress.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f83a27ff",
+    "name": "Lucian Vibe",
+    "slug": "lucian-vibe",
+    "whatsapp_number": "+18667722112",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Private and luxury ground transportation, airport transfers, fast track services, luxury sedan, private sedan, luxury SUV, mid-size vehicle options. Operated by Iyanola Alliance LTD (est. 2016). Available 24/7. Online booking system.",
+    "short_description": "Private and luxury ground transportation, airport transfers, fast track services, luxury sedan, private sedan,...",
+    "district": "Marigot Bay",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Fast Track: $70/person. Wine/Champagne add-on: $30. Flower bouquet: $55. Child seat: $10",
+    "hours": null,
+    "phone": "+18667722112",
+    "website": "lucianvibe.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d2a66382",
+    "name": "ML Taxi and Tours",
+    "slug": "ml-taxi-and-tours",
+    "whatsapp_number": "+17584844547",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Private airport transfers, meet and greet service, custom island tours, chartered private chauffeur, Soufriere Experience Tour, Round the Island Tour, Sea Food Party Tours, Horse Back Riding Tours, Cross Country Rainforest Tour. Fleet: Coster Van (25-46 pax), Mini Van (15 pax max), SUV (5 pax max). 24/7 availability. Trained in customer care, emergency procedures and first aid.",
+    "short_description": "Private airport transfers, meet and greet service, custom island tours, chartered private chauffeur, Soufriere...",
+    "district": "Laborie",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Not listed. Complimentary local beverages and refreshments included.",
+    "hours": null,
+    "phone": "+17584844547",
+    "website": "mltaxiandtours.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-38e1b55e",
+    "name": "Marc's Taxi Service and Tours",
+    "slug": "marcs-taxi-service-and-tours",
+    "whatsapp_number": "+17587216469",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Taxi services, island tours, airport transfers, Soufriere-based tours. Highly rated on TripAdvisor. WhatsApp contact confirmed by multiple reviewers. Friendly, authentic, reliable experience.",
+    "short_description": "Taxi services, island tours, airport transfers, Soufriere-based tours",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": "Not listed",
+    "hours": null,
+    "phone": "+17587216469",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1613ef96",
+    "name": "Paradise Taxi",
+    "slug": "paradise-taxi",
+    "whatsapp_number": "+17584840796",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Airport transfers, ferry terminal transportation, island tours, special event transport (weddings, dining), ATV tours, hiking, horseback riding, camping, shopping assistance, grocery runs, custom travel requests. Certified children's car seats available (3 months to 6 years). Approved by Saint Lucia Tourism Authority.",
+    "short_description": "Airport transfers, ferry terminal transportation, island tours, special event transport (weddings, dining), ATV...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Airport transfers: $100 USD (1-3 pax), $25 per additional. Ferry terminal: $30 USD (1-3 pax), $8 per additional",
+    "hours": null,
+    "phone": "+17584840796",
+    "website": "paradisetaxislu.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-7ae371d1",
+    "name": "Serenity Vacations & Tours",
+    "slug": "serenity-vacations-tours",
+    "whatsapp_number": "+17587191775",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Ambassador-level service private transportation, private transfers to resorts, airport transfers, island tours, helicopter shuttle transfers",
+    "short_description": "Ambassador-level service private transportation, private transfers to resorts, airport transfers, island tours,...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587191775",
+    "website": "serenitytvl.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-e02cbe7f",
+    "name": "Solomon Water Taxi and Tours",
+    "slug": "solomon-water-taxi-and-tours",
+    "whatsapp_number": "+17582867127",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Speed boat tours, half day snorkeling tours, land and sea tours, beach break tours, fishing expeditions (trolling and reef), sunset cruises, Castries shopping tours, Gros Piton hiking, dolphin watching, beach BBQ experiences. Boats: Justice / Justice Again / More Justice. Saint Lucian tour operator.",
+    "short_description": "Speed boat tours, half day snorkeling tours, land and sea tours, beach break tours, fishing expeditions (trolling...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Rodney Bay",
+      "Soufriere",
+      "Marigot Bay"
+    ],
+    "price_info": "Tours include snorkeling gear, local snack and drinks. Attraction fees $3-10 USD extra",
+    "hours": null,
+    "phone": "+17582867127",
+    "website": "www.solomon-saintlucia.com",
+    "facebook": "Facebook & Instagram @solomonwatertaxitours",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-59192cf3",
+    "name": "St Lucia Advance Tours",
+    "slug": "st-lucia-advance-tours",
+    "whatsapp_number": "+18557589757",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Private airport transfers, luxury airport transfer, black car service, fast track arrival, fast track plus (arrival and departure), fast track departure and lounge access. No shared rides. Personalized journeys. Online payment or cash to driver.",
+    "short_description": "Private airport transfers, luxury airport transfer, black car service, fast track arrival, fast track plus (arrival...",
+    "district": "Vieux Fort",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Pricing via online booking",
+    "hours": null,
+    "phone": "+18557589757",
+    "website": "stluciaadvancetours.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-0494c11c",
+    "name": "St Lucia Airport Taxi Service",
+    "slug": "st-lucia-airport-taxi-service",
+    "whatsapp_number": "+17584844265",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Private airport transfers, luxury car service, SUV transfers, van transfers. Accepts Amex, Visa, Mastercard. Meet at SLASPA Information Desk. Luggage assistance and personal escort to vehicle.",
+    "short_description": "Private airport transfers, luxury car service, SUV transfers, van transfers",
+    "district": "Gros Islet",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Special rate: US$85 for 1-3 persons island-wide. Standard from US$70+",
+    "hours": null,
+    "phone": "+17584844265",
+    "website": "stlucia-airport.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f58ef835",
+    "name": "St Lucia Eco Adventures",
+    "slug": "st-lucia-eco-adventures",
+    "whatsapp_number": "+17587168396",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Snorkeling, Sulphur Springs/Mudbath, Piton Adventure hiking, Tet Paul Nature Trail, sunset cruise, bird watching, Soufriere full-day combo, waterfall tours, forest walks, rainforest hikes, airport shuttle. French-speaking and sign language guides available. Complimentary drink and vegan snack included",
+    "short_description": "Snorkeling, Sulphur Springs/Mudbath, Piton Adventure hiking, Tet Paul Nature Trail, sunset cruise, bird watching,...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries",
+      "Soufriere"
+    ],
+    "price_info": "Snorkeling: $170, Mud Bath: $95, Piton Adventure: $150, Tet Paul: $75, Sunset Cruise: $145, Bird Watching: $130, Soufriere Combo: $150, Waterfall: $190, Forest Walks: $180",
+    "hours": null,
+    "phone": "+17587168396",
+    "website": "stluciaecoadventures.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-b455722b",
+    "name": "St Lucia Travel and Tours",
+    "slug": "st-lucia-travel-and-tours",
+    "whatsapp_number": "+17587168598",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Airport transfers, fast track service (expedited customs/immigration), custom tours, luxury sedan transfers with complimentary beverages, private transfers. Professional, courteous drivers. Air-conditioned vehicles. Private vehicle transfers only (no shared). Flexible routing with stops.",
+    "short_description": "Airport transfers, fast track service (expedited customs/immigration), custom tours, luxury sedan transfers with...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "Quotes on request. Customer service responds within 30 min",
+    "hours": null,
+    "phone": "+17587168598",
+    "website": "stluciatravelandtours.com",
+    "facebook": "Facebook, Instagram, Twitter, LinkedIn, Pinterest",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-7bf017c4",
+    "name": "St Lucian Taxi and Tours",
+    "slug": "st-lucian-taxi-and-tours",
+    "whatsapp_number": "+17584890041",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Airport transfers, private customized day tours, hiking expeditions (Piton hikes), land and sea combination tours, snorkeling excursions, bird watching tours, chauffeur services, group shuttle transportation, point-to-point transfers. Operating since 2006. Operated under Passionate Travel umbrella (USA-based with SLU operations). Online automated booking system.",
+    "short_description": "Airport transfers, private customized day tours, hiking expeditions (Piton hikes), land and sea combination tours,...",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": "10% discount on tours when booking round trip airport transfers",
+    "hours": null,
+    "phone": "+17584890041",
+    "website": "www.stluciantaxiandtours.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5727c864",
+    "name": "Treasure Tours St. Lucia",
+    "slug": "treasure-tours-st-lucia",
+    "whatsapp_number": "+17587148900",
+    "category": {
+      "name": "Taxi & Transfer",
+      "slug": "taxi-transfer",
+      "icon": "🚕"
+    },
+    "description": "Land & sea excursions, airport transfers, Soufriere tours, island sightseeing, Pitons visits",
+    "short_description": "Land & sea excursions, airport transfers, Soufriere tours, island sightseeing, Pitons visits",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587148900",
+    "website": "www.treasuretourssaintlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-b7dafa97",
+    "name": "Flow Saint Lucia (Cable & Wireless)",
+    "slug": "flow-saint-lucia-cable-wireless",
+    "whatsapp_number": "+17582851010",
+    "category": {
+      "name": "Telecom & Internet",
+      "slug": "telecom",
+      "icon": "📡"
+    },
+    "description": "Internet, mobile, TV, bundles. Customer service and support via WhatsApp.",
+    "short_description": "Internet, mobile, TV, bundles. Customer service and support via WhatsApp.",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17582851010",
+    "website": "discoverflow.co/web/saint-lucia",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-21dac9db",
+    "name": "WASCO (Water & Sewerage Company Inc.)",
+    "slug": "wasco-water-sewerage-company-inc",
+    "whatsapp_number": "+17584820066",
+    "category": {
+      "name": "Utilities",
+      "slug": "utilities",
+      "icon": "💡"
+    },
+    "description": "Water supply, sewerage services, fault reporting, service disruption updates, customer service inquiries",
+    "short_description": "Water supply, sewerage services, fault reporting, service disruption updates, customer service inquiries",
+    "district": "Castries",
+    "areas_served": [
+      "All Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584820066",
+    "website": "www.wascosaintlucia.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/wascosaintlucia/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-05877b67",
+    "name": "Parasail St Lucia",
+    "slug": "parasail-st-lucia",
+    "whatsapp_number": "+17584858484",
+    "category": {
+      "name": "Water Sports",
+      "slug": "water-sports",
+      "icon": "🏄"
+    },
+    "description": "Parasailing with spectacular views of Rodney Bay overlooking Pigeon Island and the Caribbean Sea, jet skiing",
+    "short_description": "Parasailing with spectacular views of Rodney Bay overlooking Pigeon Island and the Caribbean Sea, jet skiing",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584858484",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-db9257cc",
+    "name": "St Lucia Jet Ski Rentals",
+    "slug": "st-lucia-jet-ski-rentals",
+    "whatsapp_number": "+17587253064",
+    "category": {
+      "name": "Water Sports",
+      "slug": "water-sports",
+      "icon": "🏄"
+    },
+    "description": "Yamaha Waverunner jet ski rentals. Professional safety briefing, life vests and safety equipment, max 2 persons per rental, gasoline included",
+    "short_description": "Yamaha Waverunner jet ski rentals. Professional safety briefing, life vests and safety equipment, max 2 persons per...",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587253064",
+    "website": "stluciajetskirentals.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1f3cb91c",
+    "name": "Hi-Rise Design Studio",
+    "slug": "hi-rise-design-studio",
+    "whatsapp_number": "+17584601134",
+    "category": {
+      "name": "Web & App Design",
+      "slug": "web-app-design",
+      "icon": "🌐"
+    },
+    "description": "Web design and development, graphic design, brand identity, website maintenance and management, food photography, e-commerce, online booking integration",
+    "short_description": "Web design and development, graphic design, brand identity, website maintenance and management, food photography,...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17584601134",
+    "website": "www.hirisedesignstudio.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/hirisedesignstudio/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-9e197486",
+    "name": "Mosaic Ltd (Digital Marketing)",
+    "slug": "mosaic-ltd-digital-marketing",
+    "whatsapp_number": "+17587181223",
+    "category": {
+      "name": "Web & App Design",
+      "slug": "web-app-design",
+      "icon": "🌐"
+    },
+    "description": "Full-service digital marketing agency. Marketing strategy, website design, e-commerce, SEO and SEM, content development.",
+    "short_description": "Full-service digital marketing agency. Marketing strategy, website design, e-commerce, SEO and SEM, content development.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet",
+      "Rodney Bay"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587181223",
+    "website": "whymosaic.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/whymosaic/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-cc20e23e",
+    "name": "eMagine Solutions Inc",
+    "slug": "emagine-solutions-inc",
+    "whatsapp_number": "+17582879788",
+    "category": {
+      "name": "Web & App Design",
+      "slug": "web-app-design",
+      "icon": "🌐"
+    },
+    "description": "Enterprise web development, custom web development, responsive web design, WordPress builds, SEO, mobile applications, database systems. Over 300 websites built.",
+    "short_description": "Enterprise web development, custom web development, responsive web design, WordPress builds, SEO, mobile...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": "Starting at $1,799 for basic sites",
+    "hours": null,
+    "phone": "+17582879788",
+    "website": "emagine.lc",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/emaginesolutionslc/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c6fca3e9",
+    "name": "iGraphix Marketing & Co.",
+    "slug": "igraphix-marketing-co",
+    "whatsapp_number": "+17587266532",
+    "category": {
+      "name": "Web & App Design",
+      "slug": "web-app-design",
+      "icon": "🌐"
+    },
+    "description": "Graphics and branding, web design and development, social media management, SEO, photography and video services, drone services. 6+ years, 500+ clients, 1,000+ projects.",
+    "short_description": "Graphics and branding, web design and development, social media management, SEO, photography and video services,...",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+17587266532",
+    "website": "igraphixmktg.com",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/igraphixmktg/",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  }
+]

@@ -1,0 +1,247 @@
+{
+  "personas": [
+    {
+      "id": "tourist",
+      "label": "Tourist / Visitor",
+      "icon": "\ud83c\udfd6\ufe0f",
+      "short": "I'm visiting Saint Lucia",
+      "description": "Arriving for holiday, honeymoon, cruise stop, or destination wedding.",
+      "hero_summary": "Welcome to Saint Lucia! Whether you're here for a week or a weekend, you'll find everything you need \u2014 from airport transfers and island tours to the best restaurants, spas, and adventure experiences. All providers listed have verified phone numbers and WhatsApp contacts, so you can book directly.",
+      "priority_groups": ["Transport", "Tours & Activities", "Food & Dining", "Beauty & Wellness", "Events & Media"],
+      "priority_subcats": ["taxi", "island-tours", "boat-tours", "diving-snorkeling", "water-sports", "fishing", "adventure", "hiking", "eco-tours", "food-tours", "horseback-riding", "photography-tours", "restaurant", "bar-nightlife", "spa-massage", "car-rental", "scooter-rental", "water-taxi", "wedding-planner", "photographer", "souvenirs"],
+      "tips": [
+        "Most taxi fares from Hewanorra (UVF) to Rodney Bay are US$85\u201395 for 1\u20133 passengers.",
+        "WhatsApp is the primary way businesses communicate in Saint Lucia \u2014 save numbers and message directly.",
+        "Book tours at least 1\u20132 days in advance, especially during high season (December\u2013April).",
+        "EC$2.70 = US$1.00 \u2014 most tourist businesses accept both currencies.",
+        "Tipping is customary: 10\u201315% at restaurants, US$5\u201310 per person for tour guides."
+      ],
+      "cta": "Browse services for visitors \u2192"
+    },
+    {
+      "id": "local-business",
+      "label": "Local Business Owner",
+      "icon": "\ud83c\udfe2",
+      "short": "I run a business in Saint Lucia",
+      "description": "Own or manage a hotel, restaurant, shop, or other business. Need suppliers, contractors, and professional services.",
+      "hero_summary": "Running a business in Saint Lucia means knowing who to call. This directory covers every service your operation needs \u2014 from food suppliers and equipment vendors to accountants, lawyers, IT support, and contractors. All contacts verified, with direct phone numbers and WhatsApp.",
+      "priority_groups": ["Home Services", "Professional", "Essentials", "Events & Media"],
+      "priority_subcats": ["electrician", "plumber", "ac-repair", "pest-control", "cleaning", "contractor", "security", "landscaping", "accounting", "legal", "insurance", "web-design", "printing"],
+      "show_hotel_wellness": true,
+      "tips": [
+        "Need to hire staff? Visit talent.stlucia.studio \u2014 Saint Lucia's dedicated talent platform.",
+        "Most professional services operate 8AM\u20134:30PM Monday to Friday.",
+        "For hotel/resort-specific suppliers, see the Hotel & Wellness section.",
+        "Request quotes from at least 3 providers \u2014 pricing varies significantly.",
+        "Check if contractors are registered with the ROCIP."
+      ],
+      "cta": "Find business services \u2192"
+    },
+    {
+      "id": "resident",
+      "label": "Local Resident",
+      "icon": "\ud83c\udfe0",
+      "short": "I live in Saint Lucia",
+      "description": "Born and raised or long-term resident. Need everyday services \u2014 home repair, food, shopping, health, transport.",
+      "hero_summary": "Your go-to directory for every service on the island. Find electricians, plumbers, delivery services, restaurants, beauty salons, and more \u2014 all with verified local contact numbers. WhatsApp a provider directly and get things sorted.",
+      "priority_groups": ["Home Services", "Food & Dining", "Beauty & Wellness", "Shopping & Retail", "Essentials"],
+      "priority_subcats": ["electrician", "plumber", "ac-repair", "pest-control", "cleaning", "landscaping", "contractor", "handyman", "delivery", "fast-food", "restaurant", "grocery", "bakery", "bar-nightlife", "hair-salon", "spa-massage", "fitness", "pharmacy", "phone-repair", "auto-parts", "furniture", "utilities", "telecom", "banking", "health"],
+      "tips": [
+        "Save your favourite service providers' WhatsApp numbers \u2014 that's how most business is done here.",
+        "Food delivery is growing fast \u2014 several services now deliver island-wide via WhatsApp orders.",
+        "For emergency services: Police 999, Fire 911, Ambulance 911.",
+        "LUCELEC (electricity) and WASCO (water) handle utility connections.",
+        "Flow and Digicel are the two main telecom providers."
+      ],
+      "cta": "Browse everyday services \u2192"
+    },
+    {
+      "id": "wellness-center",
+      "label": "Hotel / Wellness Center",
+      "icon": "\ud83c\udfe8",
+      "short": "I operate a hotel, resort, or wellness center",
+      "description": "Run a hotel, resort, spa, or wellness retreat. Need specialized hospitality suppliers and B2B services.",
+      "hero_summary": "Saint Lucia's hospitality sector needs reliable local partners. This section covers every service category a hotel, resort, or wellness center needs \u2014 from food & beverage suppliers and linen services to security, landscaping, spa therapists, entertainment, and professional services.",
+      "priority_groups": ["Professional", "Home Services", "Events & Media", "Beauty & Wellness"],
+      "priority_subcats": ["security", "cleaning", "landscaping", "contractor", "pest-control", "photographer", "event-planner", "wedding-planner", "dj-entertainment", "spa-massage", "catering", "accounting", "legal", "insurance", "web-design", "printing"],
+      "show_hotel_wellness": true,
+      "tips": [
+        "Crown Foods, Peter & Company, and Renwick are the top three food distributors for hotels.",
+        "St Lucia Linen provides commercial linen rental with daily delivery.",
+        "Looking to hire hospitality staff? Use talent.stlucia.studio and hire.stlucia.studio.",
+        "Fire safety, food safety, and first aid training are required \u2014 check with your insurance provider."
+      ],
+      "cta": "View hospitality services \u2192"
+    },
+    {
+      "id": "expat-short",
+      "label": "Digital Nomad / Short-Term Expat",
+      "icon": "\ud83d\udcbb",
+      "short": "I'm working remotely from Saint Lucia",
+      "description": "Digital nomad, remote worker, or short-term expat. Need internet, workspace, transport, food, and lifestyle services.",
+      "hero_summary": "Working remotely from paradise? Saint Lucia has everything you need to stay productive and enjoy island life. Find reliable internet providers, coworking-friendly spots, food delivery, transport, gyms, and home services. Most providers are reachable via WhatsApp for quick booking.",
+      "priority_groups": ["Essentials", "Transport", "Food & Dining", "Beauty & Wellness", "Tours & Activities"],
+      "priority_subcats": ["telecom", "car-rental", "delivery", "restaurant", "fast-food", "grocery", "fitness", "spa-massage", "pharmacy", "health", "cleaning", "island-tours", "boat-tours", "diving-snorkeling", "water-sports", "hiking", "bar-nightlife"],
+      "tips": [
+        "Flow offers the fastest fibre internet (up to 250 Mbps) \u2014 essential for remote work.",
+        "Rodney Bay has the best concentration of cafes, restaurants, and services for remote workers.",
+        "Monthly car rental runs US$800\u20131,200 for a basic vehicle. Insurance is mandatory.",
+        "The Saint Lucia Remote Worker Visa allows stays up to 12 months \u2014 visit remote.stlucia.studio.",
+        "Join the Saint Lucia Expat Facebook groups for community connections."
+      ],
+      "cta": "Explore nomad essentials \u2192"
+    },
+    {
+      "id": "expat-long",
+      "label": "Long-Term Expat / Relocator",
+      "icon": "\ud83c\udf34",
+      "short": "I'm relocating to Saint Lucia permanently",
+      "description": "Moving permanently or long-term. Need home setup, professional services, healthcare, and integration support.",
+      "hero_summary": "Making Saint Lucia your new home is an exciting move. This directory helps you find every service you'll need \u2014 from setting up utilities and internet, to finding contractors, legal advice for residency, healthcare providers, and everyday services. Welcome to island life.",
+      "priority_groups": ["Professional", "Home Services", "Essentials", "Shopping & Retail"],
+      "priority_subcats": ["legal", "insurance", "accounting", "real-estate", "banking", "utilities", "telecom", "health", "contractor", "electrician", "plumber", "ac-repair", "landscaping", "security", "pest-control", "furniture", "cleaning", "pharmacy", "auto-parts", "hardware"],
+      "tips": [
+        "Non-nationals need an Alien Landholding License to purchase property \u2014 costs 10% of property value.",
+        "Open a local bank account at BOSL, 1st National, or CIBC FCIB \u2014 you'll need proof of address and ID.",
+        "Property insurance is essential \u2014 hurricane season is June 1 to November 30.",
+        "EC$2.70 is pegged to US$1.00 \u2014 the rate never changes.",
+        "Visit expat.stlucia.studio for our comprehensive expat guide.",
+        "Browse homes at homes.stlucia.studio for the only consolidated SLU property directory."
+      ],
+      "cta": "Find relocation services \u2192"
+    },
+    {
+      "id": "homeowner-abroad",
+      "label": "Property Owner (Overseas)",
+      "icon": "\ud83c\udfdd\ufe0f",
+      "short": "I own property in Saint Lucia but live abroad",
+      "description": "Own a villa, apartment, or land but live overseas. Need property management, maintenance, security, and rental services.",
+      "hero_summary": "Managing property in Saint Lucia from abroad requires reliable local contacts. Find trusted contractors, security services, property managers, cleaners, landscapers, and pest control providers \u2014 all with verified phone and WhatsApp numbers for easy communication from anywhere in the world.",
+      "priority_groups": ["Home Services", "Professional"],
+      "priority_subcats": ["security", "cleaning", "landscaping", "pest-control", "plumber", "electrician", "ac-repair", "contractor", "handyman", "insurance", "legal", "accounting", "real-estate"],
+      "tips": [
+        "Schedule regular pest control (quarterly minimum) \u2014 tropical climate means active pests year-round.",
+        "Hurricane season (June\u2013November): ensure your property manager checks shutters and drainage before each storm.",
+        "Most service providers accept wire transfers or online payment for overseas clients.",
+        "Property rental income earned in Saint Lucia is subject to local tax \u2014 consult a local accountant.",
+        "List your property for short-term rental at homes.stlucia.studio."
+      ],
+      "cta": "Find property services \u2192"
+    },
+    {
+      "id": "retiree",
+      "label": "Retiree / Pensioner",
+      "icon": "\ud83c\udf05",
+      "short": "I'm retired or retiring to Saint Lucia",
+      "description": "Retired to Saint Lucia or planning ahead. Need healthcare, insurance, banking, legal help, home services, and leisure.",
+      "hero_summary": "Saint Lucia is one of the Caribbean's most welcoming retirement destinations. This directory helps you find everything you need \u2014 from trusted doctors and pharmacies to insurance brokers, banks, legal advisors, home maintenance, and activities to fill your days.",
+      "priority_groups": ["Essentials", "Professional", "Home Services", "Beauty & Wellness", "Food & Dining", "Tours & Activities"],
+      "priority_subcats": ["health", "pharmacy", "insurance", "banking", "legal", "accounting", "utilities", "telecom", "electrician", "plumber", "ac-repair", "pest-control", "cleaning", "landscaping", "contractor", "security", "taxi", "car-rental", "restaurant", "grocery", "spa-massage", "fitness", "island-tours", "boat-tours", "hiking", "eco-tours", "food-tours"],
+      "tips": [
+        "Victoria Hospital (Castries) is the main public hospital. Tapion Hospital is the leading private option.",
+        "Private health insurance is strongly recommended \u2014 Caribbean Alliance and Sagicor are popular providers.",
+        "Pensions from the US, UK, and Canada can be received via wire transfer to local banks.",
+        "The Alien Landholding License costs 10% of property value for non-nationals.",
+        "Visit retire.stlucia.studio for our complete retirement guide."
+      ],
+      "cta": "Explore retirement services \u2192"
+    },
+    {
+      "id": "investor",
+      "label": "CBI Investor / Developer",
+      "icon": "\ud83d\udcb0",
+      "short": "I'm investing through CBI or developing property",
+      "description": "Coming via Citizenship by Investment or planning a development. Need real estate, legal, accounting, and construction.",
+      "hero_summary": "Saint Lucia's Citizenship by Investment programme requires a minimum US$240,000 donation or US$200,000+ in approved real estate. This directory connects you with the legal, financial, construction, and property management professionals you need on the ground.",
+      "priority_groups": ["Professional", "Home Services", "Essentials"],
+      "priority_subcats": ["real-estate", "legal", "accounting", "insurance", "banking", "contractor", "security", "landscaping", "web-design", "cleaning", "pest-control", "electrician", "plumber", "ac-repair"],
+      "show_hotel_wellness": true,
+      "tips": [
+        "CBI real estate minimum: US$200,000 (shared) or US$300,000 (sole ownership). Must hold for 5 years.",
+        "The Citizenship by Investment Unit (CIU) is the sole authority \u2014 ciustlucia.com for requirements.",
+        "Engage a local attorney experienced in CBI \u2014 FOSTERS, Chamberlains, and Brickstone Law handle these regularly.",
+        "Browse CBI-approved properties at homes.stlucia.studio.",
+        "Corporate tax is 25% standard, but IBCs pay 1% on foreign income."
+      ],
+      "cta": "Find investment services \u2192"
+    },
+    {
+      "id": "student",
+      "label": "Student / Young Professional",
+      "icon": "\ud83c\udf93",
+      "short": "I'm studying or starting my career here",
+      "description": "Attending college or starting your career. Need affordable food, transport, internet, tutoring, and work opportunities.",
+      "hero_summary": "Whether you're at SALCC, UWI Open Campus, Monroe College, or just starting your career, this directory helps you find affordable services \u2014 from cheap eats and transport to phone plans, tutoring, and fitness. Looking for work? Check talent.stlucia.studio.",
+      "priority_groups": ["Food & Dining", "Transport", "Essentials", "Beauty & Wellness", "Shopping & Retail"],
+      "priority_subcats": ["fast-food", "restaurant", "delivery", "bakery", "grocery", "bar-nightlife", "taxi", "car-rental", "scooter-rental", "telecom", "pharmacy", "health", "fitness", "hair-salon", "phone-repair", "printing", "tutoring", "clothing"],
+      "tips": [
+        "Digicel and Flow both offer student data plans \u2014 compare monthly rates before committing.",
+        "Minibuses run frequent routes between Castries, Gros Islet, and Vieux Fort for EC$2\u20135 per ride.",
+        "Looking for work? Create a free profile at talent.stlucia.studio.",
+        "Castries Central Market has the cheapest fresh produce \u2014 open daily except Sunday.",
+        "Free WiFi is available at most fast food restaurants and JQ Mall."
+      ],
+      "cta": "Browse student-friendly services \u2192"
+    },
+    {
+      "id": "event-planner",
+      "label": "Event Planner / Wedding Organizer",
+      "icon": "\ud83d\udc92",
+      "short": "I'm planning a wedding, retreat, or event",
+      "description": "Organizing a destination wedding, corporate retreat, or special event. Need venues, catering, photography, and entertainment.",
+      "hero_summary": "Saint Lucia is one of the world's top destination wedding and event locations \u2014 the Pitons, tropical gardens, and beachfront venues provide a stunning backdrop. This directory connects you with every service provider you need: wedding planners, caterers, photographers, DJs, florists, transport, and more.",
+      "priority_groups": ["Events & Media", "Food & Dining", "Beauty & Wellness", "Transport", "Tours & Activities"],
+      "priority_subcats": ["wedding-planner", "event-planner", "photographer", "dj-entertainment", "printing", "florist", "catering", "restaurant", "bar-nightlife", "bakery", "spa-massage", "hair-salon", "nails", "taxi", "car-rental", "water-taxi", "boat-tours", "adventure", "island-tours"],
+      "tips": [
+        "Peak wedding season is December through April \u2014 book vendors 6\u201312 months in advance.",
+        "Legal requirements: 2 working days residency before marriage, valid passport, decree absolute if divorced.",
+        "Most resorts have in-house coordinators, but independent planners often offer more flexibility.",
+        "Sunset is around 5:45\u20136:15 PM year-round \u2014 plan ceremony timing for golden hour photos.",
+        "Boat arrival to the ceremony is a popular option \u2014 several charter companies offer wedding packages."
+      ],
+      "cta": "Find event & wedding services \u2192"
+    },
+    {
+      "id": "cruise-visitor",
+      "label": "Cruise Ship Visitor",
+      "icon": "\ud83d\udea2",
+      "short": "I'm in port for the day from a cruise ship",
+      "description": "Arriving by cruise with limited time (6\u20138 hours). Need quick tours, taxis, restaurants near Castries, and easy beach access.",
+      "hero_summary": "You've docked in Castries and the clock is ticking! With 6\u20138 hours in port, you want to make the most of Saint Lucia. This directory highlights reliable taxi drivers, half-day tours to the Pitons, beaches within 20 minutes, restaurants in Castries, and souvenir shops. All providers have WhatsApp \u2014 message ahead from the ship.",
+      "priority_groups": ["Transport", "Tours & Activities", "Food & Dining", "Shopping & Retail"],
+      "priority_subcats": ["taxi", "water-taxi", "island-tours", "boat-tours", "water-sports", "adventure", "food-tours", "hiking", "diving-snorkeling", "restaurant", "fast-food", "bar-nightlife", "souvenirs", "scooter-rental"],
+      "tips": [
+        "Ships dock at Pointe Seraphine or La Place Carenage \u2014 both have taxi stands.",
+        "Pre-book a taxi or tour via WhatsApp BEFORE you dock \u2014 port-side taxis are more expensive.",
+        "A half-day Soufriere tour (Pitons + Sulphur Springs + waterfall) takes 4\u20135 hours, US$70\u2013120 per group.",
+        "Reduit Beach is the most popular \u2014 20 minutes from port. Vigie Beach is closest \u2014 5 minutes.",
+        "Ships typically depart by 5\u20136 PM \u2014 confirm your all-aboard time and allow 30 minutes to return.",
+        "Castries Central Market near La Place Carenage is best for local spices, hot sauce, and crafts."
+      ],
+      "cta": "Find port-day services \u2192"
+    }
+  ],
+  "service_groups": [
+    {"id": "Transport", "icon": "\ud83d\ude97", "color": "#DBEAFE"},
+    {"id": "Tours & Activities", "icon": "\ud83c\udfdd\ufe0f", "color": "#D1FAE5"},
+    {"id": "Food & Dining", "icon": "\ud83c\udf7d\ufe0f", "color": "#FEF3C7"},
+    {"id": "Beauty & Wellness", "icon": "\ud83d\udc86", "color": "#FCE7F3"},
+    {"id": "Home Services", "icon": "\ud83d\udd27", "color": "#EDE9FE"},
+    {"id": "Events & Media", "icon": "\ud83d\udcf8", "color": "#E0E7FF"},
+    {"id": "Shopping & Retail", "icon": "\ud83d\uded2", "color": "#FFF7ED"},
+    {"id": "Professional", "icon": "\u2696\ufe0f", "color": "#F0FDF4"},
+    {"id": "Essentials", "icon": "\ud83c\udfe5", "color": "#F1F5F9"},
+    {"id": "Hotel & Wellness (B2B)", "icon": "\ud83c\udfe8", "color": "#FFF7ED"}
+  ],
+  "ecosystem_cross_links": {
+    "talent.stlucia.studio": "Looking to hire? Browse Saint Lucia's talent pool.",
+    "hire.stlucia.studio": "Post jobs and manage hiring pipelines.",
+    "homes.stlucia.studio": "Buy, sell, or rent property in Saint Lucia.",
+    "visit.stlucia.studio": "Complete visitor guide to Saint Lucia.",
+    "living.stlucia.studio": "Guide to living in Saint Lucia.",
+    "expat.stlucia.studio": "Everything expats need to know.",
+    "remote.stlucia.studio": "Remote work & digital nomad guide.",
+    "retire.stlucia.studio": "Retirement in Saint Lucia guide.",
+    "business.stlucia.studio": "Starting & running a business in Saint Lucia."
+  }
+}
