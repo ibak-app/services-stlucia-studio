@@ -14,7 +14,8 @@
         "Food & Catering",
         "Shopping & Retail",
         "Other",
-        "Beauty & Wellness"
+        "Beauty & Wellness",
+        "Arts & Entertainment"
       ],
       "priority_subcats": [
         "taxi-transfer",
@@ -32,7 +33,13 @@
         "massage-spa",
         "car-rental",
         "event-planning",
-        "shopping"
+        "shopping",
+        "art-galleries",
+        "art-studios",
+        "craft-artists",
+        "cultural-performance",
+        "steel-bands",
+        "musicians"
       ],
       "tips": [
         "Most taxi fares from Hewanorra (UVF) to Rodney Bay are US$85–95 for 1–3 passengers.",
@@ -98,7 +105,8 @@
         "Tech & Digital",
         "Shopping & Retail",
         "Other",
-        "Health & Fitness"
+        "Health & Fitness",
+        "Arts & Entertainment"
       ],
       "priority_subcats": [
         "electrical",
@@ -120,7 +128,14 @@
         "shopping",
         "utilities",
         "telecom",
-        "banking"
+        "banking",
+        "dance-schools",
+        "music-schools",
+        "art-galleries",
+        "musicians",
+        "djs",
+        "steel-bands",
+        "tattoo-body-art"
       ],
       "tips": [
         "Save your favourite service providers' WhatsApp numbers — that's how most business is done here.",
@@ -146,7 +161,8 @@
         "Construction & Property",
         "Beauty & Wellness",
         "Food & Catering",
-        "Other"
+        "Other",
+        "Arts & Entertainment"
       ],
       "priority_subcats": [
         "security",
@@ -163,7 +179,13 @@
         "legal-services",
         "insurance",
         "web-app-design",
-        "printing-design"
+        "printing-design",
+        "musicians",
+        "steel-bands",
+        "djs",
+        "sound-av-rental",
+        "dance-troupes",
+        "cultural-performance"
       ],
       "show_hotel_wellness": true,
       "tips": [
@@ -188,7 +210,8 @@
         "Essentials",
         "Food & Catering",
         "Beauty & Wellness",
-        "Health & Fitness"
+        "Health & Fitness",
+        "Arts & Entertainment"
       ],
       "priority_subcats": [
         "telecom",
@@ -203,7 +226,11 @@
         "boat-tours",
         "diving-snorkeling",
         "water-sports",
-        "hiking-nature"
+        "hiking-nature",
+        "art-galleries",
+        "dance-schools",
+        "musicians",
+        "steel-bands"
       ],
       "tips": [
         "Flow offers the fastest fibre internet (up to 250 Mbps) — essential for remote work.",
@@ -312,7 +339,8 @@
         "Essentials",
         "Food & Catering",
         "Beauty & Wellness",
-        "Health & Fitness"
+        "Health & Fitness",
+        "Arts & Entertainment"
       ],
       "priority_subcats": [
         "health-medical",
@@ -339,7 +367,12 @@
         "boat-tours",
         "hiking-nature",
         "eco-tours",
-        "food-tours"
+        "food-tours",
+        "art-galleries",
+        "art-studios",
+        "dance-schools",
+        "music-schools",
+        "cultural-performance"
       ],
       "tips": [
         "Victoria Hospital (Castries) is the main public hospital. Tapion Hospital is the leading private option.",
@@ -404,7 +437,8 @@
         "Food & Catering",
         "Essentials",
         "Shopping & Retail",
-        "Health & Fitness"
+        "Health & Fitness",
+        "Arts & Entertainment"
       ],
       "priority_subcats": [
         "restaurants",
@@ -418,7 +452,11 @@
         "hair-braiding",
         "it-support",
         "printing-design",
-        "shopping"
+        "shopping",
+        "dance-schools",
+        "music-schools",
+        "art-studios",
+        "tattoo-body-art"
       ],
       "tips": [
         "Digicel and Flow both offer student data plans — compare monthly rates before committing.",
@@ -443,7 +481,8 @@
         "Events & Entertainment",
         "Food & Catering",
         "Tech & Digital",
-        "Other"
+        "Other",
+        "Arts & Entertainment"
       ],
       "priority_subcats": [
         "event-planning",
@@ -459,7 +498,13 @@
         "taxi-transfer",
         "car-rental",
         "boat-tours",
-        "adventure-tours"
+        "adventure-tours",
+        "musicians",
+        "steel-bands",
+        "djs",
+        "sound-av-rental",
+        "dance-troupes",
+        "carnival-bands"
       ],
       "tips": [
         "Peak wedding season is December through April — book vendors 6–12 months in advance.",
@@ -482,7 +527,8 @@
         "Tours & Activities",
         "Food & Catering",
         "Shopping & Retail",
-        "Other"
+        "Other",
+        "Arts & Entertainment"
       ],
       "priority_subcats": [
         "taxi-transfer",
@@ -494,7 +540,11 @@
         "diving-snorkeling",
         "restaurants",
         "shopping",
-        "car-rental"
+        "car-rental",
+        "art-galleries",
+        "craft-artists",
+        "steel-bands",
+        "cultural-performance"
       ],
       "tips": [
         "Ships dock at Pointe Seraphine or La Place Carenage — both have taxi stands.",

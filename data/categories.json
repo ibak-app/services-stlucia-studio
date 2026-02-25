@@ -510,5 +510,173 @@
     "listing_count": 3,
     "description": "Clinics, pharmacies, medical services, and health practitioners.",
     "parent": "essentials"
+  },
+  {
+    "name": "Arts & Entertainment",
+    "slug": "arts-entertainment",
+    "icon": "🎨",
+    "listing_count": 123,
+    "description": "Visual artists, musicians, steel bands, DJs, dance schools, carnival bands, theatre, galleries.",
+    "parent": null
+  },
+  {
+    "name": "Painters & Visual Artists",
+    "slug": "painters",
+    "icon": "🎨",
+    "listing_count": 4,
+    "description": "Painters & Visual Artists in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Sculptors & Carvers",
+    "slug": "sculptors",
+    "icon": "🪵",
+    "listing_count": 3,
+    "description": "Sculptors & Carvers in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Muralists",
+    "slug": "muralists",
+    "icon": "🖌️",
+    "listing_count": 2,
+    "description": "Muralists in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Art Galleries",
+    "slug": "art-galleries",
+    "icon": "🖼️",
+    "listing_count": 12,
+    "description": "Art Galleries in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Art Studios & Workshops",
+    "slug": "art-studios",
+    "icon": "🎨",
+    "listing_count": 3,
+    "description": "Art Studios & Workshops in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Craft Artists & Artisans",
+    "slug": "craft-artists",
+    "icon": "🏺",
+    "listing_count": 8,
+    "description": "Craft Artists & Artisans in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Tattoo & Body Art",
+    "slug": "tattoo-body-art",
+    "icon": "💉",
+    "listing_count": 5,
+    "description": "Tattoo & Body Art in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Musicians & Bands",
+    "slug": "musicians",
+    "icon": "🎵",
+    "listing_count": 29,
+    "description": "Musicians & Bands in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "DJs & Entertainment",
+    "slug": "djs",
+    "icon": "🎧",
+    "listing_count": 5,
+    "description": "DJs & Entertainment in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Steel Bands",
+    "slug": "steel-bands",
+    "icon": "🥁",
+    "listing_count": 14,
+    "description": "Steel Bands in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Recording Studios",
+    "slug": "recording-studios",
+    "icon": "🎙️",
+    "listing_count": 3,
+    "description": "Recording Studios in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Sound & AV Rental",
+    "slug": "sound-av-rental",
+    "icon": "🔊",
+    "listing_count": 1,
+    "description": "Sound & AV Rental in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Carnival Mas Bands",
+    "slug": "carnival-bands",
+    "icon": "🎭",
+    "listing_count": 9,
+    "description": "Carnival Mas Bands in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Dance Schools & Studios",
+    "slug": "dance-schools",
+    "icon": "💃",
+    "listing_count": 11,
+    "description": "Dance Schools & Studios in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Dance Troupes",
+    "slug": "dance-troupes",
+    "icon": "👯",
+    "listing_count": 1,
+    "description": "Dance Troupes in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Theatre & Drama",
+    "slug": "theatre-drama",
+    "icon": "🎭",
+    "listing_count": 3,
+    "description": "Theatre & Drama in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Cultural Performance",
+    "slug": "cultural-performance",
+    "icon": "🪘",
+    "listing_count": 3,
+    "description": "Cultural Performance in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Music Schools",
+    "slug": "music-schools",
+    "icon": "🎼",
+    "listing_count": 1,
+    "description": "Music Schools in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Graphic Design & Branding",
+    "slug": "graphic-design",
+    "icon": "✏️",
+    "listing_count": 2,
+    "description": "Graphic Design & Branding in Saint Lucia.",
+    "parent": "arts-entertainment"
+  },
+  {
+    "name": "Photography",
+    "slug": "photography-arts",
+    "icon": "📷",
+    "listing_count": 4,
+    "description": "Photography in Saint Lucia.",
+    "parent": "arts-entertainment"
   }
 ]

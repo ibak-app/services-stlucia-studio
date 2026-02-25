@@ -5392,5 +5392,3572 @@
     "featured": false,
     "view_count": 0,
     "click_count": 0
+  },
+  {
+    "id": "svc-add30480",
+    "name": "Eudovic's Art Studio",
+    "slug": "eudovic-s-art-studio",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Sculptors & Carvers",
+      "slug": "sculptors",
+      "icon": "🪵"
+    },
+    "description": "Caribbean's leading wood sculptor. Vincent Joseph Eudovic's studio has welcomed over a million visitors over 35+ years. Wood carvings, sculptures, gallery. International shipping available.",
+    "short_description": "Caribbean's leading wood sculptor. Vincent Joseph Eudovic's studio has welcomed over a million visitors over 35+ years. Wood carvings, sculptures, gallery. International shipping available.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-452-2747",
+    "website": "https://eudovicsart.com",
+    "facebook": "Eudovics-Art-Studio-1907786672846452",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-7d116ad0",
+    "name": "Llewellyn Xavier Art Studio",
+    "slug": "llewellyn-xavier-art-studio",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Painters & Visual Artists",
+      "slug": "painters",
+      "icon": "🎨"
+    },
+    "description": "Saint Lucia's pre-eminent visual artist. Internationally exhibited mixed-media and assemblage works. Gallery visits by appointment.",
+    "short_description": "Saint Lucia's pre-eminent visual artist. Internationally exhibited mixed-media and assemblage works. Gallery visits by appointment.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://llewellynxavier.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-835b4ca1",
+    "name": "Alcina's Art Gallery & Studio",
+    "slug": "alcina-s-art-gallery-studio",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Craft Artists & Artisans",
+      "slug": "craft-artists",
+      "icon": "🏺"
+    },
+    "description": "Handmade Caribbean art — jewelry making, enameling, painting. Metal clay instructor with 30+ years experience. 5-hour art classes available (10am-3pm). Visit by appointment.",
+    "short_description": "Handmade Caribbean art — jewelry making, enameling, painting. Metal clay instructor with 30+ years experience. 5-hour art classes available (10am-3pm). Visit by appointment.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-453-2338",
+    "website": "https://www.alcinanolley.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c032bbb3",
+    "name": "Choiseul Art Gallery",
+    "slug": "choiseul-art-gallery",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "Original paintings, published books, greeting cards, locally-made souvenirs, palm crafts, wood carvings. Features Hattie Barnard's work. Tue-Sat 10am-4pm. Closed Aug-Sep.",
+    "short_description": "Original paintings, published books, greeting cards, locally-made souvenirs, palm crafts, wood carvings. Features Hattie Barnard's work. Tue-Sat 10am-4pm. Closed Aug-Sep.",
+    "district": "Choiseul",
+    "areas_served": [
+      "Choiseul"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-454-3226",
+    "website": "https://choiseulartgallery.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-e8860955",
+    "name": "Choiseul Arts & Craft Centre",
+    "slug": "choiseul-arts-craft-centre",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Craft Artists & Artisans",
+      "slug": "craft-artists",
+      "icon": "🏺"
+    },
+    "description": "Community craft centre — straw products (hats, baskets, mats, bags), pottery, wood carvings, paintings, locally-made jewelry. Traditional Amerindian pottery techniques.",
+    "short_description": "Community craft centre — straw products (hats, baskets, mats, bags), pottery, wood carvings, paintings, locally-made jewelry. Traditional Amerindian pottery techniques.",
+    "district": "Choiseul",
+    "areas_served": [
+      "Choiseul"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-454-3226",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-359f279f",
+    "name": "Island Mix Art & Craft Emporium",
+    "slug": "island-mix-art-craft-emporium",
+    "whatsapp_number": "+1758-584-7877",
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "Art and craft emporium on the waterfront. Local crafts, paintings, souvenirs. Sip and Paint classes available. Waterside cafe with rum cake and local juice. Run by Nadia Jabour.",
+    "short_description": "Art and craft emporium on the waterfront. Local crafts, paintings, souvenirs. Sip and Paint classes available. Waterside cafe with rum cake and local juice. Run by Nadia Jabour.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-284-1569",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-e030e8b1",
+    "name": "Sakey (Naja Misaki Simeon) — Artist & Muralist",
+    "slug": "sakey-naja-misaki-simeon-artist-muralist",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Muralists",
+      "slug": "muralists",
+      "icon": "🖌️"
+    },
+    "description": "Muralist and art instructor. Multiple mural sites across the island. Teaches art classes at Anse Chastanet Resort. Commissions and workshops available.",
+    "short_description": "Muralist and art instructor. Multiple mural sites across the island. Teaches art classes at Anse Chastanet Resort. Commissions and workshops available.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-54bdbb4d",
+    "name": "Artfully Crafted / Lokono Studio & Gift Shop",
+    "slug": "artfully-crafted-lokono-studio-gift-shop",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "Art gallery, craft studio, and gift shop. Local artwork, handmade crafts, gifts.",
+    "short_description": "Art gallery, craft studio, and gift shop. Local artwork, handmade crafts, gifts.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-452-0372",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-66b4dd8e",
+    "name": "Miss-Vee Art Studio",
+    "slug": "miss-vee-art-studio",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "Art gallery, original paintings, art consultancy. Local and Caribbean art.",
+    "short_description": "Art gallery, original paintings, art consultancy. Local and Caribbean art.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-520-6512",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f6d08f4c",
+    "name": "Wenshua Art Gallery",
+    "slug": "wenshua-art-gallery",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "Art gallery featuring local Saint Lucian artwork. Listed on FindYello directory.",
+    "short_description": "Art gallery featuring local Saint Lucian artwork. Listed on FindYello directory.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-7801edaf",
+    "name": "Anse Chastanet Art Gallery",
+    "slug": "anse-chastanet-art-gallery",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "Resort gallery with local and international paintings/prints. Art classes for guests — complimentary and private sessions. Gallery set among tropical gardens.",
+    "short_description": "Resort gallery with local and international paintings/prints. Art classes for guests — complimentary and private sessions. Gallery set among tropical gardens.",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-459-7000",
+    "website": "https://ansechastanet.com/art-classes/",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d908869f",
+    "name": "The Inner Gallery",
+    "slug": "the-inner-gallery",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "One of the longest established art galleries in Saint Lucia. Shows works by Jonathan Gladding and other artists. Active in art festivals.",
+    "short_description": "One of the longest established art galleries in Saint Lucia. Shows works by Jonathan Gladding and other artists. Active in art festivals.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-7d17b26c",
+    "name": "Caribbean Art Gallery (Rodney Bay Marina)",
+    "slug": "caribbean-art-gallery-rodney-bay-marina",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "Commercial gallery at the marina displaying work by regional artists, maps, and prints.",
+    "short_description": "Commercial gallery at the marina displaying work by regional artists, maps, and prints.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-988f7c38",
+    "name": "Keramik Pottery Studio",
+    "slug": "keramik-pottery-studio",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Craft Artists & Artisans",
+      "slug": "craft-artists",
+      "icon": "🏺"
+    },
+    "description": "Hands-on pottery experience — wheel-throwing sessions guided by Amanda. From shaping on the wheel to finishing touches. Tourist-friendly workshops.",
+    "short_description": "Hands-on pottery experience — wheel-throwing sessions guided by Amanda. From shaping on the wheel to finishing touches. Tourist-friendly workshops.",
+    "district": "Choiseul",
+    "areas_served": [
+      "Choiseul"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-9dc685ae",
+    "name": "Henna Saint Lucia",
+    "slug": "henna-saint-lucia",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Tattoo & Body Art",
+      "slug": "tattoo-body-art",
+      "icon": "💉"
+    },
+    "description": "Henna body art — traditional henna designs, temporary tattoos. Located in Baywalk Mall. Walk-in friendly.",
+    "short_description": "Henna body art — traditional henna designs, temporary tattoos. Located in Baywalk Mall. Walk-in friendly.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-4305c54b",
+    "name": "Ink Never Killed — Tattoo Services",
+    "slug": "ink-never-killed-tattoo-services",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Tattoo & Body Art",
+      "slug": "tattoo-body-art",
+      "icon": "💉"
+    },
+    "description": "Professional tattoo services. Custom designs, walk-ins.",
+    "short_description": "Professional tattoo services. Custom designs, walk-ins.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-720-7424",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-9e88fde9",
+    "name": "Phoenix Inkk",
+    "slug": "phoenix-inkk",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Tattoo & Body Art",
+      "slug": "tattoo-body-art",
+      "icon": "💉"
+    },
+    "description": "Tattoo studio — custom tattoos, various styles.",
+    "short_description": "Tattoo studio — custom tattoos, various styles.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-729-3177",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-ee6c8209",
+    "name": "Shadow Ink Tattoos",
+    "slug": "shadow-ink-tattoos",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Tattoo & Body Art",
+      "slug": "tattoo-body-art",
+      "icon": "💉"
+    },
+    "description": "Tattoo studio — custom tattoo designs and services.",
+    "short_description": "Tattoo studio — custom tattoo designs and services.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-718-3657",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-ef4bf2a2",
+    "name": "Stained Tattoo and Airbrush Services",
+    "slug": "stained-tattoo-and-airbrush-services",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Tattoo & Body Art",
+      "slug": "tattoo-body-art",
+      "icon": "💉"
+    },
+    "description": "Tattoo and airbrush art services — custom tattoos, airbrush body art, event airbrush services.",
+    "short_description": "Tattoo and airbrush art services — custom tattoos, airbrush body art, event airbrush services.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-725-3956",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1ac21d97",
+    "name": "Belle Portwe Photography Studio",
+    "slug": "belle-portwe-photography-studio",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Photography",
+      "slug": "photography-arts",
+      "icon": "📷"
+    },
+    "description": "Professional photography — commercial, portrait, fine art, wedding, headshots, fashion, family, real estate. Studio packages EC$290-EC$1,190. Mon-Fri 10am-4pm.",
+    "short_description": "Professional photography — commercial, portrait, fine art, wedding, headshots, fashion, family, real estate. Studio packages EC$290-EC$1,190. Mon-Fri 10am-4pm.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-458-0122",
+    "website": "https://www.belleportwe.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-dbb53ebe",
+    "name": "Alberta Henry Photography Ltd",
+    "slug": "alberta-henry-photography-ltd",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Photography",
+      "slug": "photography-arts",
+      "icon": "📷"
+    },
+    "description": "Wedding, family, and baby photographer near Soufriere. Captures authentic moments — pure joy, personality, and memories.",
+    "short_description": "Wedding, family, and baby photographer near Soufriere. Captures authentic moments — pure joy, personality, and memories.",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://www.albertahenry.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-8daa76be",
+    "name": "SneakPic Productions",
+    "slug": "sneakpic-productions",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Photography",
+      "slug": "photography-arts",
+      "icon": "📷"
+    },
+    "description": "Wedding photography and videography. Devoted to creating long-lasting memories.",
+    "short_description": "Wedding photography and videography. Devoted to creating long-lasting memories.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-99cbb883",
+    "name": "Soul O Bliss Entertainment (DJ Romanus)",
+    "slug": "soul-o-bliss-entertainment-dj-romanus",
+    "whatsapp_number": "+1758-719-7972",
+    "category": {
+      "name": "DJs & Entertainment",
+      "slug": "djs",
+      "icon": "🎧"
+    },
+    "description": "Premium DJ services — private villa celebrations, weddings, corporate events, resort events, carnival. Seamless genre transitions. Full sound system.",
+    "short_description": "Premium DJ services — private villa celebrations, weddings, corporate events, resort events, carnival. Seamless genre transitions. Full sound system.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-719-7972",
+    "website": "https://www.soulobliss.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-79fad889",
+    "name": "Labowi Promotions",
+    "slug": "labowi-promotions",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Event promotions and entertainment. Steel band and music event booking and promotion.",
+    "short_description": "Event promotions and entertainment. Steel band and music event booking and promotion.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-455-9074",
+    "website": null,
+    "facebook": "labowipromotions",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-8dee792f",
+    "name": "PanTime Steel Orchestra",
+    "slug": "pantime-steel-orchestra",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel band — live performances for events, weddings, parties. Pan yard rehearsals open to visitors. Manager: Cecil 'Tortee' Philgence.",
+    "short_description": "Steel band — live performances for events, weddings, parties. Pan yard rehearsals open to visitors. Manager: Cecil 'Tortee' Philgence.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-716-2040",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-b8c3bfe0",
+    "name": "Diamond Steel Orchestra",
+    "slug": "diamond-steel-orchestra",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel band — event performances, weddings, cultural events. Director: Gregory 'Shining' Emmanuel.",
+    "short_description": "Steel band — event performances, weddings, cultural events. Director: Gregory 'Shining' Emmanuel.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-450-1550",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-e27c9de9",
+    "name": "North Stars Steel Orchestra",
+    "slug": "north-stars-steel-orchestra",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel band — live steel pan performances for events, weddings, festivals. Arranger: Ivan 'Sifa' Smith.",
+    "short_description": "Steel band — live steel pan performances for events, weddings, festivals. Arranger: Ivan 'Sifa' Smith.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-714-9421",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-3f96d01d",
+    "name": "Pan Exodus International",
+    "slug": "pan-exodus-international",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel band — live performances, event entertainment. Director: Lucius Alexander. Pan yard at Cul de Sac.",
+    "short_description": "Steel band — live performances, event entertainment. Director: Lucius Alexander. Pan yard at Cul de Sac.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-716-8329",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-be533d8a",
+    "name": "Assumption Knights (Youth In Action) Steel Orchestra",
+    "slug": "assumption-knights-youth-in-action-steel-orchestra",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Youth steel band based at Our Lady of The Assumption Church, Vieux Fort. Live performances, cultural events.",
+    "short_description": "Youth steel band based at Our Lady of The Assumption Church, Vieux Fort. Live performances, cultural events.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-717-0809",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-bbda4da0",
+    "name": "Laborie Steelpan",
+    "slug": "laborie-steelpan",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel pan ensemble based in Laborie. Live performances, cultural events, education.",
+    "short_description": "Steel pan ensemble based in Laborie. Live performances, cultural events, education.",
+    "district": "Laborie",
+    "areas_served": [
+      "Laborie"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-488-0665",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-78037184",
+    "name": "Babonneau Super Stars",
+    "slug": "babonneau-super-stars",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel band from Babonneau community. Arranger: Allison Marquis.",
+    "short_description": "Steel band from Babonneau community. Arranger: Allison Marquis.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-ad453d8d",
+    "name": "Saint Lucia School of Music",
+    "slug": "saint-lucia-school-of-music",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Music Schools",
+      "slug": "music-schools",
+      "icon": "🎼"
+    },
+    "description": "National music school — instrumental and vocal lessons, beginner to advanced. Programmes for all ages. Concerts and recitals throughout the year.",
+    "short_description": "National music school — instrumental and vocal lessons, beginner to advanced. Programmes for all ages. Concerts and recitals throughout the year.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-452-2473",
+    "website": "https://slumusicschool.org",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-853517d5",
+    "name": "Entertainment Sound Productions (ESP)",
+    "slug": "entertainment-sound-productions-esp",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Recording Studios",
+      "slug": "recording-studios",
+      "icon": "🎙️"
+    },
+    "description": "Recording studio and music house — music production, recording, mixing. Professional studio services.",
+    "short_description": "Recording studio and music house — music production, recording, mixing. Professional studio services.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://entertainmentsoundproductions.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f50fa790",
+    "name": "Reality Studios",
+    "slug": "reality-studios",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Recording Studios",
+      "slug": "recording-studios",
+      "icon": "🎙️"
+    },
+    "description": "Recording studio and advertising production — audio recording, voiceover, music production.",
+    "short_description": "Recording studio and advertising production — audio recording, voiceover, music production.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-286-5035",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-10515a54",
+    "name": "Just4Fun Carnival Band",
+    "slug": "just4fun-carnival-band",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Carnival Mas Bands",
+      "slug": "carnival-bands",
+      "icon": "🎭"
+    },
+    "description": "One of Saint Lucia's most iconic carnival mas bands. High-energy vibes, jaw-dropping costumes. Leader: Veil Tobierre.",
+    "short_description": "One of Saint Lucia's most iconic carnival mas bands. High-energy vibes, jaw-dropping costumes. Leader: Veil Tobierre.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://just4funcarnival.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-dfaf5cbc",
+    "name": "XUVO Carnival",
+    "slug": "xuvo-carnival",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Carnival Mas Bands",
+      "slug": "carnival-bands",
+      "icon": "🎭"
+    },
+    "description": "Premium carnival band — celestial and breathtaking costume designs. Leaders: Lamar Sifflet & Shameela Rambally.",
+    "short_description": "Premium carnival band — celestial and breathtaking costume designs. Leaders: Lamar Sifflet & Shameela Rambally.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-721-9886",
+    "website": "https://xuvocarnival.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-90ae08ea",
+    "name": "Fuzion Mas",
+    "slug": "fuzion-mas",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Carnival Mas Bands",
+      "slug": "carnival-bands",
+      "icon": "🎭"
+    },
+    "description": "Dynamic carnival band — culturally infused designs with vibrant colours and intricate detailing. Leader: Krystal Jean Baptiste.",
+    "short_description": "Dynamic carnival band — culturally infused designs with vibrant colours and intricate detailing. Leader: Krystal Jean Baptiste.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://fuzionmas.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-65146e1c",
+    "name": "Red Carnival Band",
+    "slug": "red-carnival-band",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Carnival Mas Bands",
+      "slug": "carnival-bands",
+      "icon": "🎭"
+    },
+    "description": "Carnival mas band — bold designs and costumes. Leader: Irvin Springer.",
+    "short_description": "Carnival mas band — bold designs and costumes. Leader: Irvin Springer.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://redcarnivalband.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-240af753",
+    "name": "Legends Carnival Band",
+    "slug": "legends-carnival-band",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Carnival Mas Bands",
+      "slug": "carnival-bands",
+      "icon": "🎭"
+    },
+    "description": "Carnival band with bold designs and passion for mas. Leader: Zinaida McNamara-Phillip.",
+    "short_description": "Carnival band with bold designs and passion for mas. Leader: Zinaida McNamara-Phillip.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-484-3277",
+    "website": "https://legends-carnival.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5634ba26",
+    "name": "Legacy Dance Academy",
+    "slug": "legacy-dance-academy",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Dance Schools & Studios",
+      "slug": "dance-schools",
+      "icon": "💃"
+    },
+    "description": "Dance school — classes for children and adults. Various dance styles. Contact: Ashel Gabriel for registration.",
+    "short_description": "Dance school — classes for children and adults. Various dance styles. Contact: Ashel Gabriel for registration.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-716-4498",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-0537bb01",
+    "name": "SHR Dance (Shartoya Jn. Baptiste)",
+    "slug": "shr-dance-shartoya-jn-baptiste",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Dance Schools & Studios",
+      "slug": "dance-schools",
+      "icon": "💃"
+    },
+    "description": "Dance classes open to the public — all levels welcome. Informal but structured sessions focused on positivity through movement.",
+    "short_description": "Dance classes open to the public — all levels welcome. Informal but structured sessions focused on positivity through movement.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-749d6d5f",
+    "name": "Cultural Development Foundation (CDF)",
+    "slug": "cultural-development-foundation-cdf",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Cultural Performance",
+      "slug": "cultural-performance",
+      "icon": "🪘"
+    },
+    "description": "Government cultural body — manages National Cultural Centre (premier arts venue), hosts Artreach festival, Youth Summer Arts Platform, theatre camps, concerts, exhibitions.",
+    "short_description": "Government cultural body — manages National Cultural Centre (premier arts venue), hosts Artreach festival, Youth Summer Arts Platform, theatre camps, concerts, exhibitions.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-452-2279",
+    "website": "https://www.cdfstlucia.org",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-3f07bc5e",
+    "name": "Chris Gardiner Design (CGSLU)",
+    "slug": "chris-gardiner-design-cgslu",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Graphic Design & Branding",
+      "slug": "graphic-design",
+      "icon": "✏️"
+    },
+    "description": "Graphic design, web design, UI/UX, branding. 20+ years experience. Professional Saint Lucian designer.",
+    "short_description": "Graphic design, web design, UI/UX, branding. 20+ years experience. Professional Saint Lucian designer.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://cgslu.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-450e5e00",
+    "name": "Tabby Lamb Design Studio",
+    "slug": "tabby-lamb-design-studio",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Graphic Design & Branding",
+      "slug": "graphic-design",
+      "icon": "✏️"
+    },
+    "description": "Graphic design and branding studio. Creative communications, brand identity, print and digital design. Run by Linda Dorup-Andrew.",
+    "short_description": "Graphic design and branding studio. Creative communications, brand identity, print and digital design. Run by Linda Dorup-Andrew.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://tabbylambdesignstudio.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c3976c02",
+    "name": "The Photoshop (Camera & Equipment Store)",
+    "slug": "the-photoshop-camera-equipment-store",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Photography",
+      "slug": "photography-arts",
+      "icon": "📷"
+    },
+    "description": "Professional and consumer photographic equipment — Nikon, Canon, Fuji, Kodak, Sony. Camera accessories, picture framing, photo printing.",
+    "short_description": "Professional and consumer photographic equipment — Nikon, Canon, Fuji, Kodak, Sony. Camera accessories, picture framing, photo printing.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-458-0386",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-30e99fca",
+    "name": "Eudovic Art Studio",
+    "slug": "eudovic-art-studio",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Sculptors & Carvers",
+      "slug": "sculptors",
+      "icon": "🪵"
+    },
+    "description": "Premier wood sculpture gallery founded in the 1970s by Vincent Joseph Eudovic, one of the Caribbean's most revered sculptors. Features abstract carvings in local hardwoods including extinct Laurier Cannelle. Work of 7+ sculptors on display including Jallim Eudovic and Joshua Pierre. Gift shop, gallery tours, and guest apartments available. Open M-F 7:30-4:30, Sat-Sun until 3pm. Over a million visitors hosted.",
+    "short_description": "Premier wood sculpture gallery founded in the 1970s by Vincent Joseph Eudovic, one of the Caribbean's most revered sculptors. Features abstract carvings in local hardwoods including extinct Laurier Ca",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-452-2747",
+    "website": "https://eudovicsart.com/",
+    "facebook": "EudovicArtStudio",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-4ee7ad7e",
+    "name": "Sakey Productions (Naja Misaki Simeon)",
+    "slug": "sakey-productions-naja-misaki-simeon",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Muralists",
+      "slug": "muralists",
+      "icon": "🖌️"
+    },
+    "description": "Saint Lucia's leading muralist with over 100 murals across the island. Transforms walls into cultural narratives preserving heritage and engaging communities. Art teacher at local secondary school. Conducts art classes at Anse Chastanet Resort (Tues/Wed 3:30-5:30pm complimentary, private sessions USD$150). Involves youth in community mural projects. None of his 100+ murals have been defaced. Email: sakeyproductions@gmail.com",
+    "short_description": "Saint Lucia's leading muralist with over 100 murals across the island. Transforms walls into cultural narratives preserving heritage and engaging communities. Art teacher at local secondary school. Co",
+    "district": "Laborie",
+    "areas_served": [
+      "Laborie"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-286-9059",
+    "website": null,
+    "facebook": null,
+    "instagram": "sakeyproductions",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-7db31634",
+    "name": "Zaka Art Cafe",
+    "slug": "zaka-art-cafe",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Craft Artists & Artisans",
+      "slug": "craft-artists",
+      "icon": "🏺"
+    },
+    "description": "Art cafe and gallery run by Simon Gajadhar (Zaka), famous for his signature Crayola-bright masks and fanciful sculptures. Born in London, came to Saint Lucia in 1993. Serves homegrown coffee alongside art displays. Works also featured at Anse Chastanet Gallery. Open Mon-Sat 8:30am-5pm, Sun 8:30am-1pm. Hours may vary, call ahead.",
+    "short_description": "Art cafe and gallery run by Simon Gajadhar (Zaka), famous for his signature Crayola-bright masks and fanciful sculptures. Born in London, came to Saint Lucia in 1993. Serves homegrown coffee alongside",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-384-2925",
+    "website": null,
+    "facebook": "zakaartcafe",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-566068c4",
+    "name": "Island Mix Art Emporium",
+    "slug": "island-mix-art-emporium",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "Art studio, gallery, and cafe on the Rodney Bay waterfront. Run by Nadia Jabour, Guyanese-born tourism consultant and artisan. Home to over 60 Saint Lucian artisans featuring art, clothing, jewelry, pottery, carvings, home decor. Offers art classes and paint parties. Rated #1 thing to do in Rodney Bay on TripAdvisor. Second phone: +1758-584-7877. Email: info@shopislandmix.com",
+    "short_description": "Art studio, gallery, and cafe on the Rodney Bay waterfront. Run by Nadia Jabour, Guyanese-born tourism consultant and artisan. Home to over 60 Saint Lucian artisans featuring art, clothing, jewelry, p",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-284-1569",
+    "website": "https://shopislandmix.com/",
+    "facebook": "IslandMixStLucia",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c89a8533",
+    "name": "Modern Art Gallery",
+    "slug": "modern-art-gallery",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "Gallery featuring a variety of artwork in different media created by local and international artists. Displays paintings, prints, and mixed media works. Open Mon-Sat 10am-5pm.",
+    "short_description": "Gallery featuring a variety of artwork in different media created by local and international artists. Displays paintings, prints, and mixed media works. Open Mon-Sat 10am-5pm.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-452-9079",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-9231374d",
+    "name": "Caribbean Art & Antiques",
+    "slug": "caribbean-art-antiques",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "Art gallery, dealer, and consultant located near Cap Estate. Features regional Caribbean artwork and antique collections. Sells paintings, maps, prints, and antique art pieces.",
+    "short_description": "Art gallery, dealer, and consultant located near Cap Estate. Features regional Caribbean artwork and antique collections. Sells paintings, maps, prints, and antique art pieces.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-450-9740",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-6010f41f",
+    "name": "Daniel Jean-Baptiste Silk Art Studio",
+    "slug": "daniel-jean-baptiste-silk-art-studio",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Painters & Visual Artists",
+      "slug": "painters",
+      "icon": "🎨"
+    },
+    "description": "World-renowned silk painter born in Saint Lucia in 1963. Creator of 'Shimmering Light Water Silk' technique. Offers 4-day group silk painting workshops at his Saint Lucia studio (US$1,400, all materials included, min 7 students, max 12). Studio hours Mon-Thu 9am-4pm. Works sold internationally through galleries and online. Subjects include Caribbean wildlife, landscapes, and tropical themes.",
+    "short_description": "World-renowned silk painter born in Saint Lucia in 1963. Creator of 'Shimmering Light Water Silk' technique. Offers 4-day group silk painting workshops at his Saint Lucia studio (US$1,400, all materia",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://www.jean-baptiste.com/",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-381abff1",
+    "name": "Howelton Estate / Caribelle Batik",
+    "slug": "howelton-estate-caribelle-batik",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Craft Artists & Artisans",
+      "slug": "craft-artists",
+      "icon": "🏺"
+    },
+    "description": "Home to Saint Lucia's most charming batik studio for almost 40 years. Features Caribelle Batik created by a local second-generation artist from Soufriere. Offers batik-making demonstrations, Cocoa Carib chocolate experiences, and a duty-free gift shop. Wide range of batik clothing, accessories, and art. Open Oct-Apr daily 8am-4pm. Email: howeltonestate@gmail.com",
+    "short_description": "Home to Saint Lucia's most charming batik studio for almost 40 years. Features Caribelle Batik created by a local second-generation artist from Soufriere. Offers batik-making demonstrations, Cocoa Car",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-452-3785",
+    "website": "https://howeltonestate.com/",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-596a8403",
+    "name": "Adeline's Art Cafe",
+    "slug": "adeline-s-art-cafe",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Galleries",
+      "slug": "art-galleries",
+      "icon": "🖼️"
+    },
+    "description": "Art cafe near Canaries village featuring Zaka-style masks, artworks, baskets, wood sculptures, and vegan cuisine. Combines local art gallery with dining experience. Colorful display of Caribbean art and crafts. Email: adelinejohn60@gmail.com",
+    "short_description": "Art cafe near Canaries village featuring Zaka-style masks, artworks, baskets, wood sculptures, and vegan cuisine. Combines local art gallery with dining experience. Colorful display of Caribbean art a",
+    "district": "Canaries",
+    "areas_served": [
+      "Canaries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-284-1059",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c0f28d3e",
+    "name": "The Pink Plantation (Michelle Elliott)",
+    "slug": "the-pink-plantation-michelle-elliott",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Craft Artists & Artisans",
+      "slug": "craft-artists",
+      "icon": "🏺"
+    },
+    "description": "Restored French colonial house overlooking Castries, run by artist and restaurateur Michelle Elliott. Features her ceramics, paintings, and pottery in a dedicated gallery room. Ceramic serving bowls, jugs, and vases inspired by Saint Lucian fruits and daily life. Also operates as a restaurant and guest house.",
+    "short_description": "Restored French colonial house overlooking Castries, run by artist and restaurateur Michelle Elliott. Features her ceramics, paintings, and pottery in a dedicated gallery room. Ceramic serving bowls, ",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "http://pinkplantationstlucia.com/",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-8ed4ddfd",
+    "name": "Jonathan Guy-Gladding (JAG Art)",
+    "slug": "jonathan-guy-gladding-jag-art",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Painters & Visual Artists",
+      "slug": "painters",
+      "icon": "🎨"
+    },
+    "description": "American-born realist painter who came to Saint Lucia in 1999 during Peace Corps service and stayed. Specializes in realistic portrait and figurative painting. Creates portraits, architectural studies, beach scenes, and everyday Caribbean life subjects. Accepts portrait commissions. Work displayed at Inner Gallery and sold through Fine Art America. Author of 'Caribbean on C' art book.",
+    "short_description": "American-born realist painter who came to Saint Lucia in 1999 during Peace Corps service and stayed. Specializes in realistic portrait and figurative painting. Creates portraits, architectural studies",
+    "district": "Laborie",
+    "areas_served": [
+      "Laborie"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://jagartist.com/",
+    "facebook": null,
+    "instagram": "jagartist",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-bf50197a",
+    "name": "Keramik Saint Lucia (Amanda)",
+    "slug": "keramik-saint-lucia-amanda",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Craft Artists & Artisans",
+      "slug": "craft-artists",
+      "icon": "🏺"
+    },
+    "description": "Artisanal ceramics studio specializing in handmade pottery from locally-sourced clay. Offers Ball of Clay pottery experiences, pottery retreats, bespoke commissions, and ceramic workshops. Also provides Butterfly Villa Apartment accommodations and tropical experiences for pottery-focused vacations. Processes clay from own Saint Lucia property.",
+    "short_description": "Artisanal ceramics studio specializing in handmade pottery from locally-sourced clay. Offers Ball of Clay pottery experiences, pottery retreats, bespoke commissions, and ceramic workshops. Also provid",
+    "district": "Choiseul",
+    "areas_served": [
+      "Choiseul"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://keramikslu.com/",
+    "facebook": "keramikbyAmanda/",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1586bb68",
+    "name": "Savory Made Art/Frames",
+    "slug": "savory-made-art-frames",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Studios & Workshops",
+      "slug": "art-studios",
+      "icon": "🎨"
+    },
+    "description": "Art and craft goods supplier and custom framing service. Provides art supplies, picture framing, and locally-made art pieces. Serves both artists and collectors in the Castries area.",
+    "short_description": "Art and craft goods supplier and custom framing service. Provides art supplies, picture framing, and locally-made art pieces. Serves both artists and collectors in the Castries area.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-452-4412",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-9ae85168",
+    "name": "St. Omer Art Institute",
+    "slug": "st-omer-art-institute",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Studios & Workshops",
+      "slug": "art-studios",
+      "icon": "🎨"
+    },
+    "description": "Art institute dedicated to the legacy of Saint Lucia's renowned St. Omer family of painters, including the late Sir Dunstan St. Omer (designer of the national flag) and sons Luigi and Alwyn St. Omer. Preserves and promotes the St. Omer artistic tradition. Luigi St. Omer is an active painter known for swirling, energetic depictions of Caribbean carnival and rural life.",
+    "short_description": "Art institute dedicated to the legacy of Saint Lucia's renowned St. Omer family of painters, including the late Sir Dunstan St. Omer (designer of the national flag) and sons Luigi and Alwyn St. Omer. ",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-486-3015",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d1179993",
+    "name": "Choiseul Arts and Crafts Centre",
+    "slug": "choiseul-arts-and-crafts-centre",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Craft Artists & Artisans",
+      "slug": "craft-artists",
+      "icon": "🏺"
+    },
+    "description": "Community crafts centre in Choiseul, an area renowned for its traditional pottery, woodcarving, and palm craft heritage. Features traditional clay pottery passed down through generations, including coal pots and canawi cooking pots. Showcases work by local potters including Irene and Mary Leo. Hub for traditional Saint Lucian craft techniques using local materials.",
+    "short_description": "Community crafts centre in Choiseul, an area renowned for its traditional pottery, woodcarving, and palm craft heritage. Features traditional clay pottery passed down through generations, including co",
+    "district": "Choiseul",
+    "areas_served": [
+      "Choiseul"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-454-3226",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-8563df06",
+    "name": "Lawrence Deligny (Master Wood Carver)",
+    "slug": "lawrence-deligny-master-wood-carver",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Sculptors & Carvers",
+      "slug": "sculptors",
+      "icon": "🪵"
+    },
+    "description": "Born 1952 in Choiseul, completely self-taught master wood carver. One of Saint Lucia's most renowned sculptors. Collaborated with Anse Chastanet for many years. Notable works include 'The Kiss', 'Rainforest' in the Treehouse restaurant, totem poles, and carved stair rails. Creates masks featuring scenes from Saint Lucian life. Can be contacted through Anse Chastanet Resort.",
+    "short_description": "Born 1952 in Choiseul, completely self-taught master wood carver. One of Saint Lucia's most renowned sculptors. Collaborated with Anse Chastanet for many years. Notable works include 'The Kiss', 'Rain",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-3216cac3",
+    "name": "Donna Grandin / Blue Roots Art Studio",
+    "slug": "donna-grandin-blue-roots-art-studio",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Painters & Visual Artists",
+      "slug": "painters",
+      "icon": "🎨"
+    },
+    "description": "Paints vibrant acrylic paintings of Caribbean and Canadian landscapes, flowers, and foliage. Exhibits and sells in Saint Lucia through The Inner Gallery. Offers peacock painting parties and art classes in Saint Lucia. McMaster University honors art graduate with 20+ years experience. Paintings can be rolled for worldwide shipping. Email: donna@bluerootsartstudio.com. Inner Gallery contact: +1758-457-8728",
+    "short_description": "Paints vibrant acrylic paintings of Caribbean and Canadian landscapes, flowers, and foliage. Exhibits and sells in Saint Lucia through The Inner Gallery. Offers peacock painting parties and art classe",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://bluerootsartstudio.com/",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d3e5b043",
+    "name": "A. Elibox Art & Design",
+    "slug": "a-elibox-art-design",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Art Studios & Workshops",
+      "slug": "art-studios",
+      "icon": "🎨"
+    },
+    "description": "Art and design studio based in Castries. Listed as a building designer, likely offers artistic design services including visual art and architectural design elements.",
+    "short_description": "Art and design studio based in Castries. Listed as a building designer, likely offers artistic design services including visual art and architectural design elements.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-716-0280",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d375c00b",
+    "name": "Elevate Band",
+    "slug": "elevate-band",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Professional function/party and cover band based in Gros Islet. Versatile repertoire spanning multiple genres. Performs at major Saint Lucia resorts including Sandals Grande, The Body Holiday, Coconut Bay, Sandals Latoc, Sandals Halcyon, and Bay Gardens. Also performs on Celebrity, Princess and P&O cruise ships. Available worldwide. Starting from $3,000 per event. Book via Entertainers Worldwide.",
+    "short_description": "Professional function/party and cover band based in Gros Islet. Versatile repertoire spanning multiple genres. Performs at major Saint Lucia resorts including Sandals Grande, The Body Holiday, Coconut",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://www.entertainersworldwide.com/elevate-band-profile-173105",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-9d8e8ed7",
+    "name": "Jako Productions",
+    "slug": "jako-productions",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Cultural and entertainment enterprise founded in 1999. One-stop for live musical entertainment: five-piece bands, duo and solo acts. Eclectic repertoire including reggae, soca, zouk, cadence, St. Lucian folk, pop, R&B, jazz. Caters to high-energy parties, quiet conversational settings, weddings, jazz sessions, restaurants/bars, banquets, and main stage performances. Also manages artists and bands, produces music and film, stages cultural events.",
+    "short_description": "Cultural and entertainment enterprise founded in 1999. One-stop for live musical entertainment: five-piece bands, duo and solo acts. Eclectic repertoire including reggae, soca, zouk, cadence, St. Luci",
+    "district": "Vieux Fort",
+    "areas_served": [
+      "Vieux Fort"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://www.jakoproductions.com",
+    "facebook": "LucianCulture",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d4582216",
+    "name": "Motto (Lashley Wendel Winter)",
+    "slug": "motto-lashley-wendel-winter",
+    "whatsapp_number": "+16465457562",
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Top Saint Lucian soca artist and producer. Multitalented soca artist who entered the scene in 2014. Creator of the 'Dennery Segment' genre. Owner of Team Foxx label. Major hits: 'Lit,' 'One Woman,' 'Flavor,' 'Issa Vibe' (feat. Machel Montano). Available for carnival, festival, and event performances. Booking via Team Foxx: dexterrthomas@gmail.com",
+    "short_description": "Top Saint Lucian soca artist and producer. Multitalented soca artist who entered the scene in 2014. Creator of the 'Dennery Segment' genre. Owner of Team Foxx label. Major hits: 'Lit,' 'One Woman,' 'F",
+    "district": "Dennery",
+    "areas_served": [
+      "Dennery"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+16465457562",
+    "website": "https://mottosoca.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d839a054",
+    "name": "Ricky T (Ricky Joseph)",
+    "slug": "ricky-t-ricky-joseph",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Most successful Saint Lucian soca artiste with 23 competition titles — 8 Road March, 6 Power Soca Monarchs, 3 Caribbean Soca Monarchs, 2 Groovy Soca Monarchs. International performer from Saint Lucian stages to Trinidad Soca Monarch finals and Madison Square Garden. 2024 Soca Monarch Champion. Available for carnival, festival, and corporate events.",
+    "short_description": "Most successful Saint Lucian soca artiste with 23 competition titles — 8 Road March, 6 Power Soca Monarchs, 3 Caribbean Soca Monarchs, 2 Groovy Soca Monarchs. International performer from Saint Lucian",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": "rickytizle",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-21e74089",
+    "name": "Teddyson John (TJ)",
+    "slug": "teddyson-john-tj",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Groovy Soca Monarch 2015. Born in Castries, started music in church, transitioned to soca in 2007. Hit single 'Allez' brought Caribbean-wide fame. Has shared stage with Luther Vandross, Patti LaBelle, John Legend, Shaggy, Ne-Yo. Available for corporate events, showcases, festivals, concerts, carnival (US, Caribbean, UK). Booking via Music Saint Lucia.",
+    "short_description": "Groovy Soca Monarch 2015. Born in Castries, started music in church, transitioned to soca in 2007. Hit single 'Allez' brought Caribbean-wide fame. Has shared stage with Luther Vandross, Patti LaBelle,",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://musicsaintlucia.com/teddyson-john/",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c5c30e16",
+    "name": "Shemmy J",
+    "slug": "shemmy-j",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Young talented soca artist from Castries. Known for catch phrase 'Okay Lay Lay.' Hits: 'Pretty On Purpose,' 'Start a Fyah,' 'Cherry Cassava,' 'Ou Dou,' 'Spoil You.' Billboard's Caribbean Artists to Watch 2025. Nominated Best New Soca Artist at Caribbean Music Awards 2024. Management: DAUS Management.",
+    "short_description": "Young talented soca artist from Castries. Known for catch phrase 'Okay Lay Lay.' Hits: 'Pretty On Purpose,' 'Start a Fyah,' 'Cherry Cassava,' 'Ou Dou,' 'Spoil You.' Billboard's Caribbean Artists to Wa",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": "shemmyjofficial",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-6f270319",
+    "name": "Umpa (Brendon Charlery)",
+    "slug": "umpa-brendon-charlery",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Dennery Segment king with 2.63 million+ global Spotify streams. 17+ local awards including Dennery Segment Artist of the Year and Outstanding Youth in Volunteerism 2021. Billboard's 10 Caribbean Artists to Watch 2025. Performed at World Creole Music Festival (Dominica), Miami Carnival. Hit collab: 'Woolay' with Mighty.",
+    "short_description": "Dennery Segment king with 2.63 million+ global Spotify streams. 17+ local awards including Dennery Segment Artist of the Year and Outstanding Youth in Volunteerism 2021. Billboard's 10 Caribbean Artis",
+    "district": "Dennery",
+    "areas_served": [
+      "Dennery"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-be9e8ca9",
+    "name": "Michael Robinson (M.R. Music)",
+    "slug": "michael-robinson-m-r-music",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Saint Lucian R&B fusion singer, songwriter, and musician. Genres: R&B, Pop, Hip Hop, Reggae, Dancehall, Soca, Zouk, Kompa, Afrobeats. Headlined Saint Lucia Jazz & Arts Festival 2023. Nina Simone Artistic Excellence Award 2025. Caribbean Music Awards nominations for Artist of the Year. Albums: 'Shades' (2017), 'Questions' (2023). Booking: mrmusicbookings@gmail.com",
+    "short_description": "Saint Lucian R&B fusion singer, songwriter, and musician. Genres: R&B, Pop, Hip Hop, Reggae, Dancehall, Soca, Zouk, Kompa, Afrobeats. Headlined Saint Lucia Jazz & Arts Festival 2023. Nina Simone Artis",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://www.officialmrmusic.com",
+    "facebook": "officialmrmusicslu",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-4ef115ed",
+    "name": "Ronald 'Boo' Hinkson",
+    "slug": "ronald-boo-hinkson",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Grammy-nominated jazz guitarist, composer, and producer. First Saint Lucian with voting rights at the Grammy Awards (2016). Selected as judge for 58th Annual Grammy Awards. Started career with the legendary Tru Tones band. Praised by George Benson and Stanley Jordan. Available for festivals, corporate events, jazz cruises. Management: W Entertainment (wemgmt.com).",
+    "short_description": "Grammy-nominated jazz guitarist, composer, and producer. First Saint Lucian with voting rights at the Grammy Awards (2016). Selected as judge for 58th Annual Grammy Awards. Started career with the leg",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "http://www.boohinkson.lc",
+    "facebook": "rbhmusic",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-4c77f28f",
+    "name": "Taj Weekes & Adowa",
+    "slug": "taj-weekes-adowa",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Reggae band blending roots reggae with acoustic rock and afro-folk. Taj Weekes is a singer/songwriter, UNICEF Champion for Children, and founder of They Often Cry Outreach (TOCO) children's charity. Performs internationally. Available for festivals, corporate events, and private bookings.",
+    "short_description": "Reggae band blending roots reggae with acoustic rock and afro-folk. Taj Weekes is a singer/songwriter, UNICEF Champion for Children, and founder of They Often Cry Outreach (TOCO) children's charity. P",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://tajweekes.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-140f4096",
+    "name": "Lu City (Luja & Ryie)",
+    "slug": "lu-city-luja-ryie",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Afrobeat/Zouk/Dancehall duo — Jean Atem Farah (Luja) and Tylor Ryie Auguste (Ryie). Unique blend of Dancehall, R&B and pop with Caribbean appeal. First Saint Lucian artiste to have a hit with Machel Montano. Won 'Artiste Award' at Digicel Machel Montano Music Academy 2017. Booking: lmg@lucianstyle.com",
+    "short_description": "Afrobeat/Zouk/Dancehall duo — Jean Atem Farah (Luja) and Tylor Ryie Auguste (Ryie). Unique blend of Dancehall, R&B and pop with Caribbean appeal. First Saint Lucian artiste to have a hit with Machel M",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://www.lucityofficial.com",
+    "facebook": "lucityofficial",
+    "instagram": "jeanatem",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-ea11bd1a",
+    "name": "Augustin 'Jab' Duplessis",
+    "slug": "augustin-jab-duplessis",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Prolific Saint Lucian jazz saxophonist. Began career at 15 in the Royal St. Lucia Police Band on clarinet, later mastered saxophone. Performed with almost every group on the island and the West Indies Jazz Band touring Europe and the Caribbean. Studied under Bobby Watson and Wynton Marsalis Band. Formed his own group 'Third Eye.' One of the most talented musicians of the Caribbean.",
+    "short_description": "Prolific Saint Lucian jazz saxophonist. Began career at 15 in the Royal St. Lucia Police Band on clarinet, later mastered saxophone. Performed with almost every group on the island and the West Indies",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://www.reverbnation.com/augustinduplessis",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-55040144",
+    "name": "Barbara Cadet",
+    "slug": "barbara-cadet",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Renowned jazz vocalist and former head of woodwind department at St. Lucia School of Music. St. Lucia Medal of Merit (Gold) 2004 for meritorious service in music. Performed throughout Caribbean jazz circuit. Has opened for Tanya Maria, Patti La Belle, Anita Baker, Spyro Gyra. Regular performer at Saint Lucia Jazz & Arts Festival.",
+    "short_description": "Renowned jazz vocalist and former head of woodwind department at St. Lucia School of Music. St. Lucia Medal of Merit (Gold) 2004 for meritorious service in music. Performed throughout Caribbean jazz c",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://barbaracadet.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-16fff191",
+    "name": "Sherwinn 'Dupes' Brice",
+    "slug": "sherwinn-dupes-brice",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "One of the most prolific singer/songwriter/producers of R&B from the Caribbean. Singer and composer with international recognition. Available through Export Saint Lucia / Music Saint Lucia platform.",
+    "short_description": "One of the most prolific singer/songwriter/producers of R&B from the Caribbean. Singer and composer with international recognition. Available through Export Saint Lucia / Music Saint Lucia platform.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d6d345ba",
+    "name": "Freezy (Johnnick Leo)",
+    "slug": "freezy-johnnick-leo",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Dennery Segment soca artist and songwriter. Hit single 'Split In The Middle' (2017) amassed 17 million+ YouTube views. Pioneer alongside Motto and Mighty in incorporating English lyrics into Dennery Segment, raising the genre's international profile. Team Foxx Music artist.",
+    "short_description": "Dennery Segment soca artist and songwriter. Hit single 'Split In The Middle' (2017) amassed 17 million+ YouTube views. Pioneer alongside Motto and Mighty in incorporating English lyrics into Dennery S",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-a5d444d8",
+    "name": "Subance (Gervan Janvier)",
+    "slug": "subance-gervan-janvier",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Dennery Segment/Soca/Zouk/Dancehall artist. Also known as Belpap. Top Dennery artist who crystallized the genre with hit riddims. Songs: 'Feh Ah,' 'Sue Say,' 'Bad in BumBum,' 'Back Bend.' Performed at World Creole Music Festival (Dominica). Links and socials via Linktree.",
+    "short_description": "Dennery Segment/Soca/Zouk/Dancehall artist. Also known as Belpap. Top Dennery artist who crystallized the genre with hit riddims. Songs: 'Feh Ah,' 'Sue Say,' 'Bad in BumBum,' 'Back Bend.' Performed at",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-6f15e4d5",
+    "name": "Bossla (Mad B)",
+    "slug": "bossla-mad-b",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Saint Lucian reggae and dancehall musician. Album 'Gsum Everyday' (2023). Growing following with songs causing a stir in the music business. YouTube: youtube.com/channel/UCdfJ5twGHo1sqrjmCF2KkLg",
+    "short_description": "Saint Lucian reggae and dancehall musician. Album 'Gsum Everyday' (2023). Growing following with songs causing a stir in the music business. YouTube: youtube.com/channel/UCdfJ5twGHo1sqrjmCF2KkLg",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": "bossla_758",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-abcb35d3",
+    "name": "Disturbing Joan",
+    "slug": "disturbing-joan",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Rock and reggae fusion band. Started as surfers in Saint Lucia. Cut their teeth in Rodney Bay's bar scene in the late 1990s. Opened for Malcolm Jamal Warner's band at Jazz on the Square (2001). Debut album 'Bush Tea' (2002) earned M&C Fine Arts music award. Known for clever fusion of rock and reggae.",
+    "short_description": "Rock and reggae fusion band. Started as surfers in Saint Lucia. Cut their teeth in Rodney Bay's bar scene in the late 1990s. Opened for Malcolm Jamal Warner's band at Jazz on the Square (2001). Debut ",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-235caef3",
+    "name": "Ezra D'FunMachine (Ezra Augustin)",
+    "slug": "ezra-d-funmachine-ezra-augustin",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Dennery Segment soca artist. Regular performer at Lucian Carnival D'Vibes events and Miami Carnival. One of the key Dennery Segment artists alongside Motto, Umpa, Subance, Blackboy. Team Foxx Music collaborator.",
+    "short_description": "Dennery Segment soca artist. Regular performer at Lucian Carnival D'Vibes events and Miami Carnival. One of the key Dennery Segment artists alongside Motto, Umpa, Subance, Blackboy. Team Foxx Music co",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-38ab7d37",
+    "name": "DJ Hilly",
+    "slug": "dj-hilly",
+    "whatsapp_number": null,
+    "category": {
+      "name": "DJs & Entertainment",
+      "slug": "djs",
+      "icon": "🎧"
+    },
+    "description": "Multi-genre DJ and event host. Available for parties, events, carnivals, and clubs. Booking: djhillybookings@gmail.com or officialdjhillyinfo@gmail.com",
+    "short_description": "Multi-genre DJ and event host. Available for parties, events, carnivals, and clubs. Booking: djhillybookings@gmail.com or officialdjhillyinfo@gmail.com",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-fe685f16",
+    "name": "Sir Lance (Lance Mongroo)",
+    "slug": "sir-lance-lance-mongroo",
+    "whatsapp_number": null,
+    "category": {
+      "name": "DJs & Entertainment",
+      "slug": "djs",
+      "icon": "🎧"
+    },
+    "description": "Lucian Carnival Ambassador, Bounty Rum Ambassador, DJ, voiceover talent, and music producer. Former radio DJ at RCI and Blazin FM. Known as 'Knight of the DJ Round Table.' Energetic DJ and soca star. Available for events, carnival shows, corporate functions, and clubs.",
+    "short_description": "Lucian Carnival Ambassador, Bounty Rum Ambassador, DJ, voiceover talent, and music producer. Former radio DJ at RCI and Blazin FM. Known as 'Knight of the DJ Round Table.' Energetic DJ and soca star. ",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-38ba9a54",
+    "name": "LUCELEC PanTime Steel Orchestra",
+    "slug": "lucelec-pantime-steel-orchestra",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel band managed by Cecil 'Tortee' Philgence. Captain: Mynell 'Shiki' Lovence. Arranger: Mynell Lovence. One of Saint Lucia's top steel orchestras sponsored by LUCELEC. Available for events, festivals, weddings, corporate functions. Email: pantimesteel@gmail.com / pantimeso@hotmail.com. Alt phone: +1758-450-9921",
+    "short_description": "Steel band managed by Cecil 'Tortee' Philgence. Captain: Mynell 'Shiki' Lovence. Arranger: Mynell Lovence. One of Saint Lucia's top steel orchestras sponsored by LUCELEC. Available for events, festiva",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-716-2040",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-39ceab28",
+    "name": "Laborie Steel Pan",
+    "slug": "laborie-steel-pan",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel band directed by Quill Barthelemy. Musical Director: Andrius Edwide. Captain: Christopher V. Chicot (461-7382) / Joshua Muroi. Email: laborie.pan@gmail.com",
+    "short_description": "Steel band directed by Quill Barthelemy. Musical Director: Andrius Edwide. Captain: Christopher V. Chicot (461-7382) / Joshua Muroi. Email: laborie.pan@gmail.com",
+    "district": "Laborie",
+    "areas_served": [
+      "Laborie"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-488-0665",
+    "website": null,
+    "facebook": "labouriesteelpan",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f725e654",
+    "name": "Canbeats/SM Steel (Soufriere/Canaries)",
+    "slug": "canbeats-sm-steel-soufriere-canaries",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel band led by Lance Shepherd. Captain: Twinkle St. Cyr. Active in the Soufriere and Canaries area. Member of St. Lucia National Steelbands Association.",
+    "short_description": "Steel band led by Lance Shepherd. Captain: Twinkle St. Cyr. Active in the Soufriere and Canaries area. Member of St. Lucia National Steelbands Association.",
+    "district": "Soufriere",
+    "areas_served": [
+      "Soufriere"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-733-5492",
+    "website": null,
+    "facebook": null,
+    "instagram": "canaries_beats",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-8635592e",
+    "name": "Pantastic Muzik Steel Orchestra",
+    "slug": "pantastic-muzik-steel-orchestra",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel orchestra led by Krystal Nestor. Captain: Catherine Edmund. Member of St. Lucia National Steelbands Association.",
+    "short_description": "Steel orchestra led by Krystal Nestor. Captain: Catherine Edmund. Member of St. Lucia National Steelbands Association.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-287-9600",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-a9972c3a",
+    "name": "Courts Babonneau Steel Orchestra",
+    "slug": "courts-babonneau-steel-orchestra",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel orchestra led by Music Director Allison Marquis. Manager: Marylin McDonald (+1758-721-5387). Captain: Jamil McDonald. Based in the Babonneau community. Tuners: Ivan Smith, Mario Joseph.",
+    "short_description": "Steel orchestra led by Music Director Allison Marquis. Manager: Marylin McDonald (+1758-721-5387). Captain: Jamil McDonald. Based in the Babonneau community. Tuners: Ivan Smith, Mario Joseph.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-484-3090",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-eddf7be8",
+    "name": "St. Lucy Steel Pan Orchestra",
+    "slug": "st-lucy-steel-pan-orchestra",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "Steel pan orchestra led by Owairan Nakai Actil (also PRO of the St. Lucia National Steelbands Association). Manager: Denise Charlery.",
+    "short_description": "Steel pan orchestra led by Owairan Nakai Actil (also PRO of the St. Lucia National Steelbands Association). Manager: Denise Charlery.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-724-1980",
+    "website": null,
+    "facebook": null,
+    "instagram": "st.lucy_spo",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-aeea1a2c",
+    "name": "St. Lucia National Steelbands Association (NSA)",
+    "slug": "st-lucia-national-steelbands-association-nsa",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Steel Bands",
+      "slug": "steel-bands",
+      "icon": "🥁"
+    },
+    "description": "The umbrella association for all steel bands in Saint Lucia. President: Ms. Perline Mathurin. Treasurer: Mynell Lovence (+1758-732-0440). Email: luciansteelpan@gmail.com. Coordinates steel band events, competitions, and bookings for carnival and other events. Contact for connecting with any steel band on the island.",
+    "short_description": "The umbrella association for all steel bands in Saint Lucia. President: Ms. Perline Mathurin. Treasurer: Mynell Lovence (+1758-732-0440). Email: luciansteelpan@gmail.com. Coordinates steel band events",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-285-6221",
+    "website": "https://carnivalsaintlucia.com/n-s-a/",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-2f2815de",
+    "name": "Honeypea Digital",
+    "slug": "honeypea-digital",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Recording Studios",
+      "slug": "recording-studios",
+      "icon": "🎙️"
+    },
+    "description": "Music production, mixing and mastering studio run by Jason Simon. Also offers photography and web design. Certified mix engineer. Over a decade of creative work from Saint Lucia. Email: jsimon@honeypeadigital.com",
+    "short_description": "Music production, mixing and mastering studio run by Jason Simon. Also offers photography and web design. Certified mix engineer. Over a decade of creative work from Saint Lucia. Email: jsimon@honeype",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://honeypeadigital.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f22b6cb8",
+    "name": "Fineline Graphics AV",
+    "slug": "fineline-graphics-av",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Sound & AV Rental",
+      "slug": "sound-av-rental",
+      "icon": "🔊"
+    },
+    "description": "Premier audio-visual conference equipment and services provider. Rentals: audio gear, sound systems, karaoke machines, speakers, projection systems, photo booths, lighting, staging, graphics. Full production setup including microphones and screens. Serves events from small meetings to large concerts. Address: Morne Fortune Box GM 756, Castries.",
+    "short_description": "Premier audio-visual conference equipment and services provider. Rentals: audio gear, sound systems, karaoke machines, speakers, projection systems, photo booths, lighting, staging, graphics. Full pro",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-452-6663",
+    "website": "https://finelinegraphicsav.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d7533e00",
+    "name": "Club Red",
+    "slug": "club-red",
+    "whatsapp_number": null,
+    "category": {
+      "name": "DJs & Entertainment",
+      "slug": "djs",
+      "icon": "🎧"
+    },
+    "description": "Nightclub and entertainment venue in Castries. Features live music, DJ services, and themed parties. Modern decor and state-of-the-art sound systems. Open daily 2 PM to 2 AM. Regular karaoke nights and special events. DJs spin mix of local and international music.",
+    "short_description": "Nightclub and entertainment venue in Castries. Features live music, DJ services, and themed parties. Modern decor and state-of-the-art sound systems. Open daily 2 PM to 2 AM. Regular karaoke nights an",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-458-9875",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-0ec3541d",
+    "name": "Claudia Edward",
+    "slug": "claudia-edward",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. YouTube: ClaudiaEdwardvideos. Available for festivals, events, and private bookings.",
+    "short_description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. YouTube: ClaudiaEdwardvideos. Available for festivals, events, and private bookings.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": "claudiatheperformer",
+    "instagram": "claudia.tedward",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c71ea394",
+    "name": "Chrycee Charlemagne",
+    "slug": "chrycee-charlemagne",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. YouTube: Chrycee channel. Available for performances and events.",
+    "short_description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. YouTube: Chrycee channel. Available for performances and events.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": "chryceemusique",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c03a1862",
+    "name": "Arthur Allain",
+    "slug": "arthur-allain",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Saint Lucian singer and composer. Reggae artist with growing international following (2.4K Viberate popularity score). Export Saint Lucia artist roster member.",
+    "short_description": "Saint Lucian singer and composer. Reggae artist with growing international following (2.4K Viberate popularity score). Export Saint Lucia artist roster member.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": "evalucian.arthur",
+    "instagram": "arthurallain758",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-be027423",
+    "name": "Irvin 'Ace' Loctar",
+    "slug": "irvin-ace-loctar",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. YouTube: SuperBadboy99999.",
+    "short_description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. YouTube: SuperBadboy99999.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": "loctar",
+    "instagram": "ace758",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-93a00f1b",
+    "name": "Blackboy",
+    "slug": "blackboy",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Top Dennery Segment soca/hip-hop artist. Known for hit 'Firefighter.' Regular collaborator with Motto and Team Foxx Music. Songs include 'Bum Chick' (ft. Supa Nytro), 'Fey (Do It),' 'Pou Mwen' (with Motto). Team Foxx booking: dexterrthomas@gmail.com",
+    "short_description": "Top Dennery Segment soca/hip-hop artist. Known for hit 'Firefighter.' Regular collaborator with Motto and Team Foxx Music. Songs include 'Bum Chick' (ft. Supa Nytro), 'Fey (Do It),' 'Pou Mwen' (with M",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5f059bee",
+    "name": "Sally Elwin",
+    "slug": "sally-elwin",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. Available for festivals, events, and private bookings.",
+    "short_description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. Available for festivals, events, and private bookings.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-386dc2a5",
+    "name": "Big Sea",
+    "slug": "big-sea",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. YouTube: blubbercj. Soca and Caribbean fusion artist.",
+    "short_description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. YouTube: blubbercj. Soca and Caribbean fusion artist.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": "casimbigseajames",
+    "instagram": "bigsea_twaka",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-83c73fa2",
+    "name": "Sedale Simei",
+    "slug": "sedale-simei",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. Dennery Segment/Soca collaborator. YouTube channel active.",
+    "short_description": "Saint Lucian singer and composer. Export Saint Lucia artist roster member. Dennery Segment/Soca collaborator. YouTube channel active.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": "sedale_dts",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-c3fa516c",
+    "name": "Rob Zi & Phyness",
+    "slug": "rob-zi-phyness",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Musicians & Bands",
+      "slug": "musicians",
+      "icon": "🎵"
+    },
+    "description": "Saint Lucian singer/composer duo. Export Saint Lucia artist roster member. YouTube active.",
+    "short_description": "Saint Lucian singer/composer duo. Export Saint Lucia artist roster member. YouTube active.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": "robziiandphyness",
+    "instagram": "robzii_phyness",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-12d39299",
+    "name": "Blazin 99.3 FM DJs",
+    "slug": "blazin-99-3-fm-djs",
+    "whatsapp_number": null,
+    "category": {
+      "name": "DJs & Entertainment",
+      "slug": "djs",
+      "icon": "🎧"
+    },
+    "description": "Saint Lucia's popular urban youth radio station (ages 15-40). Has the most endorsed radio personalities and most popular radio DJs that play at events and clubs. DJs include King J.V., Rochelle, Mega B, and Sir Lance. Contact station for DJ bookings at events, parties, and clubs.",
+    "short_description": "Saint Lucia's popular urban youth radio station (ages 15-40). Has the most endorsed radio personalities and most popular radio DJs that play at events and clubs. DJs include King J.V., Rochelle, Mega ",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-450-9494",
+    "website": "https://www.blazin993.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-5a24b441",
+    "name": "Motion Studios St. Lucia",
+    "slug": "motion-studios-st-lucia",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Dance Schools & Studios",
+      "slug": "dance-schools",
+      "icon": "💃"
+    },
+    "description": "Dance and fitness studio founded by Tennail Thomas-Wolff. Classes for kids (4-12), teens (13-17), and adults (18+). Styles include modern, contemporary, Zumba, burlesque, soca abs/bums/thighs, African dance, pole fitness, and gymnastics for children. Also offers women's fitness programs (SheSculpt). Located at Sportivo Center / Aquatic Center area, Rodney Heights.",
+    "short_description": "Dance and fitness studio founded by Tennail Thomas-Wolff. Classes for kids (4-12), teens (13-17), and adults (18+). Styles include modern, contemporary, Zumba, burlesque, soca abs/bums/thighs, African",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-720-0003",
+    "website": "https://motionstudiosslu.com",
+    "facebook": "motionstudiosstlucia",
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-a7e64bc0",
+    "name": "SHR 758 (Shartoya Jn. Baptiste)",
+    "slug": "shr-758-shartoya-jn-baptiste",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Dance Schools & Studios",
+      "slug": "dance-schools",
+      "icon": "💃"
+    },
+    "description": "Caribbean dance brand by Shartoya Jn. Baptiste, choreographer and scenic designer. Offers informal dance classes for all levels, merging Caribbean culture with contemporary choreography. Styles: contemporary, African, Caribbean, traditional Saint Lucian folk. Hosts 'The SHR Experience' — a 4-day international workshop led by professional choreographers that supports the local dance sector. Has choreographed for music videos, concerts (U4RIA, Guinness Amplify), and soca artistes. A portion of workshop ticket sales reinvested into local dance communities.",
+    "short_description": "Caribbean dance brand by Shartoya Jn. Baptiste, choreographer and scenic designer. Offers informal dance classes for all levels, merging Caribbean culture with contemporary choreography. Styles: conte",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://www.shr758.com",
+    "facebook": "shr758",
+    "instagram": "shr758_",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-b96143ba",
+    "name": "Legacy Dance Academy St. Lucia",
+    "slug": "legacy-dance-academy-st-lucia",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Dance Schools & Studios",
+      "slug": "dance-schools",
+      "icon": "💃"
+    },
+    "description": "Dance academy offering classes and registration. Contact Ashel Gabriel for enrollment. Active Instagram presence featuring dance classes and events.",
+    "short_description": "Dance academy offering classes and registration. Contact Ashel Gabriel for enrollment. Active Instagram presence featuring dance classes and events.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-716-4498",
+    "website": null,
+    "facebook": null,
+    "instagram": "legacydance758",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-19fa205a",
+    "name": "St. Lucia School of Ballet and Modern Dance",
+    "slug": "st-lucia-school-of-ballet-and-modern-dance",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Dance Schools & Studios",
+      "slug": "dance-schools",
+      "icon": "💃"
+    },
+    "description": "Founded in 1979 by Mrs. Theresa Lowrie-Collymore (RAD RTS, AISTD, SLMM, SLMH). The longest-running dance school on the island — celebrated 45th anniversary in 2024. Specializes in Classical Ballet (Royal Academy of Dance syllabi) and Modern Dance (Imperial Society of Teachers of Dancing syllabi). Two locations serving north and south of the island. Notable alumni include Richard Ambrose (choreographer, actor) and other professional dancers.",
+    "short_description": "Founded in 1979 by Mrs. Theresa Lowrie-Collymore (RAD RTS, AISTD, SLMM, SLMH). The longest-running dance school on the island — celebrated 45th anniversary in 2024. Specializes in Classical Ballet (Ro",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-02894803",
+    "name": "Silver Shadow Performing Arts Academy",
+    "slug": "silver-shadow-performing-arts-academy",
+    "whatsapp_number": "+1758-519-7895",
+    "category": {
+      "name": "Dance Schools & Studios",
+      "slug": "dance-schools",
+      "icon": "💃"
+    },
+    "description": "One of Saint Lucia's leading cultural youth organizations, operating since 1991. After-school performing arts program. Dance styles: Traditional, Modern, Contemporary, Afro-Caribbean, and Hip Hop. Also offers Theatre Arts training aligned with CXC Theatre Arts syllabus. Previously housed in the Intramacs building (former Monroe College). Has performed at the National Dance Festival in St. Vincent and regional events. Annual recitals and productions.",
+    "short_description": "One of Saint Lucia's leading cultural youth organizations, operating since 1991. After-school performing arts program. Dance styles: Traditional, Modern, Contemporary, Afro-Caribbean, and Hip Hop. Als",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-717-1207",
+    "website": "http://silvershadowdance.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-f3c10143",
+    "name": "Saint Lucia Dance Academy",
+    "slug": "saint-lucia-dance-academy",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Dance Schools & Studios",
+      "slug": "dance-schools",
+      "icon": "💃"
+    },
+    "description": "Dance academy located in Castries offering dance instruction.",
+    "short_description": "Dance academy located in Castries offering dance instruction.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-92c151a1",
+    "name": "Tribe of Twel",
+    "slug": "tribe-of-twel",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Carnival Mas Bands",
+      "slug": "carnival-bands",
+      "icon": "🎭"
+    },
+    "description": "Dominant carnival mas band formed in 2015 by Marlene Warner. 'Twel' is the Kweyol word for cloth — derived from comments that their predecessor Rituals Carnival Band used 'too much cloth.' Won Band of the Year in 2024 and retained the title in 2025 with theme 'Bel Wad Ek Soulye.' Known for elaborate costume designs and cultural themes.",
+    "short_description": "Dominant carnival mas band formed in 2015 by Marlene Warner. 'Twel' is the Kweyol word for cloth — derived from comments that their predecessor Rituals Carnival Band used 'too much cloth.' Won Band of",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-720-8896",
+    "website": "https://twel247.wixsite.com/saintlucia",
+    "facebook": null,
+    "instagram": "tribeoftwel",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-53943c64",
+    "name": "Just 4 Fun Carnival",
+    "slug": "just-4-fun-carnival",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Carnival Mas Bands",
+      "slug": "carnival-bands",
+      "icon": "🎭"
+    },
+    "description": "One of Saint Lucia's most established carnival bands, celebrating 25 years in 2025. Led by Veil Tobierre. 'The Movement, The Vibe, The Mas.' Placed third in 2025 Parade of the Bands. Offers costumes, events, and carnival packages. Email: info@just4funcarnival.com.",
+    "short_description": "One of Saint Lucia's most established carnival bands, celebrating 25 years in 2025. Led by Veil Tobierre. 'The Movement, The Vibe, The Mas.' Placed third in 2025 Parade of the Bands. Offers costumes, ",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://just4funcarnival.com",
+    "facebook": null,
+    "instagram": "just4funcarnival",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-73a38249",
+    "name": "Scandal Mas",
+    "slug": "scandal-mas",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Carnival Mas Bands",
+      "slug": "carnival-bands",
+      "icon": "🎭"
+    },
+    "description": "Saint Lucia's newest mas band, debuting in 2025 Carnival with theme 'Seduction & Scandal.' A carnival band inspiring connection, cultural pride, and unforgettable memories. Team includes Giovanni Charles, Clare Alfred, and Rogers Fernando Glace.",
+    "short_description": "Saint Lucia's newest mas band, debuting in 2025 Carnival with theme 'Seduction & Scandal.' A carnival band inspiring connection, cultural pride, and unforgettable memories. Team includes Giovanni Char",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": "scandalmas",
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-92004b79",
+    "name": "Back In Time Inc",
+    "slug": "back-in-time-inc",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Carnival Mas Bands",
+      "slug": "carnival-bands",
+      "icon": "🎭"
+    },
+    "description": "Premier J'ouvert band — 'Jouvert Done Right!' Caters to a more mature crowd with an organized, high-energy J'ouvert experience during Saint Lucia Carnival.",
+    "short_description": "Premier J'ouvert band — 'Jouvert Done Right!' Caters to a more mature crowd with an organized, high-energy J'ouvert experience during Saint Lucia Carnival.",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": "https://backintimeinc.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-684f2968",
+    "name": "Youth S.P.A.C. (Youth Studying Performing Arts & Culture)",
+    "slug": "youth-s-p-a-c-youth-studying-performing-arts-culture",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Theatre & Drama",
+      "slug": "theatre-drama",
+      "icon": "🎭"
+    },
+    "description": "Youth theatre and performing arts organization working with young people since 2007. Creative Director: Kentillia Louis (longtime lecturer, casting director, and cultural officer). Offers year-round theatre programs, drama presentations, and productions. Collaborates with UNESCO and regional organizations for social and behavioral change through theatre. Past productions include 'She.lc' and other original works.",
+    "short_description": "Youth theatre and performing arts organization working with young people since 2007. Creative Director: Kentillia Louis (longtime lecturer, casting director, and cultural officer). Offers year-round t",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-457-9021",
+    "website": "https://youthspac.org",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-12e0860c",
+    "name": "Folk Research Centre (FRC)",
+    "slug": "folk-research-centre-frc",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Cultural Performance",
+      "slug": "cultural-performance",
+      "icon": "🪘"
+    },
+    "description": "Established 1973 by Father Patrick Anthony. Non-governmental, membership-based, not-for-profit organization preserving Saint Lucia's traditional culture. Supports practice and exhibition of traditional dances including the Kwadril (quadrille), Bele, and other folk forms during community events and festivals. Produced the 1994 Smithsonian Folkways album 'Musical Traditions of St. Lucia, West Indies.' Also reachable at (758) 453-1477. Fax: (758) 451-9365. Email: frc@candw.lc. Hours: Mon-Fri 8:30am-4:30pm. P.O. Box 514, Castries.",
+    "short_description": "Established 1973 by Father Patrick Anthony. Non-governmental, membership-based, not-for-profit organization preserving Saint Lucia's traditional culture. Supports practice and exhibition of traditiona",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-452-2279",
+    "website": "https://www.stluciafolk.org",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-de4998ad",
+    "name": "Helen Folk Dancers",
+    "slug": "helen-folk-dancers",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Dance Troupes",
+      "slug": "dance-troupes",
+      "icon": "👯"
+    },
+    "description": "Traditional folk dance group performing Saint Lucian cultural dances including the Kwadril, Bele, and other Afro-Caribbean folk forms. Founding members include Christopher Duncan. Notable member Jaimie Forde began his career at age seven with the group. Can be contacted through the Folk Research Centre or Cultural Development Foundation.",
+    "short_description": "Traditional folk dance group performing Saint Lucian cultural dances including the Kwadril, Bele, and other Afro-Caribbean folk forms. Founding members include Christopher Duncan. Notable member Jaimi",
+    "district": "Saint Lucia",
+    "areas_served": [
+      "Saint Lucia"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-6edcbf61",
+    "name": "Richard Ambrose (Choreographer / Performer)",
+    "slug": "richard-ambrose-choreographer-performer",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Cultural Performance",
+      "slug": "cultural-performance",
+      "icon": "🪘"
+    },
+    "description": "Celebrated Saint Lucian actor, choreographer, and dancer. Trained in RAD Classical Ballet and Modern Dance with ISTD. Holds French teaching diplomas in Jazz and Contemporary Dance. Past student of St. Lucia School of Ballet and Modern Dance. Creator of 'Belelesh' — a theatrical dance production fusing folk dance Bele with contemporary, modern and Latin dance. Represented Saint Lucia at Carifesta XIII (Barbados). Presented research on traditional dances at UWI symposium. Available for choreography, theatrical productions, and cultural performances.",
+    "short_description": "Celebrated Saint Lucian actor, choreographer, and dancer. Trained in RAD Classical Ballet and Modern Dance with ISTD. Holds French teaching diplomas in Jazz and Contemporary Dance. Past student of St.",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-0fccc358",
+    "name": "Youth in Arts Theatre Company",
+    "slug": "youth-in-arts-theatre-company",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Theatre & Drama",
+      "slug": "theatre-drama",
+      "icon": "🎭"
+    },
+    "description": "Theatre company for young people based at 758 Books, La Clery. Mailing address: P.O. Box BW470, Gros Islet. Offers drama, acting, and performance training for youth.",
+    "short_description": "Theatre company for young people based at 758 Books, La Clery. Mailing address: P.O. Box BW470, Gros Islet. Offers drama, acting, and performance training for youth.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-d9449143",
+    "name": "That's Wassup Productions (Hierland Peter)",
+    "slug": "that-s-wassup-productions-hierland-peter",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Theatre & Drama",
+      "slug": "theatre-drama",
+      "icon": "🎭"
+    },
+    "description": "Theatre production company founded by Hierland Peter, focused on providing opportunities for young Saint Lucians (ages 17-35) to showcase skills in theatre arts. Features a crew and cast of young, talented performers. Mailing: P.O. Box 1146, Castries.",
+    "short_description": "Theatre production company founded by Hierland Peter, focused on providing opportunities for young Saint Lucians (ages 17-35) to showcase skills in theatre arts. Features a crew and cast of young, tal",
+    "district": "Castries",
+    "areas_served": [
+      "Castries"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-1654a9f7",
+    "name": "Yoga on the Bay / Yoga St. Lucia (Jill Hagar)",
+    "slug": "yoga-on-the-bay-yoga-st-lucia-jill-hagar",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Dance Schools & Studios",
+      "slug": "dance-schools",
+      "icon": "💃"
+    },
+    "description": "Saint Lucia's leading yoga studio, the only fully equipped yoga studio on the island. Founded and directed by Jill Hagar — Certified Junior I Intermediate Iyengar Yoga Instructor and Internationally Certified Yoga Therapist with 21+ years teaching. Classes Mon/Wed 9:30-11am & 6-7:30pm, Sat 10:45-12noon. Located behind Harmony Marine Suites, Reduit Beach Avenue, Rodney Bay. Also at (758) 461-5151. Email: yogaonthebay.slu@gmail.com. Workshops and retreats available.",
+    "short_description": "Saint Lucia's leading yoga studio, the only fully equipped yoga studio on the island. Founded and directed by Jill Hagar — Certified Junior I Intermediate Iyengar Yoga Instructor and Internationally C",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-458-5151",
+    "website": "https://jillyogastlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-682081c6",
+    "name": "Sol Sanctum Wellness Studio",
+    "slug": "sol-sanctum-wellness-studio",
+    "whatsapp_number": null,
+    "category": {
+      "name": "Dance Schools & Studios",
+      "slug": "dance-schools",
+      "icon": "💃"
+    },
+    "description": "Boutique wellness hotel and yoga studio founded by Wendell and Marise Skeete (30+ years teaching Art of Living Meditation & Breathwork). Large airy studio upstairs with weekly class schedule: yoga, Pilates, resistance training, breathwork, meditation, Alexander Technique, neuro-movement, group healing, and conscious movement/dance classes. Smoke and alcohol-free property. Located on Palm Drive, Rodney Bay.",
+    "short_description": "Boutique wellness hotel and yoga studio founded by Wendell and Marise Skeete (30+ years teaching Art of Living Meditation & Breathwork). Large airy studio upstairs with weekly class schedule: yoga, Pi",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-572-2727",
+    "website": "https://www.solsanctum.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
+  },
+  {
+    "id": "svc-e7028404",
+    "name": "Natural Vibes Saint Lucia",
+    "slug": "natural-vibes-saint-lucia",
+    "whatsapp_number": "+1758-712-5365",
+    "category": {
+      "name": "Dance Schools & Studios",
+      "slug": "dance-schools",
+      "icon": "💃"
+    },
+    "description": "Roots and culture experience studio. Offers private yoga lessons for small groups (kids, adults, families) in their art/yoga studio or rooftop space. Also offers art classes and water/land excursions. Flexible scheduling — contact to arrange personal class times. Email: passionandtafari@gmail.com.",
+    "short_description": "Roots and culture experience studio. Offers private yoga lessons for small groups (kids, adults, families) in their art/yoga studio or rooftop space. Also offers art classes and water/land excursions.",
+    "district": "Gros Islet",
+    "areas_served": [
+      "Gros Islet"
+    ],
+    "price_info": null,
+    "hours": null,
+    "phone": "+1758-712-5365",
+    "website": "https://naturalvibesaintlucia.com",
+    "facebook": null,
+    "instagram": null,
+    "status": "active",
+    "verified": false,
+    "verified_date": null,
+    "featured": false,
+    "view_count": 0,
+    "click_count": 0
   }
 ]
