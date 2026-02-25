@@ -1242,6 +1242,27 @@ p:last-child { margin-bottom: 0; }
   white-space: nowrap;
   border-width: 0;
 }
+.skip-to-content:focus {
+  position: fixed;
+  top: 4px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 99999;
+  width: auto;
+  height: auto;
+  padding: 8px 16px;
+  margin: 0;
+  overflow: visible;
+  clip: auto;
+  white-space: nowrap;
+  background: var(--teal);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-decoration: none;
+  border-radius: var(--radius-full, 9999px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
 
 /* ============================================================
    PERSONA SELECTOR (Homepage)

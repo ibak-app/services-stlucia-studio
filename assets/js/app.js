@@ -526,7 +526,7 @@ async function initPersonaSelector() {
   var cards = '';
   for (var i = 0; i < data.personas.length; i++) {
     var p = data.personas[i];
-    cards += '<a href="/for/' + p.id + '.html" class="persona-card" data-persona="' + p.id + '">';
+    cards += '<a href="/for/' + p.id + '.html" class="persona-card" role="listitem" data-persona="' + p.id + '">';
     cards += '<div class="persona-card-icon">' + p.icon + '</div>';
     cards += '<div class="persona-card-label">' + escapeHtml(p.label) + '</div>';
     cards += '<div class="persona-card-desc">' + escapeHtml(p.short) + '</div>';
