@@ -1,27 +1,24 @@
 /* ============================================================
-   SLU Services Directory — Service Worker v1.0.0
+   SLU Services Directory — Service Worker v2.0.0
    Cache-first for static assets. Network-first for data.
    ============================================================ */
 
-const CACHE_VERSION = 'slu-services-v1.0.0';
-const DATA_CACHE = 'slu-services-data-v1.0.0';
+const CACHE_VERSION = 'slu-services-v2.0.0';
+const DATA_CACHE = 'slu-services-data-v2.0.0';
 
 const PRECACHE_ASSETS = [
   '/',
   '/index.html',
-  '/browse.html',
-  '/search.html',
-  '/listing.html',
   '/about.html',
+  '/privacy.html',
+  '/terms.html',
   '/offline.html',
-  '/assets/css/style.css',
-  '/assets/js/app.js',
+  '/assets/js/super-nav.js',
   '/manifest.json',
 ];
 
 const DATA_URLS = [
-  '/data/services.json',
-  '/data/categories.json',
+  '/data/data.json',
 ];
 
 /* --- Install: Precache core assets ------------------------- */
@@ -55,7 +52,7 @@ self.addEventListener('fetch', event => {
   const { request } = event;
   const url = new URL(request.url);
 
-  // Skip non-GET and cross-origin requests (except our own)
+  // Skip non-GET and cross-origin requests
   if (request.method !== 'GET') return;
   if (!url.origin.includes('services.stlucia.studio') && !url.hostname.includes('localhost')) return;
 
